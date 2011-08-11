@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Duress"/>
+        <card number="3" name="Island"/>
+        <card number="4" name="Force of Will"/>
+        <card number="1" name="Merchant Scroll"/>
+        <card number="1" name="Gifts Ungiven"/>
+        <card number="1" name="Necropotence"/>
+        <card number="1" name="Blightsteel Colossus"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="4" name="Gush"/>
+        <card number="4" name="Polluted Delta"/>
+        <card number="1" name="Hurkyl's Recall"/>
+        <card number="1" name="Mind's Desire"/>
+        <card number="1" name="Tendrils of Agony"/>
+        <card number="1" name="Mana Crypt"/>
+        <card number="1" name="Fastbond"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="3" name="Underground Sea"/>
+        <card number="1" name="Ancestral Recall"/>
+        <card number="1" name="Timetwister"/>
+        <card number="1" name="Mox Pearl"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="2" name="Tropical Island"/>
+        <card number="1" name="Time Vault"/>
+        <card number="1" name="Black Lotus"/>
+        <card number="1" name="Mox Ruby"/>
+        <card number="1" name="Time Walk"/>
+        <card number="1" name="Mox Emerald"/>
+        <card number="1" name="Mox Sapphire"/>
+        <card number="1" name="Mox Jet"/>
+        <card number="1" name="Yawgmoth's Bargain"/>
+        <card number="1" name="Tinker"/>
+        <card number="1" name="Yawgmoth's Will"/>
+        <card number="1" name="Voltaic Key"/>
+        <card number="4" name="Dark Ritual"/>
+        <card number="1" name="Vampiric Tutor"/>
+        <card number="3" name="Misty Rainforest"/>
+        <card number="1" name="Steel Sabotage"/>
+        <card number="1" name="Praetor's Grasp"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Oath of Druids"/>
+        <card number="1" name="Yixlid Jailer"/>
+        <card number="3" name="Leyline of the Void"/>
+        <card number="1" name="Hurkyl's Recall"/>
+        <card number="1" name="Nihil Spellbomb"/>
+        <card number="1" name="Mindbreak Trap"/>
+        <card number="3" name="Steel Sabotage"/>
+        <card number="1" name="Praetor's Grasp"/>
+    </zone>
+</cockatrice_deck>

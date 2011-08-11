@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Thelon of Havenwood"/>
+        <card number="4" name="Thallid"/>
+        <card number="4" name="Sporesower Thallid"/>
+        <card number="4" name="Psychotrope Thallid"/>
+        <card number="4" name="Helm of Possession"/>
+        <card number="4" name="Maelstrom Pulse"/>
+        <card number="4" name="Bayou"/>
+        <card number="4" name="Verdant Catacombs"/>
+        <card number="10" name="Forest"/>
+        <card number="4" name="Green Sun's Zenith"/>
+        <card number="4" name="Thoughtseize"/>
+        <card number="4" name="Hymn to Tourach"/>
+        <card number="4" name="Spore Flower"/>
+        <card number="2" name="Windswept Heath"/>
+    </zone>
+</cockatrice_deck>
