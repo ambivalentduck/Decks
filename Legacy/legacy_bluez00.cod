@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Forest"/>
+        <card number="3" name="Mental Misstep"/>
+        <card number="2" name="Qasali Pridemage"/>
+        <card number="4" name="Noble Hierarch"/>
+        <card number="2" name="Knight of the Reliquary"/>
+        <card number="1" name="Dryad Arbor"/>
+        <card number="1" name="Tarmogoyf"/>
+        <card number="1" name="Karakas"/>
+        <card number="3" name="Green Sun's Zenith"/>
+        <card number="4" name="Brainstorm"/>
+        <card number="4" name="Wooded Foothills"/>
+        <card number="4" name="Windswept Heath"/>
+        <card number="4" name="Wild Nacatl"/>
+        <card number="3" name="Grim Lavamancer"/>
+        <card number="2" name="Tropical Island"/>
+        <card number="4" name="Swords to Plowshares"/>
+        <card number="1" name="Taiga"/>
+        <card number="4" name="Lightning Bolt"/>
+        <card number="1" name="Volcanic Island"/>
+        <card number="1" name="Savannah"/>
+        <card number="1" name="Tundra"/>
+        <card number="2" name="Plateau"/>
+        <card number="3" name="Jace, the Mind Sculptor"/>
+        <card number="2" name="Misty Rainforest"/>
+        <card number="1" name="Scavenging Ooze"/>
+        <card number="1" name="Edric, Spymaster of Trest"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Aven Mindcensor"/>
+        <card number="2" name="Phyrexian Metamorph"/>
+        <card number="1" name="Gaddock Teeg"/>
+        <card number="1" name="Thrun, the Last Troll"/>
+        <card number="1" name="Tower of the Magistrate"/>
+        <card number="2" name="Submerge"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="2" name="Ancient Grudge"/>
+        <card number="3" name="Red Elemental Blast"/>
+    </zone>
+</cockatrice_deck>
