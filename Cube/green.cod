@@ -33,7 +33,6 @@
         <card number="1" name="Sylvan Library"/>
         <card number="1" name="Harmonize"/>
         <card number="1" name="Primal Command"/>
-        <card number="1" name="Natural Order"/>
         <card number="1" name="Krosan Grip"/>
         <card number="1" name="Call of the Herd"/>
         <card number="1" name="Rancor"/>
@@ -63,5 +62,6 @@
         <card number="1" name="Phantom Centaur"/>
         <card number="1" name="Jungle Lion"/>
         <card number="1" name="Genesis"/>
+        <card number="1" name="Garruk, Primal Hunter"/>
     </zone>
 </cockatrice_deck>

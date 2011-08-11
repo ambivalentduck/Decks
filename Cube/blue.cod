@@ -34,7 +34,6 @@
         <card number="1" name="Mana Drain"/>
         <card number="1" name="Dissipate"/>
         <card number="1" name="Bribery"/>
-        <card number="1" name="Repeal"/>
         <card number="1" name="Mana Leak"/>
         <card number="1" name="Ancestral Vision"/>
         <card number="1" name="Time Spiral"/>
@@ -63,5 +62,6 @@
         <card number="1" name="Gifts Ungiven"/>
         <card number="1" name="Tezzeret's Gambit"/>
         <card number="1" name="Sphinx of Lost Truths"/>
+        <card number="1" name="Jace, Memory Adept"/>
     </zone>
 </cockatrice_deck>
