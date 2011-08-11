@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Woolly Thoctar"/>
+        <card number="1" name="Spiritmonger"/>
+        <card number="1" name="Bloodbraid Elf"/>
+        <card number="1" name="Wall of Denial"/>
+        <card number="1" name="Brion Stoutarm"/>
+        <card number="1" name="Kitchen Finks"/>
+        <card number="1" name="Sygg, River Cutthroat"/>
+        <card number="1" name="Grand Arbiter Augustin IV"/>
+        <card number="1" name="Angel of Despair"/>
+        <card number="1" name="Putrid Leech"/>
+        <card number="1" name="Mystic Snake"/>
+        <card number="1" name="Figure of Destiny"/>
+        <card number="1" name="Giant Solifuge"/>
+        <card number="1" name="Murderous Redcap"/>
+        <card number="1" name="Intet, the Dreamer"/>
+        <card number="1" name="Shadowmage Infiltrator"/>
+        <card number="1" name="Oona, Queen of the Fae"/>
+        <card number="1" name="Dromar, the Banisher"/>
+        <card number="1" name="Spellbound Dragon"/>
+        <card number="1" name="Rafiq of the Many"/>
+        <card number="1" name="Trygon Predator"/>
+        <card number="1" name="Doran, the Siege Tower"/>
+        <card number="1" name="Niv-Mizzet, the Firemind"/>
+        <card number="1" name="Broodmate Dragon"/>
+        <card number="1" name="Duergar Hedge-Mage"/>
+        <card number="1" name="Lorescale Coatl"/>
+        <card number="1" name="Burning-Tree Shaman"/>
+        <card number="1" name="Swans of Bryn Argoll"/>
+        <card number="1" name="Qasali Pridemage"/>
+        <card number="1" name="Sarkhan Vol"/>
+        <card number="1" name="Behemoth Sledge"/>
+        <card number="1" name="Death Grasp"/>
+        <card number="1" name="Undermine"/>
+        <card number="1" name="Blightning"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Electrolyze"/>
+        <card number="1" name="Agony Warp"/>
+        <card number="1" name="Stormbind"/>
+        <card number="1" name="Debtors' Knell"/>
+        <card number="1" name="Prophetic Bolt"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Maelstrom Pulse"/>
+        <card number="1" name="Pernicious Deed"/>
+        <card number="1" name="Vindicate"/>
+        <card number="1" name="Snakeform"/>
+        <card number="1" name="Ajani Vengeant"/>
+        <card number="1" name="Lightning Helix"/>
+        <card number="1" name="Bituminous Blast"/>
+        <card number="1" name="Terminate"/>
+        <card number="1" name="Sarkhan the Mad"/>
+        <card number="1" name="Glare of Subdual"/>
+        <card number="1" name="Absorb"/>
+        <card number="1" name="Mirari's Wake"/>
+        <card number="1" name="Nicol Bolas, Planeswalker"/>
+        <card number="1" name="Fire // Ice"/>
+        <card number="1" name="Hide // Seek"/>
+        <card number="1" name="Venser, the Sojourner"/>
+        <card number="1" name="The Mimeoplasm"/>
+        <card number="1" name="Edric, Spymaster of Trest"/>
+        <card number="1" name="Ruhan of the Fomori"/>
+    </zone>
+</cockatrice_deck>
