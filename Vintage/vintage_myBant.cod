@@ -3,7 +3,6 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Misty Rainforest"/>
         <card number="4" name="Tropical Island"/>
         <card number="1" name="Black Lotus"/>
         <card number="1" name="Mox Pearl"/>
@@ -12,10 +11,8 @@
         <card number="1" name="Strip Mine"/>
         <card number="4" name="Wasteland"/>
         <card number="4" name="Noble Hierarch"/>
-        <card number="4" name="Elvish Spirit Guide"/>
         <card number="1" name="Ancestral Recall"/>
         <card number="1" name="Time Walk"/>
-        <card number="4" name="Meddling Mage"/>
         <card number="4" name="Phantasmal Image"/>
         <card number="4" name="Qasali Pridemage"/>
         <card number="4" name="Phyrexian Revoker"/>
@@ -24,15 +21,17 @@
         <card number="3" name="Scavenging Ooze"/>
         <card number="2" name="Tundra"/>
         <card number="4" name="Ancient Ziggurat"/>
-        <card number="1" name="Polluted Delta"/>
-        <card number="1" name="Scalding Tarn"/>
-        <card number="2" name="Path to Exile"/>
+        <card number="2" name="Swords to Plowshares"/>
+        <card number="4" name="Trygon Predator"/>
+        <card number="1" name="Savannah"/>
+        <card number="4" name="Windswept Heath"/>
+        <card number="2" name="Kataki, War's Wage"/>
     </zone>
     <zone name="side">
-        <card number="4" name="Kataki, War's Wage"/>
+        <card number="2" name="Kataki, War's Wage"/>
         <card number="3" name="Ghost Quarter"/>
         <card number="4" name="Flusterstorm"/>
-        <card number="3" name="Ravenous Trap"/>
-        <card number="1" name="Path to Exile"/>
+        <card number="4" name="Ravenous Trap"/>
+        <card number="1" name="Plains"/>
     </zone>
 </cockatrice_deck>

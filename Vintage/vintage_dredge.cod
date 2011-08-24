@@ -29,9 +29,9 @@
     <zone name="side">
         <card number="2" name="Ancient Grudge"/>
         <card number="4" name="Chain of Vapor"/>
-        <card number="1" name="City of Brass"/>
         <card number="2" name="Darkblast"/>
         <card number="2" name="Firestorm"/>
         <card number="4" name="Nature's Claim"/>
+        <card number="1" name="Elesh Norn, Grand Cenobite"/>
     </zone>
 </cockatrice_deck>

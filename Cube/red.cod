@@ -15,7 +15,6 @@
         <card number="1" name="Hell's Thunder"/>
         <card number="1" name="Keldon Champion"/>
         <card number="1" name="Jaya Ballard, Task Mage"/>
-        <card number="1" name="Magus of the Moon"/>
         <card number="1" name="Rakka Mar"/>
         <card number="1" name="Stigma Lasher"/>
         <card number="1" name="Sulfur Elemental"/>
@@ -63,5 +62,6 @@
         <card number="1" name="Burst Lightning"/>
         <card number="1" name="Chandra Nalaar"/>
         <card number="1" name="Goblin Wardriver"/>
+        <card number="1" name="Chandra's Phoenix"/>
     </zone>
 </cockatrice_deck>

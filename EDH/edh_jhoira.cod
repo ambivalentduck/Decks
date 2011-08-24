@@ -28,12 +28,10 @@
         <card number="1" name="Treachery"/>
         <card number="1" name="Bribery"/>
         <card number="1" name="Force of Will"/>
-        <card number="1" name="Preordain"/>
         <card number="1" name="Wheel of Fortune"/>
         <card number="1" name="Shattering Spree"/>
         <card number="1" name="Sensei's Divining Top"/>
         <card number="1" name="Darksteel Ingot"/>
-        <card number="1" name="Brainstorm"/>
         <card number="1" name="Fury Charm"/>
         <card number="1" name="Cryptic Command"/>
         <card number="1" name="Obliterate"/>
@@ -43,7 +41,6 @@
         <card number="1" name="Fact or Fiction"/>
         <card number="1" name="Time Spiral"/>
         <card number="1" name="Coalition Relic"/>
-        <card number="1" name="Gamble"/>
         <card number="1" name="Mystical Tutor"/>
         <card number="1" name="Jace Beleren"/>
         <card number="1" name="Jace, the Mind Sculptor"/>
@@ -75,7 +72,6 @@
         <card number="1" name="Wurmcoil Engine"/>
         <card number="1" name="Proteus Staff"/>
         <card number="1" name="Spinerock Knoll"/>
-        <card number="1" name="Wild Ricochet"/>
         <card number="1" name="Insurrection"/>
         <card number="1" name="Recurring Insight"/>
         <card number="1" name="Kira, Great Glass-Spinner"/>
@@ -86,14 +82,15 @@
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Spell Crumple"/>
         <card number="1" name="Scattering Stroke"/>
-        <card number="1" name="Thieves' Auction"/>
         <card number="1" name="Trade Secrets"/>
-        <card number="1" name="Redirect"/>
         <card number="1" name="Wooded Foothills"/>
-    </zone>
-    <zone name="side">
+        <card number="1" name="Intuition"/>
+        <card number="1" name="Apocalypse"/>
         <card number="1" name="Jokulhaups"/>
         <card number="1" name="Decree of Annihilation"/>
-        <card number="1" name="Apocalypse"/>
+        <card number="1" name="Gilded Drake"/>
+        <card number="1" name="Chancellor of the Spires"/>
+        <card number="1" name="Glen Elendra Archmage"/>
+        <card number="1" name="Phyrexian Metamorph"/>
     </zone>
 </cockatrice_deck>

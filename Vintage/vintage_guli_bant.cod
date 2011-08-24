@@ -3,36 +3,36 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="3" name="City of Brass"/>
-        <card number="2" name="Polluted Delta"/>
-        <card number="2" name="Scalding Tarn"/>
-        <card number="1" name="Strip Mine"/>
-        <card number="2" name="Tropical Island"/>
-        <card number="4" name="Tundra"/>
-        <card number="4" name="Wasteland"/>
-        <card number="4" name="Phyrexian Revoker"/>
-        <card number="4" name="Meddling Mage"/>
-        <card number="4" name="Noble Hierarch"/>
+        <card number="4" name="Leonin Arbiter"/>
         <card number="4" name="Phantasmal Image"/>
-        <card number="4" name="Qasali Pridemage"/>
-        <card number="3" name="Edric, Spymaster of Trest"/>
-        <card number="3" name="Elvish Spirit Guide"/>
         <card number="1" name="Ancestral Recall"/>
-        <card number="2" name="Path to Exile"/>
-        <card number="4" name="Surgical Extraction"/>
-        <card number="4" name="Swords to Plowshares"/>
         <card number="1" name="Time Walk"/>
         <card number="1" name="Black Lotus"/>
-        <card number="1" name="Mox Emerald"/>
-        <card number="1" name="Mox Pearl"/>
         <card number="1" name="Mox Sapphire"/>
+        <card number="1" name="Mox Pearl"/>
+        <card number="1" name="Mox Emerald"/>
+        <card number="4" name="Wasteland"/>
+        <card number="1" name="Strip Mine"/>
+        <card number="2" name="Ghost Quarter"/>
+        <card number="4" name="Noble Hierarch"/>
+        <card number="4" name="Elvish Spirit Guide"/>
+        <card number="4" name="Null Rod"/>
+        <card number="4" name="Trygon Predator"/>
+        <card number="3" name="Savannah"/>
+        <card number="4" name="Glowrider"/>
+        <card number="3" name="Tundra"/>
+        <card number="3" name="Phyrexian Metamorph"/>
+        <card number="3" name="Seachrome Coast"/>
+        <card number="3" name="Horizon Canopy"/>
+        <card number="3" name="Steel Sabotage"/>
+        <card number="1" name="Edric, Spymaster of Trest"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Duress"/>
-        <card number="4" name="Ghost Quarter"/>
-        <card number="2" name="Nature's Claim"/>
-        <card number="1" name="Path to Exile"/>
-        <card number="4" name="Thoughtseize"/>
-        <card number="3" name="Honor the Fallen"/>
+        <card number="3" name="Flusterstorm"/>
+        <card number="3" name="Surgical Extraction"/>
+        <card number="3" name="Ravenous Trap"/>
+        <card number="2" name="Ghost Quarter"/>
+        <card number="1" name="Pithing Needle"/>
+        <card number="3" name="Nature's Claim"/>
     </zone>
 </cockatrice_deck>

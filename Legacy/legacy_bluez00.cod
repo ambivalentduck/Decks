@@ -7,9 +7,8 @@
         <card number="3" name="Mental Misstep"/>
         <card number="2" name="Qasali Pridemage"/>
         <card number="4" name="Noble Hierarch"/>
-        <card number="2" name="Knight of the Reliquary"/>
+        <card number="3" name="Knight of the Reliquary"/>
         <card number="1" name="Dryad Arbor"/>
-        <card number="1" name="Tarmogoyf"/>
         <card number="1" name="Karakas"/>
         <card number="3" name="Green Sun's Zenith"/>
         <card number="4" name="Brainstorm"/>
@@ -25,9 +24,9 @@
         <card number="1" name="Savannah"/>
         <card number="1" name="Tundra"/>
         <card number="2" name="Plateau"/>
-        <card number="3" name="Jace, the Mind Sculptor"/>
+        <card number="2" name="Jace, the Mind Sculptor"/>
         <card number="2" name="Misty Rainforest"/>
-        <card number="1" name="Scavenging Ooze"/>
+        <card number="2" name="Scavenging Ooze"/>
         <card number="1" name="Edric, Spymaster of Trest"/>
     </zone>
     <zone name="side">
