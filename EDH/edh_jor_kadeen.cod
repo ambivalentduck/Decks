@@ -83,5 +83,6 @@
         <card number="1" name="Iona, Shield of Emeria"/>
         <card number="1" name="Urabrask the Hidden"/>
         <card number="1" name="Leonin Sun Standard"/>
+        <card number="1" name="Curse of Stalked Prey"/>
     </zone>
 </cockatrice_deck>

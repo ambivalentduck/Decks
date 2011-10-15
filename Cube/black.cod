@@ -8,7 +8,6 @@
         <card number="1" name="Oona's Prowler"/>
         <card number="1" name="Nezumi Shortfang"/>
         <card number="1" name="Ob Nixilis, the Fallen"/>
-        <card number="1" name="Bane of the Living"/>
         <card number="1" name="Carnophage"/>
         <card number="1" name="Vampire Lacerator"/>
         <card number="1" name="Skeletal Vampire"/>
@@ -20,10 +19,8 @@
         <card number="1" name="Vampire Nighthawk"/>
         <card number="1" name="Bloodghast"/>
         <card number="1" name="Dauthi Slayer"/>
-        <card number="1" name="Nightscape Familiar"/>
         <card number="1" name="Dauthi Horror"/>
         <card number="1" name="Plague Sliver"/>
-        <card number="1" name="Braids, Cabal Minion"/>
         <card number="1" name="Tombstalker"/>
         <card number="1" name="Graveborn Muse"/>
         <card number="1" name="Nirkana Revenant"/>
@@ -47,7 +44,6 @@
         <card number="1" name="Slaughter Pact"/>
         <card number="1" name="Mind Twist"/>
         <card number="1" name="Consuming Vapors"/>
-        <card number="1" name="Ribbons of Night"/>
         <card number="1" name="Phyrexian Arena"/>
         <card number="1" name="Hymn to Tourach"/>
         <card number="1" name="Recurring Nightmare"/>
@@ -60,8 +56,12 @@
         <card number="1" name="Praetor's Grasp"/>
         <card number="1" name="Sheoldred, Whispering One"/>
         <card number="1" name="Gatekeeper of Malakir"/>
-        <card number="1" name="Wretched Anurid"/>
         <card number="1" name="Sorin Markov"/>
         <card number="1" name="Dark Confidant"/>
+        <card number="1" name="Blind Creeper"/>
+        <card number="1" name="Diregraf Ghoul"/>
+        <card number="1" name="Bloodgift Demon"/>
+        <card number="1" name="Vampire Interloper"/>
+        <card number="1" name="Liliana of the Veil"/>
     </zone>
 </cockatrice_deck>

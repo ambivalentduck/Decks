@@ -60,8 +60,8 @@
         <card number="1" name="Sunder"/>
         <card number="1" name="Phyrexian Metamorph"/>
         <card number="1" name="Gifts Ungiven"/>
-        <card number="1" name="Tezzeret's Gambit"/>
         <card number="1" name="Sphinx of Lost Truths"/>
         <card number="1" name="Jace, Memory Adept"/>
+        <card number="1" name="Snapcaster Mage"/>
     </zone>
 </cockatrice_deck>

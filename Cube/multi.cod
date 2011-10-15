@@ -30,7 +30,6 @@
         <card number="1" name="Duergar Hedge-Mage"/>
         <card number="1" name="Lorescale Coatl"/>
         <card number="1" name="Burning-Tree Shaman"/>
-        <card number="1" name="Swans of Bryn Argoll"/>
         <card number="1" name="Qasali Pridemage"/>
         <card number="1" name="Sarkhan Vol"/>
         <card number="1" name="Behemoth Sledge"/>
@@ -63,5 +62,6 @@
         <card number="1" name="The Mimeoplasm"/>
         <card number="1" name="Edric, Spymaster of Trest"/>
         <card number="1" name="Ruhan of the Fomori"/>
+        <card number="1" name="Geist of Saint Traft"/>
     </zone>
 </cockatrice_deck>

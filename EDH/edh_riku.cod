@@ -83,15 +83,15 @@
         <card number="1" name="Boseiju, Who Shelters All"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Jace Beleren"/>
-        <card number="1" name="Chord of Calling"/>
         <card number="1" name="Teferi, Mage of Zhalfir"/>
         <card number="1" name="Dissipate"/>
         <card number="1" name="Sensei's Divining Top"/>
-        <card number="1" name="Wurmcoil Engine"/>
         <card number="1" name="Lonely Sandbar"/>
         <card number="1" name="Forgotten Cave"/>
         <card number="1" name="Tranquil Thicket"/>
         <card number="1" name="Life from the Loam"/>
         <card number="1" name="Body Double"/>
+        <card number="1" name="Woodfall Primus"/>
+        <card number="1" name="Fact or Fiction"/>
     </zone>
 </cockatrice_deck>

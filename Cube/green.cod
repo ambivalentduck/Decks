@@ -7,7 +7,6 @@
         <card number="1" name="Imperious Perfect"/>
         <card number="1" name="Lotus Cobra"/>
         <card number="1" name="Thornling"/>
-        <card number="1" name="Quirion Dryad"/>
         <card number="1" name="Great Sable Stag"/>
         <card number="1" name="Troll Ascetic"/>
         <card number="1" name="River Boa"/>
@@ -63,5 +62,6 @@
         <card number="1" name="Jungle Lion"/>
         <card number="1" name="Genesis"/>
         <card number="1" name="Garruk, Primal Hunter"/>
+        <card number="1" name="Scavenging Ooze"/>
     </zone>
 </cockatrice_deck>
