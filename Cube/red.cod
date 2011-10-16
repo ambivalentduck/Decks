@@ -11,18 +11,15 @@
         <card number="1" name="Blood Knight"/>
         <card number="1" name="Siege-Gang Commander"/>
         <card number="1" name="Avalanche Riders"/>
-        <card number="1" name="Hellkite Charger"/>
         <card number="1" name="Hell's Thunder"/>
         <card number="1" name="Keldon Champion"/>
         <card number="1" name="Jaya Ballard, Task Mage"/>
-        <card number="1" name="Rakka Mar"/>
         <card number="1" name="Stigma Lasher"/>
         <card number="1" name="Sulfur Elemental"/>
         <card number="1" name="Dragonmaster Outcast"/>
         <card number="1" name="Tin Street Hooligan"/>
         <card number="1" name="Hellspark Elemental"/>
         <card number="1" name="Flameblast Dragon"/>
-        <card number="1" name="Viashino Heretic"/>
         <card number="1" name="Kiki-Jiki, Mirror Breaker"/>
         <card number="1" name="Mogg Fanatic"/>
         <card number="1" name="Kird Ape"/>
@@ -37,7 +34,6 @@
         <card number="1" name="Incinerate"/>
         <card number="1" name="Sulfuric Vortex"/>
         <card number="1" name="Ancient Grudge"/>
-        <card number="1" name="Browbeat"/>
         <card number="1" name="Pillage"/>
         <card number="1" name="Wheel of Fortune"/>
         <card number="1" name="Stone Rain"/>
@@ -47,7 +43,6 @@
         <card number="1" name="Fireblast"/>
         <card number="1" name="Lightning Bolt"/>
         <card number="1" name="Koth of the Hammer"/>
-        <card number="1" name="Red Sun's Zenith"/>
         <card number="1" name="Comet Storm"/>
         <card number="1" name="Conquering Manticore"/>
         <card number="1" name="Viashino Slaughtermaster"/>
@@ -63,5 +58,10 @@
         <card number="1" name="Chandra Nalaar"/>
         <card number="1" name="Goblin Wardriver"/>
         <card number="1" name="Chandra's Phoenix"/>
+        <card number="1" name="Reckless Waif"/>
+        <card number="1" name="Kargan Dragonlord"/>
+        <card number="1" name="Devil's Play"/>
+        <card number="1" name="Hellkite Charger"/>
+        <card number="1" name="Chaos Warp"/>
     </zone>
 </cockatrice_deck>
