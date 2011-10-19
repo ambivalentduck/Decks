@@ -11,7 +11,6 @@
         <card number="1" name="Troll Ascetic"/>
         <card number="1" name="River Boa"/>
         <card number="1" name="Chameleon Colossus"/>
-        <card number="1" name="Wolfbriar Elemental"/>
         <card number="1" name="Rofellos, Llanowar Emissary"/>
         <card number="1" name="Tarmogoyf"/>
         <card number="1" name="Birds of Paradise"/>
@@ -37,7 +36,6 @@
         <card number="1" name="Rancor"/>
         <card number="1" name="Berserk"/>
         <card number="1" name="Nature's Lore"/>
-        <card number="1" name="Moment's Peace"/>
         <card number="1" name="Garruk Wildspeaker"/>
         <card number="1" name="Vines of Vastwood"/>
         <card number="1" name="Plow Under"/>
@@ -63,5 +61,7 @@
         <card number="1" name="Genesis"/>
         <card number="1" name="Garruk, Primal Hunter"/>
         <card number="1" name="Scavenging Ooze"/>
+        <card number="1" name="Constant Mists"/>
+        <card number="1" name="Garruk Relentless"/>
     </zone>
 </cockatrice_deck>
