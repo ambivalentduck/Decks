@@ -9,20 +9,17 @@
         <card number="1" name="Teferi, Mage of Zhalfir"/>
         <card number="1" name="Serendib Efreet"/>
         <card number="1" name="Kira, Great Glass-Spinner"/>
-        <card number="1" name="Vesuvan Shapeshifter"/>
         <card number="1" name="Looter il-Kor"/>
         <card number="1" name="Mulldrifter"/>
         <card number="1" name="Old Man of the Sea"/>
         <card number="1" name="Lighthouse Chronologist"/>
         <card number="1" name="Palinchron"/>
         <card number="1" name="Sphinx of Jwar Isle"/>
-        <card number="1" name="Body Double"/>
         <card number="1" name="Glen Elendra Archmage"/>
         <card number="1" name="Keiga, the Tide Star"/>
         <card number="1" name="Meloku the Clouded Mirror"/>
         <card number="1" name="Sower of Temptation"/>
         <card number="1" name="Man-o'-War"/>
-        <card number="1" name="Riftwing Cloudskate"/>
         <card number="1" name="Remand"/>
         <card number="1" name="Psionic Blast"/>
         <card number="1" name="Capsize"/>
@@ -56,12 +53,15 @@
         <card number="1" name="Rite of Replication"/>
         <card number="1" name="Consecrated Sphinx"/>
         <card number="1" name="Frost Titan"/>
-        <card number="1" name="Spreading Seas"/>
         <card number="1" name="Sunder"/>
         <card number="1" name="Phyrexian Metamorph"/>
         <card number="1" name="Gifts Ungiven"/>
         <card number="1" name="Sphinx of Lost Truths"/>
         <card number="1" name="Jace, Memory Adept"/>
         <card number="1" name="Snapcaster Mage"/>
+        <card number="1" name="Phantasmal Image"/>
+        <card number="1" name="Gilded Drake"/>
+        <card number="1" name="AEther Adept"/>
+        <card number="1" name="Sea Gate Oracle"/>
     </zone>
 </cockatrice_deck>

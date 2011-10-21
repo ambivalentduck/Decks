@@ -25,7 +25,6 @@
         <card number="1" name="Kird Ape"/>
         <card number="1" name="Goblin Guide"/>
         <card number="1" name="Keldon Marauders"/>
-        <card number="1" name="Lord of Shatterskull Pass"/>
         <card number="1" name="Banefire"/>
         <card number="1" name="Molten Rain"/>
         <card number="1" name="Flame Javelin"/>
@@ -63,5 +62,6 @@
         <card number="1" name="Devil's Play"/>
         <card number="1" name="Hellkite Charger"/>
         <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Instigator Gang"/>
     </zone>
 </cockatrice_deck>
