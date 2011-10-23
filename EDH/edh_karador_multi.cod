@@ -59,13 +59,10 @@
         <card number="1" name="Defense of the Heart"/>
         <card number="1" name="Oblation"/>
         <card number="1" name="Helm of Possession"/>
-        <card number="1" name="Darksteel Ingot"/>
         <card number="1" name="Krosan Grip"/>
         <card number="1" name="Batterskull"/>
         <card number="1" name="Sheoldred, Whispering One"/>
-        <card number="1" name="Austere Command"/>
         <card number="1" name="Beacon of Unrest"/>
-        <card number="1" name="Elesh Norn, Grand Cenobite"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Homeward Path"/>
         <card number="1" name="Return to Dust"/>
@@ -103,5 +100,8 @@
         <card number="1" name="Leyline of Sanctity"/>
         <card number="1" name="Hermit Druid"/>
         <card number="1" name="Life from the Loam"/>
+        <card number="1" name="Rout"/>
+        <card number="1" name="Iona, Shield of Emeria"/>
+        <card number="1" name="Army of the Damned"/>
     </zone>
 </cockatrice_deck>

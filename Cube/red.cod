@@ -4,7 +4,6 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Inferno Titan"/>
-        <card number="1" name="Kazuul, Tyrant of the Cliffs"/>
         <card number="1" name="Squee, Goblin Nabob"/>
         <card number="1" name="Flametongue Kavu"/>
         <card number="1" name="Grim Lavamancer"/>
@@ -47,7 +46,6 @@
         <card number="1" name="Viashino Slaughtermaster"/>
         <card number="1" name="Goblin Ruinblaster"/>
         <card number="1" name="Plated Geopede"/>
-        <card number="1" name="Zektar Shrine Expedition"/>
         <card number="1" name="Moltensteel Dragon"/>
         <card number="1" name="Urabrask the Hidden"/>
         <card number="1" name="Spikeshot Elder"/>
@@ -63,5 +61,7 @@
         <card number="1" name="Hellkite Charger"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Instigator Gang"/>
+        <card number="1" name="Ember Hauler"/>
+        <card number="1" name="Stromkirk Noble"/>
     </zone>
 </cockatrice_deck>
