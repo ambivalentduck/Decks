@@ -27,7 +27,6 @@
         <card number="1" name="Flagstones of Trokair"/>
         <card number="1" name="Strip Mine"/>
         <card number="1" name="Stoneforge Mystic"/>
-        <card number="1" name="Stonehewer Giant"/>
         <card number="1" name="Eternal Witness"/>
         <card number="1" name="Qasali Pridemage"/>
         <card number="1" name="Teneb, the Harvester"/>
@@ -70,7 +69,6 @@
         <card number="1" name="Coalition Relic"/>
         <card number="1" name="Skyshroud Claim"/>
         <card number="1" name="City of Brass"/>
-        <card number="1" name="Liliana Vess"/>
         <card number="1" name="Privileged Position"/>
         <card number="1" name="Ghostly Prison"/>
         <card number="1" name="No Mercy"/>
@@ -101,7 +99,8 @@
         <card number="1" name="Life from the Loam"/>
         <card number="1" name="Rout"/>
         <card number="1" name="Iona, Shield of Emeria"/>
-        <card number="1" name="Army of the Damned"/>
         <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Mirari's Wake"/>
+        <card number="1" name="Grand Abolisher"/>
     </zone>
 </cockatrice_deck>
