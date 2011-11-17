@@ -31,7 +31,6 @@
         <card number="1" name="Erratic Portal"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Loxodon Warhammer"/>
-        <card number="1" name="Darksteel Ingot"/>
         <card number="1" name="Mox Pearl"/>
         <card number="1" name="Mox Jet"/>
         <card number="1" name="Mox Emerald"/>
@@ -63,5 +62,6 @@
         <card number="1" name="Karn Liberated"/>
         <card number="1" name="Sword of War and Peace"/>
         <card number="1" name="Spellskite"/>
+        <card number="1" name="Molten-Tail Masticore"/>
     </zone>
 </cockatrice_deck>

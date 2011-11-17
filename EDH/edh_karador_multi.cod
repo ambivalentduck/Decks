@@ -33,7 +33,6 @@
         <card number="1" name="Teneb, the Harvester"/>
         <card number="1" name="Serra Ascendant"/>
         <card number="1" name="Sun Titan"/>
-        <card number="1" name="Linvala, Keeper of Silence"/>
         <card number="1" name="Wurmcoil Engine"/>
         <card number="1" name="Survival of the Fittest"/>
         <card number="1" name="Garruk Wildspeaker"/>
@@ -103,5 +102,6 @@
         <card number="1" name="Rout"/>
         <card number="1" name="Iona, Shield of Emeria"/>
         <card number="1" name="Army of the Damned"/>
+        <card number="1" name="Oracle of Mul Daya"/>
     </zone>
 </cockatrice_deck>

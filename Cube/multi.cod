@@ -16,11 +16,8 @@
         <card number="1" name="Mystic Snake"/>
         <card number="1" name="Figure of Destiny"/>
         <card number="1" name="Giant Solifuge"/>
-        <card number="1" name="Murderous Redcap"/>
-        <card number="1" name="Intet, the Dreamer"/>
         <card number="1" name="Shadowmage Infiltrator"/>
         <card number="1" name="Oona, Queen of the Fae"/>
-        <card number="1" name="Dromar, the Banisher"/>
         <card number="1" name="Spellbound Dragon"/>
         <card number="1" name="Rafiq of the Many"/>
         <card number="1" name="Trygon Predator"/>
@@ -29,7 +26,6 @@
         <card number="1" name="Broodmate Dragon"/>
         <card number="1" name="Duergar Hedge-Mage"/>
         <card number="1" name="Lorescale Coatl"/>
-        <card number="1" name="Burning-Tree Shaman"/>
         <card number="1" name="Qasali Pridemage"/>
         <card number="1" name="Sarkhan Vol"/>
         <card number="1" name="Behemoth Sledge"/>
@@ -52,9 +48,7 @@
         <card number="1" name="Bituminous Blast"/>
         <card number="1" name="Terminate"/>
         <card number="1" name="Sarkhan the Mad"/>
-        <card number="1" name="Glare of Subdual"/>
         <card number="1" name="Absorb"/>
-        <card number="1" name="Mirari's Wake"/>
         <card number="1" name="Nicol Bolas, Planeswalker"/>
         <card number="1" name="Fire // Ice"/>
         <card number="1" name="Hide // Seek"/>
@@ -63,5 +57,11 @@
         <card number="1" name="Edric, Spymaster of Trest"/>
         <card number="1" name="Ruhan of the Fomori"/>
         <card number="1" name="Geist of Saint Traft"/>
+        <card number="1" name="Olivia Voldaren"/>
+        <card number="1" name="Animar, Soul of Elements"/>
+        <card number="1" name="Wilt-Leaf Liege"/>
+        <card number="1" name="Glare of Subdual"/>
+        <card number="1" name="Tattermunge Maniac"/>
+        <card number="1" name="Sphinx of the Steel Wind"/>
     </zone>
 </cockatrice_deck>

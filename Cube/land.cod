@@ -21,13 +21,11 @@
         <card number="1" name="Bayou"/>
         <card number="1" name="Wasteland"/>
         <card number="1" name="Creeping Tar Pit"/>
-        <card number="1" name="Yavimaya Coast"/>
         <card number="1" name="Twilight Mire"/>
         <card number="1" name="Temple Garden"/>
         <card number="1" name="Overgrown Tomb"/>
         <card number="1" name="Battlefield Forge"/>
         <card number="1" name="Simic Growth Chamber"/>
-        <card number="1" name="Adarkar Wastes"/>
         <card number="1" name="Blood Crypt"/>
         <card number="1" name="Shelldock Isle"/>
         <card number="1" name="Oran-Rief, the Vastwood"/>
@@ -58,10 +56,12 @@
         <card number="1" name="Mishra's Factory"/>
         <card number="1" name="Cascade Bluffs"/>
         <card number="1" name="Horizon Canopy"/>
-        <card number="1" name="Karplusan Forest"/>
         <card number="1" name="Plateau"/>
         <card number="1" name="Savannah"/>
         <card number="1" name="Hallowed Fountain"/>
         <card number="1" name="Graven Cairns"/>
+        <card number="1" name="Kessig Wolf Run"/>
+        <card number="1" name="Moorland Haunt"/>
+        <card number="1" name="Flooded Grove"/>
     </zone>
 </cockatrice_deck>

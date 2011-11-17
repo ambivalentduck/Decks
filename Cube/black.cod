@@ -23,7 +23,6 @@
         <card number="1" name="Plague Sliver"/>
         <card number="1" name="Tombstalker"/>
         <card number="1" name="Graveborn Muse"/>
-        <card number="1" name="Nirkana Revenant"/>
         <card number="1" name="Nantuko Shade"/>
         <card number="1" name="Drana, Kalastria Bloodchief"/>
         <card number="1" name="Profane Command"/>
@@ -63,5 +62,6 @@
         <card number="1" name="Bloodgift Demon"/>
         <card number="1" name="Vampire Interloper"/>
         <card number="1" name="Liliana of the Veil"/>
+        <card number="1" name="Bloodline Keeper"/>
     </zone>
 </cockatrice_deck>
