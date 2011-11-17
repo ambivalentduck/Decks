@@ -31,7 +31,6 @@
         <card number="1" name="Sarcomancy"/>
         <card number="1" name="Thoughtseize"/>
         <card number="1" name="Doom Blade"/>
-        <card number="1" name="Tainted Pact"/>
         <card number="1" name="Living Death"/>
         <card number="1" name="Reanimate"/>
         <card number="1" name="Vampiric Tutor"/>
@@ -63,5 +62,6 @@
         <card number="1" name="Vampire Interloper"/>
         <card number="1" name="Liliana of the Veil"/>
         <card number="1" name="Bloodline Keeper"/>
+        <card number="1" name="Nekrataal"/>
     </zone>
 </cockatrice_deck>

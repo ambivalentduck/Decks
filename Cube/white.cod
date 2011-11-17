@@ -4,7 +4,6 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Karmic Guide"/>
-        <card number="1" name="Celestial Crusader"/>
         <card number="1" name="Baneslayer Angel"/>
         <card number="1" name="Mother of Runes"/>
         <card number="1" name="Elite Vanguard"/>
@@ -24,7 +23,6 @@
         <card number="1" name="Student of Warfare"/>
         <card number="1" name="Balance"/>
         <card number="1" name="Martial Coup"/>
-        <card number="1" name="Miraculous Recovery"/>
         <card number="1" name="Disenchant"/>
         <card number="1" name="Wrath of God"/>
         <card number="1" name="Worship"/>
@@ -47,7 +45,6 @@
         <card number="1" name="Mirran Crusader"/>
         <card number="1" name="Hero of Bladehold"/>
         <card number="1" name="Elspeth Tirel"/>
-        <card number="1" name="Soltari Emissary"/>
         <card number="1" name="Soltari Champion"/>
         <card number="1" name="Accorder Paladin"/>
         <card number="1" name="Sunblast Angel"/>
@@ -63,5 +60,8 @@
         <card number="1" name="Faith's Fetters"/>
         <card number="1" name="War Priest of Thune"/>
         <card number="1" name="Knight of Meadowgrain"/>
+        <card number="1" name="Fiend Hunter"/>
+        <card number="1" name="Mentor of the Meek"/>
+        <card number="1" name="Grand Abolisher"/>
     </zone>
 </cockatrice_deck>

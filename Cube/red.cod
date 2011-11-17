@@ -12,7 +12,6 @@
         <card number="1" name="Avalanche Riders"/>
         <card number="1" name="Hell's Thunder"/>
         <card number="1" name="Keldon Champion"/>
-        <card number="1" name="Jaya Ballard, Task Mage"/>
         <card number="1" name="Stigma Lasher"/>
         <card number="1" name="Sulfur Elemental"/>
         <card number="1" name="Dragonmaster Outcast"/>
@@ -63,5 +62,6 @@
         <card number="1" name="Instigator Gang"/>
         <card number="1" name="Ember Hauler"/>
         <card number="1" name="Stromkirk Noble"/>
+        <card number="1" name="Chandra, the Firebrand"/>
     </zone>
 </cockatrice_deck>
