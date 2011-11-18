@@ -96,11 +96,12 @@
         <card number="1" name="Buried Alive"/>
         <card number="1" name="Leyline of Sanctity"/>
         <card number="1" name="Hermit Druid"/>
-        <card number="1" name="Life from the Loam"/>
         <card number="1" name="Rout"/>
         <card number="1" name="Iona, Shield of Emeria"/>
         <card number="1" name="Oracle of Mul Daya"/>
         <card number="1" name="Mirari's Wake"/>
         <card number="1" name="Grand Abolisher"/>
+        <card number="1" name="Sterling Grove"/>
+        <card number="1" name="Academy Rector"/>
     </zone>
 </cockatrice_deck>
