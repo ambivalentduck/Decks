@@ -3,86 +3,93 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Jor Kadeen, the Prevailer"/>
-        <card number="1" name="Decree of Justice"/>
-        <card number="1" name="Conqueror's Pledge"/>
-        <card number="1" name="Puresteel Paladin"/>
-        <card number="1" name="Skullclamp"/>
-        <card number="1" name="Auriok Steelshaper"/>
-        <card number="1" name="Stoneforge Mystic"/>
-        <card number="1" name="Aura of Silence"/>
-        <card number="1" name="Mobilization"/>
-        <card number="1" name="Hero of Bladehold"/>
-        <card number="1" name="Myr Battlesphere"/>
-        <card number="1" name="Triskelavus"/>
-        <card number="1" name="Sword of Kaldra"/>
-        <card number="1" name="Sword of the Meek"/>
-        <card number="1" name="Sword of the Paruns"/>
-        <card number="1" name="Sword of Fire and Ice"/>
-        <card number="1" name="Sword of Feast and Famine"/>
-        <card number="1" name="Batterskull"/>
-        <card number="1" name="Argentum Armor"/>
-        <card number="1" name="Soltari Champion"/>
-        <card number="1" name="Godo, Bandit Warlord"/>
-        <card number="1" name="Bonesplitter"/>
-        <card number="1" name="Kjeldoran Outpost"/>
-        <card number="1" name="Darksteel Plate"/>
-        <card number="1" name="Serra Ascendant"/>
-        <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Manriki-Gusari"/>
-        <card number="1" name="Sunforger"/>
-        <card number="1" name="Kemba, Kha Regent"/>
-        <card number="1" name="Loxodon Warhammer"/>
-        <card number="1" name="Enlightened Tutor"/>
-        <card number="1" name="Steelshaper's Gift"/>
-        <card number="1" name="Stonehewer Giant"/>
-        <card number="1" name="Taj-Nar Swordsmith"/>
-        <card number="1" name="Umezawa's Jitte"/>
-        <card number="1" name="Bushi Tenderfoot"/>
-        <card number="1" name="Kher Keep"/>
-        <card number="1" name="Figure of Destiny"/>
-        <card number="1" name="Sun Titan"/>
-        <card number="1" name="Inferno Titan"/>
-        <card number="1" name="Sunblast Angel"/>
-        <card number="1" name="Glory"/>
-        <card number="1" name="Kiki-Jiki, Mirror Breaker"/>
-        <card number="1" name="Glory of Warfare"/>
-        <card number="1" name="Master Warcraft"/>
-        <card number="1" name="Martial Coup"/>
-        <card number="1" name="Helm of Possession"/>
-        <card number="1" name="Aggravated Assault"/>
-        <card number="1" name="Orim's Thunder"/>
-        <card number="1" name="Brion Stoutarm"/>
-        <card number="1" name="Emeria, the Sky Ruin"/>
-        <card number="1" name="Valakut, the Molten Pinnacle"/>
-        <card number="1" name="Ranger of Eos"/>
-        <card number="1" name="Captain of the Watch"/>
-        <card number="1" name="Storm Herd"/>
-        <card number="1" name="Swords to Plowshares"/>
-        <card number="1" name="Path to Exile"/>
-        <card number="1" name="Lightning Helix"/>
-        <card number="1" name="Ajani Goldmane"/>
-        <card number="1" name="Elspeth Tirel"/>
-        <card number="1" name="Elspeth, Knight-Errant"/>
-        <card number="1" name="Boros Signet"/>
-        <card number="1" name="Sunhome, Fortress of the Legion"/>
-        <card number="1" name="Mind Stone"/>
-        <card number="1" name="Sol Ring"/>
-        <card number="1" name="Mana Crypt"/>
-        <card number="1" name="Plateau"/>
-        <card number="1" name="Battlefield Forge"/>
-        <card number="1" name="Sacred Foundry"/>
-        <card number="1" name="Mishra's Factory"/>
-        <card number="1" name="Reliquary Tower"/>
-        <card number="1" name="Elesh Norn, Grand Cenobite"/>
-        <card number="1" name="Land Tax"/>
-        <card number="1" name="Ghostly Prison"/>
-        <card number="12" name="Plains"/>
-        <card number="12" name="Mountain"/>
-        <card number="1" name="Márton Stromgald"/>
-        <card number="1" name="Iona, Shield of Emeria"/>
-        <card number="1" name="Urabrask the Hidden"/>
-        <card number="1" name="Leonin Sun Standard"/>
-        <card number="1" name="Curse of Stalked Prey"/>
+        <card number="1" price="0" name="Jor Kadeen, the Prevailer"/>
+        <card number="1" price="0" name="Decree of Justice"/>
+        <card number="1" price="0" name="Puresteel Paladin"/>
+        <card number="1" price="0" name="Skullclamp"/>
+        <card number="1" price="0" name="Stoneforge Mystic"/>
+        <card number="1" price="0" name="Hero of Bladehold"/>
+        <card number="1" price="0" name="Myr Battlesphere"/>
+        <card number="1" price="0" name="Sword of Fire and Ice"/>
+        <card number="1" price="0" name="Sword of Feast and Famine"/>
+        <card number="1" price="0" name="Batterskull"/>
+        <card number="1" price="0" name="Godo, Bandit Warlord"/>
+        <card number="1" price="0" name="Serra Ascendant"/>
+        <card number="1" price="0" name="Lightning Greaves"/>
+        <card number="1" price="0" name="Manriki-Gusari"/>
+        <card number="1" price="0" name="Sunforger"/>
+        <card number="1" price="0" name="Kemba, Kha Regent"/>
+        <card number="1" price="0" name="Loxodon Warhammer"/>
+        <card number="1" price="0" name="Enlightened Tutor"/>
+        <card number="1" price="0" name="Steelshaper's Gift"/>
+        <card number="1" price="0" name="Stonehewer Giant"/>
+        <card number="1" price="0" name="Taj-Nar Swordsmith"/>
+        <card number="1" price="0" name="Umezawa's Jitte"/>
+        <card number="1" price="0" name="Kher Keep"/>
+        <card number="1" price="0" name="Sun Titan"/>
+        <card number="1" price="0" name="Kiki-Jiki, Mirror Breaker"/>
+        <card number="1" price="0" name="Helm of Possession"/>
+        <card number="1" price="0" name="Aggravated Assault"/>
+        <card number="1" price="0" name="Orim's Thunder"/>
+        <card number="1" price="0" name="Storm Herd"/>
+        <card number="1" price="0" name="Elspeth Tirel"/>
+        <card number="1" price="0" name="Elspeth, Knight-Errant"/>
+        <card number="1" price="0" name="Boros Signet"/>
+        <card number="1" price="0" name="Sunhome, Fortress of the Legion"/>
+        <card number="1" price="0" name="Mind Stone"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Mana Crypt"/>
+        <card number="1" price="0" name="Plateau"/>
+        <card number="1" price="0" name="Battlefield Forge"/>
+        <card number="1" price="0" name="Sacred Foundry"/>
+        <card number="1" price="0" name="Mishra's Factory"/>
+        <card number="1" price="0" name="Land Tax"/>
+        <card number="8" price="0" name="Plains"/>
+        <card number="6" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Swiftfoot Boots"/>
+        <card number="1" price="0" name="White Sun's Zenith"/>
+        <card number="1" price="0" name="Insurrection"/>
+        <card number="1" price="0" name="Chaos Warp"/>
+        <card number="1" price="0" name="Oblation"/>
+        <card number="1" price="0" name="Mother of Runes"/>
+        <card number="1" price="0" name="Thopter Assembly"/>
+        <card number="1" price="0" name="Grim Monolith"/>
+        <card number="1" price="0" name="Mana Vault"/>
+        <card number="1" price="0" name="Ancient Den"/>
+        <card number="1" price="0" name="Great Furnace"/>
+        <card number="1" price="0" name="Clifftop Retreat"/>
+        <card number="1" price="0" name="Sword of War and Peace"/>
+        <card number="1" price="0" name="Sword of Light and Shadow"/>
+        <card number="1" price="0" name="Sword of Body and Mind"/>
+        <card number="1" price="0" name="Hellkite Charger"/>
+        <card number="1" price="0" name="Weathered Wayfarer"/>
+        <card number="1" price="0" name="Everflowing Chalice"/>
+        <card number="1" price="0" name="Into the Core"/>
+        <card number="1" price="0" name="Return to Dust"/>
+        <card number="1" price="0" name="Ancient Tomb"/>
+        <card number="1" price="0" name="Fellwar Stone"/>
+        <card number="1" price="0" name="Command Tower"/>
+        <card number="1" price="0" name="Heat Shimmer"/>
+        <card number="1" price="0" name="Sensei's Divining Top"/>
+        <card number="1" price="0" name="Flagstones of Trokair"/>
+        <card number="1" price="0" name="Kor Haven"/>
+        <card number="1" price="0" name="Arid Mesa"/>
+        <card number="1" price="0" name="Wurmcoil Engine"/>
+        <card number="1" price="0" name="Strip Mine"/>
+        <card number="1" price="0" name="Wasteland"/>
+        <card number="1" price="0" name="Mirran Crusader"/>
+        <card number="1" price="0" name="Sculpting Steel"/>
+        <card number="1" price="0" name="Tower of the Magistrate"/>
+        <card number="1" price="0" name="Kor Duelist"/>
+        <card number="1" price="0" name="Homeward Path"/>
+        <card number="1" price="0" name="Skyhunter Skirmisher"/>
+        <card number="1" price="0" name="Wild Ricochet"/>
+        <card number="1" price="0" name="Coalition Relic"/>
+        <card number="1" price="0" name="Solemn Simulacrum"/>
+        <card number="1" price="0" name="True Conviction"/>
+        <card number="1" price="0" name="Thawing Glaciers"/>
+        <card number="1" price="0" name="Windbrisk Heights"/>
+        <card number="1" price="0" name="Grab the Reins"/>
+        <card number="1" price="0" name="Quietus Spike"/>
     </zone>
 </cockatrice_deck>

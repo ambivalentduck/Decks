@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Black Lotus"/>
+        <card number="1" price="0" name="Mana Crypt"/>
+        <card number="1" price="0" name="Mox Emerald"/>
+        <card number="1" price="0" name="Mox Jet"/>
+        <card number="1" price="0" name="Mox Pearl"/>
+        <card number="1" price="0" name="Mox Ruby"/>
+        <card number="1" price="0" name="Mox Sapphire"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Time Vault"/>
+        <card number="1" price="0" name="Voltaic Key"/>
+        <card number="1" price="0" name="Demonic Tutor"/>
+        <card number="3" price="0" name="Rune-Scarred Demon"/>
+        <card number="1" price="0" name="Vampiric Tutor"/>
+        <card number="1" price="0" name="Yawgmoth's Will"/>
+        <card number="1" price="0" name="Ancestral Recall"/>
+        <card number="1" price="0" name="Brainstorm"/>
+        <card number="2" price="0" name="Flusterstorm"/>
+        <card number="4" price="0" name="Force of Will"/>
+        <card number="2" price="0" name="Jace, the Mind Sculptor"/>
+        <card number="3" price="0" name="Mana Drain"/>
+        <card number="2" price="0" name="Mental Misstep"/>
+        <card number="3" price="0" name="Preordain"/>
+        <card number="1" price="0" name="Time Walk"/>
+        <card number="4" price="0" name="Oath of Druids"/>
+        <card number="4" price="0" name="Forbidden Orchard"/>
+        <card number="2" price="0" name="Island"/>
+        <card number="4" price="0" name="Misty Rainforest"/>
+        <card number="1" price="0" name="Tolarian Academy"/>
+        <card number="2" price="0" name="Tropical Island"/>
+        <card number="3" price="0" name="Underground Sea"/>
+        <card number="1" price="0" name="Nature's Claim"/>
+        <card number="1" price="0" name="Nihil Spellbomb"/>
+        <card number="1" price="0" name="Gaea's Blessing"/>
+        <card number="1" price="0" name="Sensei's Divining Top"/>
+        <card number="1" price="0" name="Ponder"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Blightsteel Colossus"/>
+        <card number="2" price="0" name="Extirpate"/>
+        <card number="1" price="0" name="Forest"/>
+        <card number="1" price="0" name="Hurkyl's Recall"/>
+        <card number="1" price="0" name="Pithing Needle"/>
+        <card number="1" price="0" name="Steel Sabotage"/>
+        <card number="1" price="0" name="Tinker"/>
+        <card number="1" price="0" name="Tormod's Crypt"/>
+        <card number="4" price="0" name="Leyline of the Void"/>
+        <card number="2" price="0" name="Nature's Claim"/>
+    </zone>
+</cockatrice_deck>

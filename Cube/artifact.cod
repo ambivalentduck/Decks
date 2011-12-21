@@ -3,65 +3,65 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Triskelion"/>
-        <card number="1" name="Platinum Angel"/>
-        <card number="1" name="Duplicant"/>
-        <card number="1" name="Masticore"/>
-        <card number="1" name="Razormane Masticore"/>
-        <card number="1" name="Sundering Titan"/>
-        <card number="1" name="Solemn Simulacrum"/>
-        <card number="1" name="Steel Hellkite"/>
-        <card number="1" name="Cursed Scroll"/>
-        <card number="1" name="Sol Ring"/>
-        <card number="1" name="AEther Vial"/>
-        <card number="1" name="Phyrexian Processor"/>
-        <card number="1" name="Mindslaver"/>
-        <card number="1" name="Tangle Wire"/>
-        <card number="1" name="Scroll Rack"/>
-        <card number="1" name="Nevinyrral's Disk"/>
-        <card number="1" name="Crucible of Worlds"/>
-        <card number="1" name="Bonesplitter"/>
-        <card number="1" name="Sensei's Divining Top"/>
-        <card number="1" name="Coalition Relic"/>
-        <card number="1" name="Ensnaring Bridge"/>
-        <card number="1" name="Pithing Needle"/>
-        <card number="1" name="Basilisk Collar"/>
-        <card number="1" name="Crystal Shard"/>
-        <card number="1" name="Oblivion Stone"/>
-        <card number="1" name="Erratic Portal"/>
-        <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Loxodon Warhammer"/>
-        <card number="1" name="Mox Pearl"/>
-        <card number="1" name="Mox Jet"/>
-        <card number="1" name="Mox Emerald"/>
-        <card number="1" name="Memory Jar"/>
-        <card number="1" name="Mox Ruby"/>
-        <card number="1" name="Sword of Fire and Ice"/>
-        <card number="1" name="Sword of Light and Shadow"/>
-        <card number="1" name="Umezawa's Jitte"/>
-        <card number="1" name="Skullclamp"/>
-        <card number="1" name="Mox Sapphire"/>
-        <card number="1" name="Mana Crypt"/>
-        <card number="1" name="Mana Vault"/>
-        <card number="1" name="Black Lotus"/>
-        <card number="1" name="All Is Dust"/>
-        <card number="1" name="Ratchet Bomb"/>
-        <card number="1" name="Sword of Body and Mind"/>
-        <card number="1" name="Sword of Vengeance"/>
-        <card number="1" name="Mimic Vat"/>
-        <card number="1" name="Wurmcoil Engine"/>
-        <card number="1" name="Myr Battlesphere"/>
-        <card number="1" name="Sword of Feast and Famine"/>
-        <card number="1" name="Phyrexian Revoker"/>
-        <card number="1" name="Winter Orb"/>
-        <card number="1" name="Powder Keg"/>
-        <card number="1" name="Everflowing Chalice"/>
-        <card number="1" name="Isochron Scepter"/>
-        <card number="1" name="Precursor Golem"/>
-        <card number="1" name="Batterskull"/>
-        <card number="1" name="Karn Liberated"/>
-        <card number="1" name="Sword of War and Peace"/>
-        <card number="1" name="Spellskite"/>
-        <card number="1" name="Molten-Tail Masticore"/>
+        <card number="1" price="0" name="Triskelion"/>
+        <card number="1" price="0" name="Platinum Angel"/>
+        <card number="1" price="0" name="Duplicant"/>
+        <card number="1" price="0" name="Masticore"/>
+        <card number="1" price="0" name="Razormane Masticore"/>
+        <card number="1" price="0" name="Sundering Titan"/>
+        <card number="1" price="0" name="Solemn Simulacrum"/>
+        <card number="1" price="0" name="Steel Hellkite"/>
+        <card number="1" price="0" name="Cursed Scroll"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="AEther Vial"/>
+        <card number="1" price="0" name="Phyrexian Processor"/>
+        <card number="1" price="0" name="Mindslaver"/>
+        <card number="1" price="0" name="Tangle Wire"/>
+        <card number="1" price="0" name="Scroll Rack"/>
+        <card number="1" price="0" name="Nevinyrral's Disk"/>
+        <card number="1" price="0" name="Crucible of Worlds"/>
+        <card number="1" price="0" name="Bonesplitter"/>
+        <card number="1" price="0" name="Sensei's Divining Top"/>
+        <card number="1" price="0" name="Coalition Relic"/>
+        <card number="1" price="0" name="Ensnaring Bridge"/>
+        <card number="1" price="0" name="Pithing Needle"/>
+        <card number="1" price="0" name="Basilisk Collar"/>
+        <card number="1" price="0" name="Crystal Shard"/>
+        <card number="1" price="0" name="Oblivion Stone"/>
+        <card number="1" price="0" name="Erratic Portal"/>
+        <card number="1" price="0" name="Lightning Greaves"/>
+        <card number="1" price="0" name="Loxodon Warhammer"/>
+        <card number="1" price="0" name="Mox Pearl"/>
+        <card number="1" price="0" name="Mox Jet"/>
+        <card number="1" price="0" name="Mox Emerald"/>
+        <card number="1" price="0" name="Memory Jar"/>
+        <card number="1" price="0" name="Mox Ruby"/>
+        <card number="1" price="0" name="Sword of Fire and Ice"/>
+        <card number="1" price="0" name="Sword of Light and Shadow"/>
+        <card number="1" price="0" name="Umezawa's Jitte"/>
+        <card number="1" price="0" name="Skullclamp"/>
+        <card number="1" price="0" name="Mox Sapphire"/>
+        <card number="1" price="0" name="Mana Crypt"/>
+        <card number="1" price="0" name="Mana Vault"/>
+        <card number="1" price="0" name="Black Lotus"/>
+        <card number="1" price="0" name="All Is Dust"/>
+        <card number="1" price="0" name="Ratchet Bomb"/>
+        <card number="1" price="0" name="Sword of Body and Mind"/>
+        <card number="1" price="0" name="Sword of Vengeance"/>
+        <card number="1" price="0" name="Mimic Vat"/>
+        <card number="1" price="0" name="Wurmcoil Engine"/>
+        <card number="1" price="0" name="Myr Battlesphere"/>
+        <card number="1" price="0" name="Sword of Feast and Famine"/>
+        <card number="1" price="0" name="Phyrexian Revoker"/>
+        <card number="1" price="0" name="Winter Orb"/>
+        <card number="1" price="0" name="Powder Keg"/>
+        <card number="1" price="0" name="Everflowing Chalice"/>
+        <card number="1" price="0" name="Precursor Golem"/>
+        <card number="1" price="0" name="Batterskull"/>
+        <card number="1" price="0" name="Karn Liberated"/>
+        <card number="1" price="0" name="Sword of War and Peace"/>
+        <card number="1" price="0" name="Spellskite"/>
+        <card number="1" price="0" name="Molten-Tail Masticore"/>
+        <card number="1" price="0" name="Smokestack"/>
     </zone>
 </cockatrice_deck>

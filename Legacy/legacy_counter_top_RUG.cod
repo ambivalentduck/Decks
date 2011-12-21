@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Forest"/>
+        <card number="1" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Island"/>
+        <card number="2" price="0" name="Dismember"/>
+        <card number="4" price="0" name="Force of Will"/>
+        <card number="4" price="0" name="Sensei's Divining Top"/>
+        <card number="4" price="0" name="Counterbalance"/>
+        <card number="2" price="0" name="Spell Snare"/>
+        <card number="4" price="0" name="Tarmogoyf"/>
+        <card number="4" price="0" name="Delver of Secrets"/>
+        <card number="4" price="0" name="Ponder"/>
+        <card number="4" price="0" name="Brainstorm"/>
+        <card number="3" price="0" name="Daze"/>
+        <card number="2" price="0" name="Wooded Foothills"/>
+        <card number="4" price="0" name="Grim Lavamancer"/>
+        <card number="3" price="0" name="Volcanic Island"/>
+        <card number="3" price="0" name="Lightning Bolt"/>
+        <card number="3" price="0" name="Tropical Island"/>
+        <card number="3" price="0" name="Misty Rainforest"/>
+        <card number="3" price="0" name="Scalding Tarn"/>
+    </zone>
+    <zone name="side">
+        <card number="3" price="0" name="Blood Moon"/>
+        <card number="2" price="0" name="Engineered Explosives"/>
+        <card number="1" price="0" name="Sylvan Library"/>
+        <card number="2" price="0" name="Ancient Grudge"/>
+        <card number="3" price="0" name="Red Elemental Blast"/>
+        <card number="2" price="0" name="Jace, the Mind Sculptor"/>
+        <card number="2" price="0" name="Spell Pierce"/>
+    </zone>
+</cockatrice_deck>

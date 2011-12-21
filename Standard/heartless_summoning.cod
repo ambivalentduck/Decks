@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Blackcleave Cliffs"/>
+        <card number="4" price="0" name="Dragonskull Summit"/>
+        <card number="8" price="0" name="Mountain"/>
+        <card number="8" price="0" name="Swamp"/>
+        <card number="4" price="0" name="Bloodgift Demon"/>
+        <card number="3" price="0" name="Inferno Titan"/>
+        <card number="3" price="0" name="Olivia Voldaren"/>
+        <card number="4" price="0" name="Solemn Simulacrum"/>
+        <card number="2" price="0" name="Wurmcoil Engine"/>
+        <card number="1" price="0" name="Arc Trail"/>
+        <card number="3" price="0" name="Doom Blade"/>
+        <card number="4" price="0" name="Geistflame"/>
+        <card number="1" price="0" name="Go for the Throat"/>
+        <card number="3" price="0" name="Heartless Summoning"/>
+        <card number="1" price="0" name="Mimic Vat"/>
+        <card number="4" price="0" name="Slagstorm"/>
+        <card number="3" price="0" name="Liliana of the Veil"/>
+    </zone>
+    <zone name="side">
+        <card number="4" price="0" name="Manic Vandal"/>
+        <card number="2" price="0" name="Mimic Vat"/>
+        <card number="4" price="0" name="Nihil Spellbomb"/>
+        <card number="3" price="0" name="Ratchet Bomb"/>
+        <card number="1" price="0" name="Sever the Bloodline"/>
+        <card number="1" price="0" name="Tribute to Hunger"/>
+    </zone>
+</cockatrice_deck>

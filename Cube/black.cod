@@ -3,65 +3,65 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Dauthi Mercenary"/>
-        <card number="1" name="Kokusho, the Evening Star"/>
-        <card number="1" name="Oona's Prowler"/>
-        <card number="1" name="Nezumi Shortfang"/>
-        <card number="1" name="Ob Nixilis, the Fallen"/>
-        <card number="1" name="Carnophage"/>
-        <card number="1" name="Vampire Lacerator"/>
-        <card number="1" name="Skeletal Vampire"/>
-        <card number="1" name="Nezumi Graverobber"/>
-        <card number="1" name="Hypnotic Specter"/>
-        <card number="1" name="Ink-Eyes, Servant of Oni"/>
-        <card number="1" name="Grave Titan"/>
-        <card number="1" name="Shriekmaw"/>
-        <card number="1" name="Vampire Nighthawk"/>
-        <card number="1" name="Bloodghast"/>
-        <card number="1" name="Dauthi Slayer"/>
-        <card number="1" name="Dauthi Horror"/>
-        <card number="1" name="Plague Sliver"/>
-        <card number="1" name="Tombstalker"/>
-        <card number="1" name="Graveborn Muse"/>
-        <card number="1" name="Nantuko Shade"/>
-        <card number="1" name="Drana, Kalastria Bloodchief"/>
-        <card number="1" name="Profane Command"/>
-        <card number="1" name="Damnation"/>
-        <card number="1" name="Choking Sands"/>
-        <card number="1" name="Sarcomancy"/>
-        <card number="1" name="Thoughtseize"/>
-        <card number="1" name="Doom Blade"/>
-        <card number="1" name="Living Death"/>
-        <card number="1" name="Reanimate"/>
-        <card number="1" name="Vampiric Tutor"/>
-        <card number="1" name="Demonic Tutor"/>
-        <card number="1" name="Bitterblossom"/>
-        <card number="1" name="Icequake"/>
-        <card number="1" name="Sinkhole"/>
-        <card number="1" name="Necromancy"/>
-        <card number="1" name="Slaughter Pact"/>
-        <card number="1" name="Mind Twist"/>
-        <card number="1" name="Consuming Vapors"/>
-        <card number="1" name="Phyrexian Arena"/>
-        <card number="1" name="Hymn to Tourach"/>
-        <card number="1" name="Recurring Nightmare"/>
-        <card number="1" name="Geth, Lord of the Vault"/>
-        <card number="1" name="Dauthi Marauder"/>
-        <card number="1" name="Skinrender"/>
-        <card number="1" name="Go for the Throat"/>
-        <card number="1" name="Liliana Vess"/>
-        <card number="1" name="Dismember"/>
-        <card number="1" name="Praetor's Grasp"/>
-        <card number="1" name="Sheoldred, Whispering One"/>
-        <card number="1" name="Gatekeeper of Malakir"/>
-        <card number="1" name="Sorin Markov"/>
-        <card number="1" name="Dark Confidant"/>
-        <card number="1" name="Blind Creeper"/>
-        <card number="1" name="Diregraf Ghoul"/>
-        <card number="1" name="Bloodgift Demon"/>
-        <card number="1" name="Vampire Interloper"/>
-        <card number="1" name="Liliana of the Veil"/>
-        <card number="1" name="Bloodline Keeper"/>
-        <card number="1" name="Nekrataal"/>
+        <card number="1" price="0" name="Dauthi Mercenary"/>
+        <card number="1" price="0" name="Kokusho, the Evening Star"/>
+        <card number="1" price="0" name="Oona's Prowler"/>
+        <card number="1" price="0" name="Nezumi Shortfang"/>
+        <card number="1" price="0" name="Ob Nixilis, the Fallen"/>
+        <card number="1" price="0" name="Carnophage"/>
+        <card number="1" price="0" name="Vampire Lacerator"/>
+        <card number="1" price="0" name="Skeletal Vampire"/>
+        <card number="1" price="0" name="Nezumi Graverobber"/>
+        <card number="1" price="0" name="Hypnotic Specter"/>
+        <card number="1" price="0" name="Ink-Eyes, Servant of Oni"/>
+        <card number="1" price="0" name="Grave Titan"/>
+        <card number="1" price="0" name="Shriekmaw"/>
+        <card number="1" price="0" name="Vampire Nighthawk"/>
+        <card number="1" price="0" name="Bloodghast"/>
+        <card number="1" price="0" name="Dauthi Slayer"/>
+        <card number="1" price="0" name="Dauthi Horror"/>
+        <card number="1" price="0" name="Plague Sliver"/>
+        <card number="1" price="0" name="Tombstalker"/>
+        <card number="1" price="0" name="Graveborn Muse"/>
+        <card number="1" price="0" name="Nantuko Shade"/>
+        <card number="1" price="0" name="Drana, Kalastria Bloodchief"/>
+        <card number="1" price="0" name="Profane Command"/>
+        <card number="1" price="0" name="Damnation"/>
+        <card number="1" price="0" name="Choking Sands"/>
+        <card number="1" price="0" name="Sarcomancy"/>
+        <card number="1" price="0" name="Thoughtseize"/>
+        <card number="1" price="0" name="Doom Blade"/>
+        <card number="1" price="0" name="Living Death"/>
+        <card number="1" price="0" name="Reanimate"/>
+        <card number="1" price="0" name="Vampiric Tutor"/>
+        <card number="1" price="0" name="Demonic Tutor"/>
+        <card number="1" price="0" name="Bitterblossom"/>
+        <card number="1" price="0" name="Icequake"/>
+        <card number="1" price="0" name="Sinkhole"/>
+        <card number="1" price="0" name="Necromancy"/>
+        <card number="1" price="0" name="Slaughter Pact"/>
+        <card number="1" price="0" name="Mind Twist"/>
+        <card number="1" price="0" name="Consuming Vapors"/>
+        <card number="1" price="0" name="Phyrexian Arena"/>
+        <card number="1" price="0" name="Hymn to Tourach"/>
+        <card number="1" price="0" name="Recurring Nightmare"/>
+        <card number="1" price="0" name="Geth, Lord of the Vault"/>
+        <card number="1" price="0" name="Dauthi Marauder"/>
+        <card number="1" price="0" name="Skinrender"/>
+        <card number="1" price="0" name="Go for the Throat"/>
+        <card number="1" price="0" name="Liliana Vess"/>
+        <card number="1" price="0" name="Dismember"/>
+        <card number="1" price="0" name="Sheoldred, Whispering One"/>
+        <card number="1" price="0" name="Gatekeeper of Malakir"/>
+        <card number="1" price="0" name="Sorin Markov"/>
+        <card number="1" price="0" name="Dark Confidant"/>
+        <card number="1" price="0" name="Blind Creeper"/>
+        <card number="1" price="0" name="Diregraf Ghoul"/>
+        <card number="1" price="0" name="Bloodgift Demon"/>
+        <card number="1" price="0" name="Vampire Interloper"/>
+        <card number="1" price="0" name="Liliana of the Veil"/>
+        <card number="1" price="0" name="Bloodline Keeper"/>
+        <card number="1" price="0" name="Nekrataal"/>
+        <card number="1" price="0" name="Animate Dead"/>
     </zone>
 </cockatrice_deck>
