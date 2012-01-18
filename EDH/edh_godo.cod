@@ -5,14 +5,11 @@
     <zone name="main">
         <card number="1" price="0" name="Fumiko the Lowblood"/>
         <card number="1" price="0" name="Kazuul, Tyrant of the Cliffs"/>
-        <card number="1" price="0" name="AEther Membrane"/>
-        <card number="1" price="0" name="Orcish Squatters"/>
         <card number="1" price="0" name="Godo, Bandit Warlord"/>
         <card number="1" price="0" name="Extraplanar Lens"/>
         <card number="1" price="0" name="Caged Sun"/>
         <card number="1" price="0" name="Gauntlet of Power"/>
         <card number="1" price="0" name="Gauntlet of Might"/>
-        <card number="1" price="0" name="No Quarter"/>
         <card number="1" price="0" name="Total War"/>
         <card number="1" price="0" name="Lightning Greaves"/>
         <card number="1" price="0" name="Darksteel Plate"/>
@@ -62,21 +59,24 @@
         <card number="1" price="0" name="Sword of Feast and Famine"/>
         <card number="1" price="0" name="Sword of Fire and Ice"/>
         <card number="1" price="0" name="Sword of Kaldra"/>
-        <card number="1" price="0" name="Sword of War and Peace"/>
-        <card number="1" price="0" name="Stuffy Doll"/>
         <card number="1" price="0" name="Into the Core"/>
         <card number="1" price="0" name="It That Betrays"/>
         <card number="1" price="0" name="Swiftfoot Boots"/>
         <card number="1" price="0" name="Blood Frenzy"/>
         <card number="1" price="0" name="Batterskull"/>
-        <card number="1" price="0" name="Creepy Doll"/>
         <card number="1" price="0" name="Conquering Manticore"/>
-        <card number="1" price="0" name="Hateflayer"/>
         <card number="1" price="0" name="Twist Allegiance"/>
         <card number="1" price="0" name="Ancient Tomb"/>
         <card number="1" price="0" name="Thawing Glaciers"/>
         <card number="1" price="0" name="Journeyer's Kite"/>
         <card number="1" price="0" name="Tawnos's Coffin"/>
         <card number="1" price="0" name="Smoke"/>
+        <card number="1" price="0" name="Invasion Plans"/>
+        <card number="1" price="0" name="Shield of Kaldra"/>
+        <card number="1" price="0" name="Helm of Kaldra"/>
+        <card number="1" price="0" name="Ulamog, the Infinite Gyre"/>
+        <card number="1" price="0" name="Sword of Light and Shadow"/>
+        <card number="1" price="0" name="Umezawa's Jitte"/>
+        <card number="1" price="0" name="Worn Powerstone"/>
     </zone>
 </cockatrice_deck>

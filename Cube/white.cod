@@ -3,65 +3,65 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Karmic Guide"/>
-        <card number="1" name="Baneslayer Angel"/>
-        <card number="1" name="Mother of Runes"/>
-        <card number="1" name="Elite Vanguard"/>
-        <card number="1" name="Soltari Crusader"/>
-        <card number="1" name="Paladin en-Vec"/>
-        <card number="1" name="Soltari Monk"/>
-        <card number="1" name="Reveillark"/>
-        <card number="1" name="Sun Titan"/>
-        <card number="1" name="Soltari Priest"/>
-        <card number="1" name="Eternal Dragon"/>
-        <card number="1" name="Exalted Angel"/>
-        <card number="1" name="Yosei, the Morning Star"/>
-        <card number="1" name="Isamaru, Hound of Konda"/>
-        <card number="1" name="Pristine Angel"/>
-        <card number="1" name="Cloudgoat Ranger"/>
-        <card number="1" name="Knight of the White Orchid"/>
-        <card number="1" name="Student of Warfare"/>
-        <card number="1" name="Balance"/>
-        <card number="1" name="Martial Coup"/>
-        <card number="1" name="Disenchant"/>
-        <card number="1" name="Wrath of God"/>
-        <card number="1" name="Worship"/>
-        <card number="1" name="Day of Judgment"/>
-        <card number="1" name="Swords to Plowshares"/>
-        <card number="1" name="Parallax Wave"/>
-        <card number="1" name="Decree of Justice"/>
-        <card number="1" name="Ajani Goldmane"/>
-        <card number="1" name="Oblivion Ring"/>
-        <card number="1" name="Gideon Jura"/>
-        <card number="1" name="Elspeth, Knight-Errant"/>
-        <card number="1" name="Orim's Thunder"/>
-        <card number="1" name="Path to Exile"/>
-        <card number="1" name="Land Tax"/>
-        <card number="1" name="Armageddon"/>
-        <card number="1" name="Glorious Anthem"/>
-        <card number="1" name="Spectral Procession"/>
-        <card number="1" name="Honor of the Pure"/>
-        <card number="1" name="Marshal's Anthem"/>
-        <card number="1" name="Mirran Crusader"/>
-        <card number="1" name="Hero of Bladehold"/>
-        <card number="1" name="Elspeth Tirel"/>
-        <card number="1" name="Soltari Champion"/>
-        <card number="1" name="Accorder Paladin"/>
-        <card number="1" name="Sunblast Angel"/>
-        <card number="1" name="Porcelain Legionnaire"/>
-        <card number="1" name="Stoneforge Mystic"/>
-        <card number="1" name="Blade Splicer"/>
-        <card number="1" name="Temporal Isolation"/>
-        <card number="1" name="Cloistered Youth"/>
-        <card number="1" name="Mikaeus, the Lunarch"/>
-        <card number="1" name="Rout"/>
-        <card number="1" name="Geist-Honored Monk"/>
-        <card number="1" name="Stonecloaker"/>
-        <card number="1" name="Faith's Fetters"/>
-        <card number="1" name="War Priest of Thune"/>
-        <card number="1" name="Knight of Meadowgrain"/>
-        <card number="1" name="Fiend Hunter"/>
-        <card number="1" name="Mentor of the Meek"/>
-        <card number="1" name="Grand Abolisher"/>
+        <card number="1" price="0" name="Karmic Guide"/>
+        <card number="1" price="0" name="Baneslayer Angel"/>
+        <card number="1" price="0" name="Mother of Runes"/>
+        <card number="1" price="0" name="Elite Vanguard"/>
+        <card number="1" price="0" name="Soltari Crusader"/>
+        <card number="1" price="0" name="Paladin en-Vec"/>
+        <card number="1" price="0" name="Soltari Monk"/>
+        <card number="1" price="0" name="Reveillark"/>
+        <card number="1" price="0" name="Sun Titan"/>
+        <card number="1" price="0" name="Soltari Priest"/>
+        <card number="1" price="0" name="Eternal Dragon"/>
+        <card number="1" price="0" name="Exalted Angel"/>
+        <card number="1" price="0" name="Yosei, the Morning Star"/>
+        <card number="1" price="0" name="Isamaru, Hound of Konda"/>
+        <card number="1" price="0" name="Pristine Angel"/>
+        <card number="1" price="0" name="Cloudgoat Ranger"/>
+        <card number="1" price="0" name="Knight of the White Orchid"/>
+        <card number="1" price="0" name="Student of Warfare"/>
+        <card number="1" price="0" name="Balance"/>
+        <card number="1" price="0" name="Martial Coup"/>
+        <card number="1" price="0" name="Disenchant"/>
+        <card number="1" price="0" name="Wrath of God"/>
+        <card number="1" price="0" name="Worship"/>
+        <card number="1" price="0" name="Day of Judgment"/>
+        <card number="1" price="0" name="Swords to Plowshares"/>
+        <card number="1" price="0" name="Parallax Wave"/>
+        <card number="1" price="0" name="Decree of Justice"/>
+        <card number="1" price="0" name="Ajani Goldmane"/>
+        <card number="1" price="0" name="Oblivion Ring"/>
+        <card number="1" price="0" name="Gideon Jura"/>
+        <card number="1" price="0" name="Elspeth, Knight-Errant"/>
+        <card number="1" price="0" name="Orim's Thunder"/>
+        <card number="1" price="0" name="Path to Exile"/>
+        <card number="1" price="0" name="Land Tax"/>
+        <card number="1" price="0" name="Armageddon"/>
+        <card number="1" price="0" name="Glorious Anthem"/>
+        <card number="1" price="0" name="Spectral Procession"/>
+        <card number="1" price="0" name="Honor of the Pure"/>
+        <card number="1" price="0" name="Marshal's Anthem"/>
+        <card number="1" price="0" name="Mirran Crusader"/>
+        <card number="1" price="0" name="Hero of Bladehold"/>
+        <card number="1" price="0" name="Elspeth Tirel"/>
+        <card number="1" price="0" name="Soltari Champion"/>
+        <card number="1" price="0" name="Accorder Paladin"/>
+        <card number="1" price="0" name="Porcelain Legionnaire"/>
+        <card number="1" price="0" name="Stoneforge Mystic"/>
+        <card number="1" price="0" name="Blade Splicer"/>
+        <card number="1" price="0" name="Temporal Isolation"/>
+        <card number="1" price="0" name="Cloistered Youth"/>
+        <card number="1" price="0" name="Mikaeus, the Lunarch"/>
+        <card number="1" price="0" name="Rout"/>
+        <card number="1" price="0" name="Geist-Honored Monk"/>
+        <card number="1" price="0" name="Stonecloaker"/>
+        <card number="1" price="0" name="Faith's Fetters"/>
+        <card number="1" price="0" name="War Priest of Thune"/>
+        <card number="1" price="0" name="Knight of Meadowgrain"/>
+        <card number="1" price="0" name="Fiend Hunter"/>
+        <card number="1" price="0" name="Mentor of the Meek"/>
+        <card number="1" price="0" name="Grand Abolisher"/>
+        <card number="1" price="0" name="Angelic Destiny"/>
     </zone>
 </cockatrice_deck>

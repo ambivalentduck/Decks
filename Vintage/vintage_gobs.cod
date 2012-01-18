@@ -3,50 +3,50 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Mox Emerald"/>
-        <card number="1" name="Mox Jet"/>
-        <card number="1" name="Mox Ruby"/>
-        <card number="1" name="Mox Pearl"/>
-        <card number="1" name="Mox Sapphire"/>
-        <card number="1" name="Black Lotus"/>
-        <card number="4" name="Earwig Squad"/>
-        <card number="4" name="Goblin Lackey"/>
-        <card number="4" name="Lightning Bolt"/>
-        <card number="4" name="Goblin Matron"/>
-        <card number="1" name="Vexing Shusher"/>
-        <card number="2" name="Wasteland"/>
-        <card number="1" name="Strip Mine"/>
-        <card number="1" name="Demonic Tutor"/>
-        <card number="1" name="Vampiric Tutor"/>
-        <card number="1" name="Demonic Consultation"/>
-        <card number="2" name="Mountain"/>
-        <card number="4" name="Badlands"/>
-        <card number="1" name="Gempalm Incinerator"/>
-        <card number="1" name="Sol Ring"/>
-        <card number="1" name="Mana Crypt"/>
-        <card number="2" name="Wort, Boggart Auntie"/>
-        <card number="4" name="Bloodstained Mire"/>
-        <card number="2" name="Wooded Foothills"/>
-        <card number="2" name="Volcanic Island"/>
-        <card number="1" name="Ancestral Recall"/>
-        <card number="1" name="Time Walk"/>
-        <card number="1" name="Goblin Welder"/>
-        <card number="1" name="Mogg War Marshal"/>
-        <card number="1" name="Tormod's Crypt"/>
-        <card number="1" name="Brainstorm"/>
-        <card number="1" name="Goblin Tinkerer"/>
-        <card number="3" name="Surgical Extraction"/>
-        <card number="1" name="Stingscourger"/>
-        <card number="1" name="Steel Sabotage"/>
+        <card number="1" price="0" name="Mox Emerald"/>
+        <card number="1" price="0" name="Mox Jet"/>
+        <card number="1" price="0" name="Mox Ruby"/>
+        <card number="1" price="0" name="Mox Pearl"/>
+        <card number="1" price="0" name="Mox Sapphire"/>
+        <card number="1" price="0" name="Black Lotus"/>
+        <card number="4" price="0" name="Earwig Squad"/>
+        <card number="4" price="0" name="Goblin Lackey"/>
+        <card number="4" price="0" name="Lightning Bolt"/>
+        <card number="4" price="0" name="Goblin Matron"/>
+        <card number="1" price="0" name="Vexing Shusher"/>
+        <card number="2" price="0" name="Wasteland"/>
+        <card number="1" price="0" name="Strip Mine"/>
+        <card number="1" price="0" name="Demonic Tutor"/>
+        <card number="1" price="0" name="Vampiric Tutor"/>
+        <card number="1" price="0" name="Demonic Consultation"/>
+        <card number="2" price="0" name="Mountain"/>
+        <card number="4" price="0" name="Badlands"/>
+        <card number="1" price="0" name="Gempalm Incinerator"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Mana Crypt"/>
+        <card number="2" price="0" name="Wort, Boggart Auntie"/>
+        <card number="4" price="0" name="Bloodstained Mire"/>
+        <card number="2" price="0" name="Wooded Foothills"/>
+        <card number="2" price="0" name="Volcanic Island"/>
+        <card number="1" price="0" name="Ancestral Recall"/>
+        <card number="1" price="0" name="Time Walk"/>
+        <card number="1" price="0" name="Goblin Welder"/>
+        <card number="1" price="0" name="Mogg War Marshal"/>
+        <card number="1" price="0" name="Tormod's Crypt"/>
+        <card number="1" price="0" name="Brainstorm"/>
+        <card number="1" price="0" name="Goblin Tinkerer"/>
+        <card number="3" price="0" name="Surgical Extraction"/>
+        <card number="1" price="0" name="Stingscourger"/>
+        <card number="1" price="0" name="Steel Sabotage"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Red Elemental Blast"/>
-        <card number="1" name="Pyroblast"/>
-        <card number="4" name="Flusterstorm"/>
-        <card number="3" name="Pulverize"/>
-        <card number="2" name="Planar Void"/>
-        <card number="1" name="Tormod's Crypt"/>
-        <card number="2" name="Pyrokinesis"/>
-        <card number="1" name="Wasteland"/>
+        <card number="3" price="0" name="Pulverize"/>
+        <card number="1" price="0" name="Planar Void"/>
+        <card number="1" price="0" name="Tormod's Crypt"/>
+        <card number="2" price="0" name="Pyrokinesis"/>
+        <card number="1" price="0" name="Wasteland"/>
+        <card number="2" price="0" name="Red Elemental Blast"/>
+        <card number="4" price="0" name="Mental Misstep"/>
+        <card number="1" price="0" name="Nihil Spellbomb"/>
     </zone>
 </cockatrice_deck>

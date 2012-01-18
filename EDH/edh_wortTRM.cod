@@ -21,8 +21,6 @@
         <card number="1" price="0" name="Explosive Vegetation"/>
         <card number="1" price="0" name="Primal Growth"/>
         <card number="1" price="0" name="Rude Awakening"/>
-        <card number="1" price="0" name="Rolling Thunder"/>
-        <card number="1" price="0" name="Sarkhan Vol"/>
         <card number="1" price="0" name="Hull Breach"/>
         <card number="1" price="0" name="Heat Shimmer"/>
         <card number="1" price="0" name="Reiterate"/>
@@ -73,5 +71,7 @@
         <card number="1" price="0" name="Oath of Druids"/>
         <card number="1" price="0" name="Chaos Warp"/>
         <card number="1" price="0" name="Reap and Sow"/>
+        <card number="1" price="0" name="Devil's Play"/>
+        <card number="1" price="0" name="Tawnos's Coffin"/>
     </zone>
 </cockatrice_deck>
