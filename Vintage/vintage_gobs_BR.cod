@@ -27,22 +27,22 @@
         <card number="1" price="0" name="Wort, Boggart Auntie"/>
         <card number="4" price="0" name="Bloodstained Mire"/>
         <card number="1" price="0" name="Goblin Welder"/>
-        <card number="1" price="0" name="Goblin Tinkerer"/>
+        <card number="2" price="0" name="Goblin Tinkerer"/>
         <card number="1" price="0" name="Stingscourger"/>
         <card number="2" price="0" name="Scalding Tarn"/>
         <card number="1" price="0" name="Swamp"/>
         <card number="4" price="0" name="Mental Misstep"/>
         <card number="1" price="0" name="Mad Auntie"/>
-        <card number="1" price="0" name="Goblin Chieftain"/>
-        <card number="4" price="0" name="Didgeridoo"/>
+        <card number="3" price="0" name="Electrostatic Bolt"/>
+        <card number="1" price="0" name="Grafdigger's Cage"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Pyroblast"/>
         <card number="4" price="0" name="Pulverize"/>
+        <card number="3" price="0" name="Grafdigger's Cage"/>
         <card number="1" price="0" name="Wasteland"/>
         <card number="2" price="0" name="Tormod's Crypt"/>
-        <card number="4" price="0" name="Pyrokinesis"/>
-        <card number="1" price="0" name="Leyline of the Void"/>
-        <card number="1" price="0" name="Patriarch's Bidding"/>
+        <card number="1" price="0" name="Mad Auntie"/>
+        <card number="2" price="0" name="Leyline of the Void"/>
     </zone>
 </cockatrice_deck>
