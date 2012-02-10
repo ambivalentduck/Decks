@@ -7,7 +7,6 @@
         <card number="1" price="0" name="Kokusho, the Evening Star"/>
         <card number="1" price="0" name="Oona's Prowler"/>
         <card number="1" price="0" name="Nezumi Shortfang"/>
-        <card number="1" price="0" name="Ob Nixilis, the Fallen"/>
         <card number="1" price="0" name="Carnophage"/>
         <card number="1" price="0" name="Vampire Lacerator"/>
         <card number="1" price="0" name="Skeletal Vampire"/>
@@ -45,7 +44,6 @@
         <card number="1" price="0" name="Phyrexian Arena"/>
         <card number="1" price="0" name="Hymn to Tourach"/>
         <card number="1" price="0" name="Recurring Nightmare"/>
-        <card number="1" price="0" name="Geth, Lord of the Vault"/>
         <card number="1" price="0" name="Dauthi Marauder"/>
         <card number="1" price="0" name="Skinrender"/>
         <card number="1" price="0" name="Go for the Throat"/>
@@ -55,7 +53,6 @@
         <card number="1" price="0" name="Gatekeeper of Malakir"/>
         <card number="1" price="0" name="Sorin Markov"/>
         <card number="1" price="0" name="Dark Confidant"/>
-        <card number="1" price="0" name="Blind Creeper"/>
         <card number="1" price="0" name="Diregraf Ghoul"/>
         <card number="1" price="0" name="Bloodgift Demon"/>
         <card number="1" price="0" name="Vampire Interloper"/>
@@ -63,5 +60,8 @@
         <card number="1" price="0" name="Bloodline Keeper"/>
         <card number="1" price="0" name="Nekrataal"/>
         <card number="1" price="0" name="Animate Dead"/>
+        <card number="1" price="0" name="Gravecrawler"/>
+        <card number="1" price="0" name="Massacre Wurm"/>
+        <card number="1" price="0" name="Mikaeus, the Unhallowed"/>
     </zone>
 </cockatrice_deck>

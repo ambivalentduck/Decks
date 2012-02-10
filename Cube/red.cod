@@ -3,65 +3,65 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Inferno Titan"/>
-        <card number="1" name="Squee, Goblin Nabob"/>
-        <card number="1" name="Flametongue Kavu"/>
-        <card number="1" name="Grim Lavamancer"/>
-        <card number="1" name="Blood Knight"/>
-        <card number="1" name="Siege-Gang Commander"/>
-        <card number="1" name="Avalanche Riders"/>
-        <card number="1" name="Hell's Thunder"/>
-        <card number="1" name="Keldon Champion"/>
-        <card number="1" name="Stigma Lasher"/>
-        <card number="1" name="Sulfur Elemental"/>
-        <card number="1" name="Dragonmaster Outcast"/>
-        <card number="1" name="Tin Street Hooligan"/>
-        <card number="1" name="Hellspark Elemental"/>
-        <card number="1" name="Flameblast Dragon"/>
-        <card number="1" name="Kiki-Jiki, Mirror Breaker"/>
-        <card number="1" name="Mogg Fanatic"/>
-        <card number="1" name="Kird Ape"/>
-        <card number="1" name="Goblin Guide"/>
-        <card number="1" name="Keldon Marauders"/>
-        <card number="1" name="Banefire"/>
-        <card number="1" name="Molten Rain"/>
-        <card number="1" name="Flame Javelin"/>
-        <card number="1" name="Shattering Spree"/>
-        <card number="1" name="Magma Jet"/>
-        <card number="1" name="Incinerate"/>
-        <card number="1" name="Sulfuric Vortex"/>
-        <card number="1" name="Ancient Grudge"/>
-        <card number="1" name="Pillage"/>
-        <card number="1" name="Wheel of Fortune"/>
-        <card number="1" name="Stone Rain"/>
-        <card number="1" name="Char"/>
-        <card number="1" name="Chain Lightning"/>
-        <card number="1" name="Demonfire"/>
-        <card number="1" name="Fireblast"/>
-        <card number="1" name="Lightning Bolt"/>
-        <card number="1" name="Koth of the Hammer"/>
-        <card number="1" name="Comet Storm"/>
-        <card number="1" name="Conquering Manticore"/>
-        <card number="1" name="Viashino Slaughtermaster"/>
-        <card number="1" name="Goblin Ruinblaster"/>
-        <card number="1" name="Plated Geopede"/>
-        <card number="1" name="Moltensteel Dragon"/>
-        <card number="1" name="Urabrask the Hidden"/>
-        <card number="1" name="Spikeshot Elder"/>
-        <card number="1" name="Arc Trail"/>
-        <card number="1" name="Searing Blaze"/>
-        <card number="1" name="Burst Lightning"/>
-        <card number="1" name="Chandra Nalaar"/>
-        <card number="1" name="Goblin Wardriver"/>
-        <card number="1" name="Chandra's Phoenix"/>
-        <card number="1" name="Reckless Waif"/>
-        <card number="1" name="Kargan Dragonlord"/>
-        <card number="1" name="Devil's Play"/>
-        <card number="1" name="Hellkite Charger"/>
-        <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Instigator Gang"/>
-        <card number="1" name="Ember Hauler"/>
-        <card number="1" name="Stromkirk Noble"/>
-        <card number="1" name="Chandra, the Firebrand"/>
+        <card number="1" price="0" name="Inferno Titan"/>
+        <card number="1" price="0" name="Squee, Goblin Nabob"/>
+        <card number="1" price="0" name="Flametongue Kavu"/>
+        <card number="1" price="0" name="Grim Lavamancer"/>
+        <card number="1" price="0" name="Blood Knight"/>
+        <card number="1" price="0" name="Siege-Gang Commander"/>
+        <card number="1" price="0" name="Avalanche Riders"/>
+        <card number="1" price="0" name="Hell's Thunder"/>
+        <card number="1" price="0" name="Keldon Champion"/>
+        <card number="1" price="0" name="Stigma Lasher"/>
+        <card number="1" price="0" name="Sulfur Elemental"/>
+        <card number="1" price="0" name="Tin Street Hooligan"/>
+        <card number="1" price="0" name="Hellspark Elemental"/>
+        <card number="1" price="0" name="Flameblast Dragon"/>
+        <card number="1" price="0" name="Kiki-Jiki, Mirror Breaker"/>
+        <card number="1" price="0" name="Mogg Fanatic"/>
+        <card number="1" price="0" name="Kird Ape"/>
+        <card number="1" price="0" name="Goblin Guide"/>
+        <card number="1" price="0" name="Keldon Marauders"/>
+        <card number="1" price="0" name="Banefire"/>
+        <card number="1" price="0" name="Molten Rain"/>
+        <card number="1" price="0" name="Flame Javelin"/>
+        <card number="1" price="0" name="Shattering Spree"/>
+        <card number="1" price="0" name="Magma Jet"/>
+        <card number="1" price="0" name="Incinerate"/>
+        <card number="1" price="0" name="Sulfuric Vortex"/>
+        <card number="1" price="0" name="Ancient Grudge"/>
+        <card number="1" price="0" name="Pillage"/>
+        <card number="1" price="0" name="Wheel of Fortune"/>
+        <card number="1" price="0" name="Stone Rain"/>
+        <card number="1" price="0" name="Char"/>
+        <card number="1" price="0" name="Chain Lightning"/>
+        <card number="1" price="0" name="Demonfire"/>
+        <card number="1" price="0" name="Fireblast"/>
+        <card number="1" price="0" name="Lightning Bolt"/>
+        <card number="1" price="0" name="Koth of the Hammer"/>
+        <card number="1" price="0" name="Conquering Manticore"/>
+        <card number="1" price="0" name="Viashino Slaughtermaster"/>
+        <card number="1" price="0" name="Goblin Ruinblaster"/>
+        <card number="1" price="0" name="Plated Geopede"/>
+        <card number="1" price="0" name="Moltensteel Dragon"/>
+        <card number="1" price="0" name="Urabrask the Hidden"/>
+        <card number="1" price="0" name="Spikeshot Elder"/>
+        <card number="1" price="0" name="Arc Trail"/>
+        <card number="1" price="0" name="Searing Blaze"/>
+        <card number="1" price="0" name="Burst Lightning"/>
+        <card number="1" price="0" name="Chandra Nalaar"/>
+        <card number="1" price="0" name="Goblin Wardriver"/>
+        <card number="1" price="0" name="Chandra's Phoenix"/>
+        <card number="1" price="0" name="Reckless Waif"/>
+        <card number="1" price="0" name="Kargan Dragonlord"/>
+        <card number="1" price="0" name="Hellkite Charger"/>
+        <card number="1" price="0" name="Chaos Warp"/>
+        <card number="1" price="0" name="Instigator Gang"/>
+        <card number="1" price="0" name="Ember Hauler"/>
+        <card number="1" price="0" name="Stromkirk Noble"/>
+        <card number="1" price="0" name="Chandra, the Firebrand"/>
+        <card number="1" price="0" name="Devil’s Play"/>
+        <card number="1" price="0" name="Rivalry"/>
+        <card number="1" price="0" name="Hellrider"/>
     </zone>
 </cockatrice_deck>

@@ -3,65 +3,65 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Wake Thrasher"/>
-        <card number="1" name="Venser, Shaper Savant"/>
-        <card number="1" name="Vendilion Clique"/>
-        <card number="1" name="Teferi, Mage of Zhalfir"/>
-        <card number="1" name="Serendib Efreet"/>
-        <card number="1" name="Kira, Great Glass-Spinner"/>
-        <card number="1" name="Looter il-Kor"/>
-        <card number="1" name="Mulldrifter"/>
-        <card number="1" name="Old Man of the Sea"/>
-        <card number="1" name="Lighthouse Chronologist"/>
-        <card number="1" name="Palinchron"/>
-        <card number="1" name="Sphinx of Jwar Isle"/>
-        <card number="1" name="Glen Elendra Archmage"/>
-        <card number="1" name="Keiga, the Tide Star"/>
-        <card number="1" name="Meloku the Clouded Mirror"/>
-        <card number="1" name="Sower of Temptation"/>
-        <card number="1" name="Man-o'-War"/>
-        <card number="1" name="Remand"/>
-        <card number="1" name="Psionic Blast"/>
-        <card number="1" name="Capsize"/>
-        <card number="1" name="Tinker"/>
-        <card number="1" name="Jace, the Mind Sculptor"/>
-        <card number="1" name="Parallax Tide"/>
-        <card number="1" name="Force of Will"/>
-        <card number="1" name="Treachery"/>
-        <card number="1" name="Mana Drain"/>
-        <card number="1" name="Dissipate"/>
-        <card number="1" name="Bribery"/>
-        <card number="1" name="Mana Leak"/>
-        <card number="1" name="Ancestral Vision"/>
-        <card number="1" name="Time Spiral"/>
-        <card number="1" name="Vedalken Shackles"/>
-        <card number="1" name="Jace Beleren"/>
-        <card number="1" name="Ancestral Recall"/>
-        <card number="1" name="Future Sight"/>
-        <card number="1" name="Counterspell"/>
-        <card number="1" name="Exclude"/>
-        <card number="1" name="Fact or Fiction"/>
-        <card number="1" name="Dismiss"/>
-        <card number="1" name="Brainstorm"/>
-        <card number="1" name="Opposition"/>
-        <card number="1" name="Desertion"/>
-        <card number="1" name="Control Magic"/>
-        <card number="1" name="Cryptic Command"/>
-        <card number="1" name="Upheaval"/>
-        <card number="1" name="Time Walk"/>
-        <card number="1" name="Preordain"/>
-        <card number="1" name="Consecrated Sphinx"/>
-        <card number="1" name="Frost Titan"/>
-        <card number="1" name="Sunder"/>
-        <card number="1" name="Phyrexian Metamorph"/>
-        <card number="1" name="Gifts Ungiven"/>
-        <card number="1" name="Sphinx of Lost Truths"/>
-        <card number="1" name="Jace, Memory Adept"/>
-        <card number="1" name="Snapcaster Mage"/>
-        <card number="1" name="Phantasmal Image"/>
-        <card number="1" name="Gilded Drake"/>
-        <card number="1" name="AEther Adept"/>
-        <card number="1" name="Sea Gate Oracle"/>
-        <card number="1" name="Sun Quan, Lord of Wu"/>
+        <card number="1" price="0" name="Wake Thrasher"/>
+        <card number="1" price="0" name="Venser, Shaper Savant"/>
+        <card number="1" price="0" name="Vendilion Clique"/>
+        <card number="1" price="0" name="Teferi, Mage of Zhalfir"/>
+        <card number="1" price="0" name="Serendib Efreet"/>
+        <card number="1" price="0" name="Kira, Great Glass-Spinner"/>
+        <card number="1" price="0" name="Looter il-Kor"/>
+        <card number="1" price="0" name="Mulldrifter"/>
+        <card number="1" price="0" name="Old Man of the Sea"/>
+        <card number="1" price="0" name="Lighthouse Chronologist"/>
+        <card number="1" price="0" name="Palinchron"/>
+        <card number="1" price="0" name="Sphinx of Jwar Isle"/>
+        <card number="1" price="0" name="Glen Elendra Archmage"/>
+        <card number="1" price="0" name="Keiga, the Tide Star"/>
+        <card number="1" price="0" name="Meloku the Clouded Mirror"/>
+        <card number="1" price="0" name="Sower of Temptation"/>
+        <card number="1" price="0" name="Man-o'-War"/>
+        <card number="1" price="0" name="Remand"/>
+        <card number="1" price="0" name="Psionic Blast"/>
+        <card number="1" price="0" name="Capsize"/>
+        <card number="1" price="0" name="Tinker"/>
+        <card number="1" price="0" name="Jace, the Mind Sculptor"/>
+        <card number="1" price="0" name="Parallax Tide"/>
+        <card number="1" price="0" name="Force of Will"/>
+        <card number="1" price="0" name="Treachery"/>
+        <card number="1" price="0" name="Mana Drain"/>
+        <card number="1" price="0" name="Bribery"/>
+        <card number="1" price="0" name="Mana Leak"/>
+        <card number="1" price="0" name="Ancestral Vision"/>
+        <card number="1" price="0" name="Time Spiral"/>
+        <card number="1" price="0" name="Vedalken Shackles"/>
+        <card number="1" price="0" name="Jace Beleren"/>
+        <card number="1" price="0" name="Ancestral Recall"/>
+        <card number="1" price="0" name="Future Sight"/>
+        <card number="1" price="0" name="Counterspell"/>
+        <card number="1" price="0" name="Exclude"/>
+        <card number="1" price="0" name="Fact or Fiction"/>
+        <card number="1" price="0" name="Dismiss"/>
+        <card number="1" price="0" name="Brainstorm"/>
+        <card number="1" price="0" name="Opposition"/>
+        <card number="1" price="0" name="Desertion"/>
+        <card number="1" price="0" name="Control Magic"/>
+        <card number="1" price="0" name="Cryptic Command"/>
+        <card number="1" price="0" name="Time Walk"/>
+        <card number="1" price="0" name="Preordain"/>
+        <card number="1" price="0" name="Consecrated Sphinx"/>
+        <card number="1" price="0" name="Frost Titan"/>
+        <card number="1" price="0" name="Sunder"/>
+        <card number="1" price="0" name="Phyrexian Metamorph"/>
+        <card number="1" price="0" name="Gifts Ungiven"/>
+        <card number="1" price="0" name="Sphinx of Lost Truths"/>
+        <card number="1" price="0" name="Jace, Memory Adept"/>
+        <card number="1" price="0" name="Snapcaster Mage"/>
+        <card number="1" price="0" name="Phantasmal Image"/>
+        <card number="1" price="0" name="Gilded Drake"/>
+        <card number="1" price="0" name="AEther Adept"/>
+        <card number="1" price="0" name="Sea Gate Oracle"/>
+        <card number="1" price="0" name="Sun Quan, Lord of Wu"/>
+        <card number="1" price="0" name="Time Warp"/>
+        <card number="1" price="0" name="Forbid"/>
     </zone>
 </cockatrice_deck>

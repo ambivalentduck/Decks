@@ -13,7 +13,7 @@
         <card number="1" price="0" name="Total War"/>
         <card number="1" price="0" name="Lightning Greaves"/>
         <card number="1" price="0" name="Darksteel Plate"/>
-        <card number="26" price="0" name="Mountain"/>
+        <card number="25" price="0" name="Mountain"/>
         <card number="1" price="0" name="Shinka, the Bloodsoaked Keep"/>
         <card number="1" price="0" name="Hellkite Charger"/>
         <card number="1" price="0" name="Aggravated Assault"/>
@@ -78,5 +78,6 @@
         <card number="1" price="0" name="Sword of Light and Shadow"/>
         <card number="1" price="0" name="Umezawa's Jitte"/>
         <card number="1" price="0" name="Worn Powerstone"/>
+        <card number="1" price="0" name="Eye of Ugin"/>
     </zone>
 </cockatrice_deck>

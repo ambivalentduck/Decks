@@ -31,10 +31,10 @@
         <card number="1" price="0" name="Wrath of God"/>
         <card number="1" price="0" name="Umezawa's Jitte"/>
         <card number="3" price="0" name="Path to Exile"/>
-        <card number="1" price="0" name="Crucible Of Worlds"/>
         <card number="4" price="0" name="Leyline of the Void"/>
         <card number="2" price="0" name="Geist of Saint Traft"/>
         <card number="1" price="0" name="Elspeth, Knight-Errant"/>
         <card number="2" price="0" name="Krosan Grip"/>
+        <card number="1" price="0" name="Crucible of Worlds"/>
     </zone>
 </cockatrice_deck>

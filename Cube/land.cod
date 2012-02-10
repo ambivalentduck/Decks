@@ -3,65 +3,65 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Breeding Pool"/>
-        <card number="1" name="Izzet Boilerworks"/>
-        <card number="1" name="Badlands"/>
-        <card number="1" name="Volcanic Island"/>
-        <card number="1" name="Barbarian Ring"/>
-        <card number="1" name="Tundra"/>
-        <card number="1" name="Tropical Island"/>
-        <card number="1" name="Gruul Turf"/>
-        <card number="1" name="Sacred Foundry"/>
-        <card number="1" name="Bazaar of Baghdad"/>
-        <card number="1" name="Strip Mine"/>
-        <card number="1" name="Underground Sea"/>
-        <card number="1" name="Boros Garrison"/>
-        <card number="1" name="Maze of Ith"/>
-        <card number="1" name="Stomping Ground"/>
-        <card number="1" name="Bayou"/>
-        <card number="1" name="Wasteland"/>
-        <card number="1" name="Creeping Tar Pit"/>
-        <card number="1" name="Twilight Mire"/>
-        <card number="1" name="Temple Garden"/>
-        <card number="1" name="Overgrown Tomb"/>
-        <card number="1" name="Battlefield Forge"/>
-        <card number="1" name="Simic Growth Chamber"/>
-        <card number="1" name="Blood Crypt"/>
-        <card number="1" name="Shelldock Isle"/>
-        <card number="1" name="Oran-Rief, the Vastwood"/>
-        <card number="1" name="Orzhov Basilica"/>
-        <card number="1" name="Selesnya Sanctuary"/>
-        <card number="1" name="Fetid Heath"/>
-        <card number="1" name="Flooded Strand"/>
-        <card number="1" name="Scalding Tarn"/>
-        <card number="1" name="Verdant Catacombs"/>
-        <card number="1" name="Marsh Flats"/>
-        <card number="1" name="Polluted Delta"/>
-        <card number="1" name="Misty Rainforest"/>
-        <card number="1" name="Bloodstained Mire"/>
-        <card number="1" name="Arid Mesa"/>
-        <card number="1" name="Windswept Heath"/>
-        <card number="1" name="Wooded Foothills"/>
-        <card number="1" name="Urborg, Tomb of Yawgmoth"/>
-        <card number="1" name="Windbrisk Heights"/>
-        <card number="1" name="Taiga"/>
-        <card number="1" name="Godless Shrine"/>
-        <card number="1" name="Steam Vents"/>
-        <card number="1" name="Watery Grave"/>
-        <card number="1" name="Rakdos Carnarium"/>
-        <card number="1" name="Azorius Chancery"/>
-        <card number="1" name="Golgari Rot Farm"/>
-        <card number="1" name="Scrubland"/>
-        <card number="1" name="Dimir Aqueduct"/>
-        <card number="1" name="Mishra's Factory"/>
-        <card number="1" name="Cascade Bluffs"/>
-        <card number="1" name="Horizon Canopy"/>
-        <card number="1" name="Plateau"/>
-        <card number="1" name="Savannah"/>
-        <card number="1" name="Hallowed Fountain"/>
-        <card number="1" name="Graven Cairns"/>
-        <card number="1" name="Kessig Wolf Run"/>
-        <card number="1" name="Moorland Haunt"/>
-        <card number="1" name="Flooded Grove"/>
+        <card number="1" price="0" name="Breeding Pool"/>
+        <card number="1" price="0" name="Izzet Boilerworks"/>
+        <card number="1" price="0" name="Badlands"/>
+        <card number="1" price="0" name="Volcanic Island"/>
+        <card number="1" price="0" name="Barbarian Ring"/>
+        <card number="1" price="0" name="Tundra"/>
+        <card number="1" price="0" name="Tropical Island"/>
+        <card number="1" price="0" name="Sacred Foundry"/>
+        <card number="1" price="0" name="Bazaar of Baghdad"/>
+        <card number="1" price="0" name="Strip Mine"/>
+        <card number="1" price="0" name="Underground Sea"/>
+        <card number="1" price="0" name="Maze of Ith"/>
+        <card number="1" price="0" name="Stomping Ground"/>
+        <card number="1" price="0" name="Bayou"/>
+        <card number="1" price="0" name="Wasteland"/>
+        <card number="1" price="0" name="Creeping Tar Pit"/>
+        <card number="1" price="0" name="Twilight Mire"/>
+        <card number="1" price="0" name="Temple Garden"/>
+        <card number="1" price="0" name="Overgrown Tomb"/>
+        <card number="1" price="0" name="Battlefield Forge"/>
+        <card number="1" price="0" name="Simic Growth Chamber"/>
+        <card number="1" price="0" name="Blood Crypt"/>
+        <card number="1" price="0" name="Shelldock Isle"/>
+        <card number="1" price="0" name="Oran-Rief, the Vastwood"/>
+        <card number="1" price="0" name="Fetid Heath"/>
+        <card number="1" price="0" name="Flooded Strand"/>
+        <card number="1" price="0" name="Scalding Tarn"/>
+        <card number="1" price="0" name="Verdant Catacombs"/>
+        <card number="1" price="0" name="Marsh Flats"/>
+        <card number="1" price="0" name="Polluted Delta"/>
+        <card number="1" price="0" name="Misty Rainforest"/>
+        <card number="1" price="0" name="Bloodstained Mire"/>
+        <card number="1" price="0" name="Arid Mesa"/>
+        <card number="1" price="0" name="Windswept Heath"/>
+        <card number="1" price="0" name="Wooded Foothills"/>
+        <card number="1" price="0" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" price="0" name="Windbrisk Heights"/>
+        <card number="1" price="0" name="Taiga"/>
+        <card number="1" price="0" name="Godless Shrine"/>
+        <card number="1" price="0" name="Steam Vents"/>
+        <card number="1" price="0" name="Watery Grave"/>
+        <card number="1" price="0" name="Golgari Rot Farm"/>
+        <card number="1" price="0" name="Scrubland"/>
+        <card number="1" price="0" name="Mishra's Factory"/>
+        <card number="1" price="0" name="Cascade Bluffs"/>
+        <card number="1" price="0" name="Horizon Canopy"/>
+        <card number="1" price="0" name="Plateau"/>
+        <card number="1" price="0" name="Savannah"/>
+        <card number="1" price="0" name="Hallowed Fountain"/>
+        <card number="1" price="0" name="Graven Cairns"/>
+        <card number="1" price="0" name="Kessig Wolf Run"/>
+        <card number="1" price="0" name="Moorland Haunt"/>
+        <card number="1" price="0" name="Flooded Grove"/>
+        <card number="1" price="0" name="Vault of the Archangel"/>
+        <card number="1" price="0" name="Sunken Ruins"/>
+        <card number="1" price="0" name="Fire-Lit Thicket"/>
+        <card number="1" price="0" name="Mystic Gate"/>
+        <card number="1" price="0" name="Nantuko Monastery"/>
+        <card number="1" price="0" name="Stensia Bloodhall"/>
+        <card number="1" price="0" name="Sunhome, Fortress of the Legion"/>
     </zone>
 </cockatrice_deck>

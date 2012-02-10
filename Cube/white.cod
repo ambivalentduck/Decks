@@ -58,10 +58,10 @@
         <card number="1" price="0" name="Stonecloaker"/>
         <card number="1" price="0" name="Faith's Fetters"/>
         <card number="1" price="0" name="War Priest of Thune"/>
-        <card number="1" price="0" name="Knight of Meadowgrain"/>
         <card number="1" price="0" name="Fiend Hunter"/>
         <card number="1" price="0" name="Mentor of the Meek"/>
         <card number="1" price="0" name="Grand Abolisher"/>
         <card number="1" price="0" name="Angelic Destiny"/>
+        <card number="1" price="0" name="Eight-and-a-Half-Tails"/>
     </zone>
 </cockatrice_deck>

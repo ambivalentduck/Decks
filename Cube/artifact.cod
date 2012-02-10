@@ -47,7 +47,6 @@
         <card number="1" price="0" name="All Is Dust"/>
         <card number="1" price="0" name="Ratchet Bomb"/>
         <card number="1" price="0" name="Sword of Body and Mind"/>
-        <card number="1" price="0" name="Sword of Vengeance"/>
         <card number="1" price="0" name="Mimic Vat"/>
         <card number="1" price="0" name="Wurmcoil Engine"/>
         <card number="1" price="0" name="Myr Battlesphere"/>
@@ -63,5 +62,6 @@
         <card number="1" price="0" name="Spellskite"/>
         <card number="1" price="0" name="Molten-Tail Masticore"/>
         <card number="1" price="0" name="Smokestack"/>
+        <card number="1" price="0" name="Perilous Myr"/>
     </zone>
 </cockatrice_deck>
