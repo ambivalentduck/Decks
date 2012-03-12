@@ -21,9 +21,9 @@
         <card number="3" price="0" name="Mental Misstep"/>
         <card number="1" price="0" name="Brainstorm"/>
         <card number="1" price="0" name="Mystical Tutor"/>
-        <card number="3" price="0" name="Surgical Extraction"/>
+        <card number="1" price="0" name="Surgical Extraction"/>
         <card number="4" price="0" name="Tropical Island"/>
-        <card number="2" price="0" name="Forest"/>
+        <card number="1" price="0" name="Forest"/>
         <card number="3" price="0" name="Island"/>
         <card number="4" price="0" name="Misty Rainforest"/>
         <card number="1" price="0" name="Strip Mine"/>
@@ -32,12 +32,17 @@
         <card number="1" price="0" name="Black Lotus"/>
         <card number="1" price="0" name="Mana Crypt"/>
         <card number="1" price="0" name="Green Sun's Zenith"/>
+        <card number="1" price="0" name="Merchant Scroll"/>
+        <card number="1" price="0" name="Nature's Claim"/>
+        <card number="1" price="0" name="Polluted Delta"/>
     </zone>
     <zone name="side">
-        <card number="4" price="0" name="Grafdigger's Cage"/>
-        <card number="4" price="0" name="Nature's Claim"/>
+        <card number="3" price="0" name="Nature's Claim"/>
         <card number="3" price="0" name="Manriki-Gusari"/>
-        <card number="3" price="0" name="Sower of Temptation"/>
-        <card number="1" price="0" name="Umezawa's Jitte"/>
+        <card number="4" price="0" name="Sower of Temptation"/>
+        <card number="2" price="0" name="Umezawa's Jitte"/>
+        <card number="1" price="0" name="Flusterstorm"/>
+        <card number="1" price="0" name="Edric, Spymaster of Trest"/>
+        <card number="1" price="0" name="Scavenging Ooze"/>
     </zone>
 </cockatrice_deck>

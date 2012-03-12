@@ -3,7 +3,6 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" price="0" name="Fumiko the Lowblood"/>
         <card number="1" price="0" name="Kazuul, Tyrant of the Cliffs"/>
         <card number="1" price="0" name="Godo, Bandit Warlord"/>
         <card number="1" price="0" name="Extraplanar Lens"/>
@@ -79,5 +78,6 @@
         <card number="1" price="0" name="Umezawa's Jitte"/>
         <card number="1" price="0" name="Worn Powerstone"/>
         <card number="1" price="0" name="Eye of Ugin"/>
+        <card number="1" price="0" name="Curse of Stalked Prey"/>
     </zone>
 </cockatrice_deck>

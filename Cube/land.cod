@@ -60,8 +60,8 @@
         <card number="1" price="0" name="Sunken Ruins"/>
         <card number="1" price="0" name="Fire-Lit Thicket"/>
         <card number="1" price="0" name="Mystic Gate"/>
-        <card number="1" price="0" name="Nantuko Monastery"/>
-        <card number="1" price="0" name="Stensia Bloodhall"/>
         <card number="1" price="0" name="Sunhome, Fortress of the Legion"/>
+        <card number="1" price="0" name="Lavaclaw Reaches"/>
+        <card number="1" price="0" name="Stirring Wildwood"/>
     </zone>
 </cockatrice_deck>
