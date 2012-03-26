@@ -27,9 +27,10 @@
     <zone name="side">
         <card number="1" price="0" name="City of Brass"/>
         <card number="4" price="0" name="Ingot Chewer"/>
-        <card number="3" price="0" name="Unmask"/>
         <card number="2" price="0" name="Petrified Field"/>
         <card number="4" price="0" name="Chain of Vapor"/>
         <card number="1" price="0" name="Ichorid"/>
+        <card number="1" price="0" name="Elesh Norn, Grand Cenobite"/>
+        <card number="2" price="0" name="Serenity"/>
     </zone>
 </cockatrice_deck>
