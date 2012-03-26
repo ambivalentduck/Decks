@@ -3,37 +3,38 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Black Lotus"/>
-        <card number="4" name="Chalice of the Void"/>
-        <card number="4" name="Lodestone Golem"/>
-        <card number="1" name="Mana Crypt"/>
-        <card number="1" name="Mox Emerald"/>
-        <card number="1" name="Mox Jet"/>
-        <card number="1" name="Mox Pearl"/>
-        <card number="1" name="Mox Ruby"/>
-        <card number="1" name="Mox Sapphire"/>
-        <card number="2" name="Null Rod"/>
-        <card number="4" name="Phyrexian Revoker"/>
-        <card number="4" name="Slash Panther"/>
-        <card number="1" name="Sol Ring"/>
-        <card number="4" name="Sphere of Resistance"/>
-        <card number="4" name="Tangle Wire"/>
-        <card number="4" name="Thorn of Amethyst"/>
-        <card number="1" name="Trinisphere"/>
-        <card number="3" name="Phyrexian Metamorph"/>
-        <card number="4" name="Ancient Tomb"/>
-        <card number="2" name="City of Traitors"/>
-        <card number="2" name="Mishra's Factory"/>
-        <card number="4" name="Mishra's Workshop"/>
-        <card number="1" name="Strip Mine"/>
-        <card number="1" name="Tolarian Academy"/>
-        <card number="4" name="Wasteland"/>
+        <card number="4" price="0" name="Phyrexian Metamorph"/>
+        <card number="4" price="0" name="Mishra's Factory"/>
+        <card number="1" price="0" name="Strip Mine"/>
+        <card number="4" price="0" name="Mishra's Workshop"/>
+        <card number="1" price="0" name="Trinisphere"/>
+        <card number="4" price="0" name="Sphere of Resistance"/>
+        <card number="2" price="0" name="Thorn of Amethyst"/>
+        <card number="1" price="0" name="Rishadan Port"/>
+        <card number="4" price="0" name="Chalice of the Void"/>
+        <card number="4" price="0" name="Tangle Wire"/>
+        <card number="1" price="0" name="Mana Crypt"/>
+        <card number="4" price="0" name="Wasteland"/>
+        <card number="4" price="0" name="Ancient Tomb"/>
+        <card number="1" price="0" name="Black Lotus"/>
+        <card number="1" price="0" name="Mox Pearl"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Mox Ruby"/>
+        <card number="1" price="0" name="Mox Emerald"/>
+        <card number="1" price="0" name="Mox Sapphire"/>
+        <card number="1" price="0" name="Mox Jet"/>
+        <card number="3" price="0" name="Karn, Silver Golem"/>
+        <card number="4" price="0" name="Smokestack"/>
+        <card number="1" price="0" name="Tolarian Academy"/>
+        <card number="4" price="0" name="Lodestone Golem"/>
+        <card number="3" price="0" name="Crucible of Worlds"/>
     </zone>
     <zone name="side">
-        <card number="3" name="Crucible of Worlds"/>
-        <card number="3" name="Jester's Cap"/>
-        <card number="1" name="Phyrexian Metamorph"/>
-        <card number="4" name="Precursor Golem"/>
-        <card number="4" name="Relic of Progenitus"/>
+        <card number="3" price="0" name="Dismember"/>
+        <card number="4" price="0" name="Tormod's Crypt"/>
+        <card number="1" price="0" name="Ghost Quarter"/>
+        <card number="2" price="0" name="Duplicant"/>
+        <card number="1" price="0" name="Crucible of Worlds"/>
+        <card number="4" price="0" name="Grafdigger's Cage"/>
     </zone>
 </cockatrice_deck>
