@@ -14,7 +14,6 @@
         <card number="1" price="0" name="Rofellos, Llanowar Emissary"/>
         <card number="1" price="0" name="Tarmogoyf"/>
         <card number="1" price="0" name="Birds of Paradise"/>
-        <card number="1" price="0" name="Fyndhorn Elves"/>
         <card number="1" price="0" name="Sakura-Tribe Elder"/>
         <card number="1" price="0" name="Rampaging Baloths"/>
         <card number="1" price="0" name="Ohran Viper"/>
@@ -63,5 +62,6 @@
         <card number="1" price="0" name="Garruk Relentless"/>
         <card number="1" price="0" name="Strangleroot Geist"/>
         <card number="1" price="0" name="Vorapede"/>
+        <card number="1" price="0" name="Llanowar Elves"/>
     </zone>
 </cockatrice_deck>

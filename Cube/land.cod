@@ -4,14 +4,12 @@
     <comments></comments>
     <zone name="main">
         <card number="1" price="0" name="Breeding Pool"/>
-        <card number="1" price="0" name="Izzet Boilerworks"/>
         <card number="1" price="0" name="Badlands"/>
         <card number="1" price="0" name="Volcanic Island"/>
         <card number="1" price="0" name="Barbarian Ring"/>
         <card number="1" price="0" name="Tundra"/>
         <card number="1" price="0" name="Tropical Island"/>
         <card number="1" price="0" name="Sacred Foundry"/>
-        <card number="1" price="0" name="Bazaar of Baghdad"/>
         <card number="1" price="0" name="Strip Mine"/>
         <card number="1" price="0" name="Underground Sea"/>
         <card number="1" price="0" name="Maze of Ith"/>
@@ -22,8 +20,6 @@
         <card number="1" price="0" name="Twilight Mire"/>
         <card number="1" price="0" name="Temple Garden"/>
         <card number="1" price="0" name="Overgrown Tomb"/>
-        <card number="1" price="0" name="Battlefield Forge"/>
-        <card number="1" price="0" name="Simic Growth Chamber"/>
         <card number="1" price="0" name="Blood Crypt"/>
         <card number="1" price="0" name="Shelldock Isle"/>
         <card number="1" price="0" name="Oran-Rief, the Vastwood"/>
@@ -44,7 +40,6 @@
         <card number="1" price="0" name="Godless Shrine"/>
         <card number="1" price="0" name="Steam Vents"/>
         <card number="1" price="0" name="Watery Grave"/>
-        <card number="1" price="0" name="Golgari Rot Farm"/>
         <card number="1" price="0" name="Scrubland"/>
         <card number="1" price="0" name="Mishra's Factory"/>
         <card number="1" price="0" name="Cascade Bluffs"/>
@@ -63,5 +58,10 @@
         <card number="1" price="0" name="Sunhome, Fortress of the Legion"/>
         <card number="1" price="0" name="Lavaclaw Reaches"/>
         <card number="1" price="0" name="Stirring Wildwood"/>
+        <card number="1" price="0" name="Rugged Prairie"/>
+        <card number="1" price="0" name="Llanowar Wastes"/>
+        <card number="1" price="0" name="Library of Alexandria"/>
+        <card number="1" price="0" name="Yavimaya Coast"/>
+        <card number="1" price="0" name="Shivan Reef"/>
     </zone>
 </cockatrice_deck>

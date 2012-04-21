@@ -34,16 +34,14 @@
         <card number="1" price="0" name="Necropotence"/>
     </zone>
     <zone name="side">
-        <card number="3" price="0" name="Steel Sabotage"/>
-        <card number="2" price="0" name="Hurkyl's Recall"/>
-        <card number="1" price="0" name="Mana Crypt"/>
+        <card number="2" price="0" name="Steel Sabotage"/>
+        <card number="1" price="0" name="Hurkyl's Recall"/>
         <card number="1" price="0" name="Sol Ring"/>
-        <card number="1" price="0" name="Tinker"/>
-        <card number="1" price="0" name="Blightsteel Colossus"/>
         <card number="1" price="0" name="Mox Emerald"/>
-        <card number="1" price="0" name="Island"/>
-        <card number="2" price="0" name="Xantid Swarm"/>
-        <card number="1" price="0" name="Time Walk"/>
+        <card number="3" price="0" name="Xantid Swarm"/>
         <card number="1" price="0" name="Massacre"/>
+        <card number="4" price="0" name="Leyline of the Void"/>
+        <card number="1" price="0" name="Yixlid Jailer"/>
+        <card number="1" price="0" name="Virtue's Ruin"/>
     </zone>
 </cockatrice_deck>

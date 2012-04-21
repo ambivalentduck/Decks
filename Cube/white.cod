@@ -19,7 +19,6 @@
         <card number="1" price="0" name="Isamaru, Hound of Konda"/>
         <card number="1" price="0" name="Pristine Angel"/>
         <card number="1" price="0" name="Cloudgoat Ranger"/>
-        <card number="1" price="0" name="Knight of the White Orchid"/>
         <card number="1" price="0" name="Student of Warfare"/>
         <card number="1" price="0" name="Balance"/>
         <card number="1" price="0" name="Martial Coup"/>
@@ -63,5 +62,6 @@
         <card number="1" price="0" name="Grand Abolisher"/>
         <card number="1" price="0" name="Angelic Destiny"/>
         <card number="1" price="0" name="Eight-and-a-Half-Tails"/>
+        <card number="1" price="0" name="Lingering Souls"/>
     </zone>
 </cockatrice_deck>
