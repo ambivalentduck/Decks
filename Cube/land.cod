@@ -55,13 +55,13 @@
         <card number="1" price="0" name="Sunken Ruins"/>
         <card number="1" price="0" name="Fire-Lit Thicket"/>
         <card number="1" price="0" name="Mystic Gate"/>
-        <card number="1" price="0" name="Sunhome, Fortress of the Legion"/>
         <card number="1" price="0" name="Lavaclaw Reaches"/>
         <card number="1" price="0" name="Stirring Wildwood"/>
         <card number="1" price="0" name="Rugged Prairie"/>
         <card number="1" price="0" name="Llanowar Wastes"/>
         <card number="1" price="0" name="Library of Alexandria"/>
-        <card number="1" price="0" name="Yavimaya Coast"/>
-        <card number="1" price="0" name="Shivan Reef"/>
+        <card number="1" price="0" name="Slayers' Stronghold"/>
+        <card number="1" price="0" name="Alchemist's Refuge"/>
+        <card number="1" price="0" name="Desolate Lighthouse"/>
     </zone>
 </cockatrice_deck>

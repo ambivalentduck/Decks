@@ -54,14 +54,14 @@
         <card number="1" price="0" name="Mikaeus, the Lunarch"/>
         <card number="1" price="0" name="Rout"/>
         <card number="1" price="0" name="Geist-Honored Monk"/>
-        <card number="1" price="0" name="Stonecloaker"/>
         <card number="1" price="0" name="Faith's Fetters"/>
         <card number="1" price="0" name="War Priest of Thune"/>
         <card number="1" price="0" name="Fiend Hunter"/>
         <card number="1" price="0" name="Mentor of the Meek"/>
         <card number="1" price="0" name="Grand Abolisher"/>
-        <card number="1" price="0" name="Angelic Destiny"/>
         <card number="1" price="0" name="Eight-and-a-Half-Tails"/>
         <card number="1" price="0" name="Lingering Souls"/>
+        <card number="1" price="0" name="Silverblade Paladin"/>
+        <card number="1" price="0" name="Restoration Angel"/>
     </zone>
 </cockatrice_deck>

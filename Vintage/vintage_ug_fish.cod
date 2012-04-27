@@ -34,10 +34,10 @@
     </zone>
     <zone name="side">
         <card number="3" price="0" name="Nature's Claim"/>
-        <card number="2" price="0" name="Tormod's Crypt"/>
         <card number="3" price="0" name="Sower of Temptation"/>
         <card number="4" price="0" name="Grafdigger's Cage"/>
         <card number="2" price="0" name="Scavenging Ooze"/>
         <card number="1" price="0" name="Hurkyl's Recall"/>
+        <card number="2" price="0" name="Ravenous Trap"/>
     </zone>
 </cockatrice_deck>

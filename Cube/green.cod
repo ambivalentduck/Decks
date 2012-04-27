@@ -15,7 +15,6 @@
         <card number="1" price="0" name="Tarmogoyf"/>
         <card number="1" price="0" name="Birds of Paradise"/>
         <card number="1" price="0" name="Sakura-Tribe Elder"/>
-        <card number="1" price="0" name="Rampaging Baloths"/>
         <card number="1" price="0" name="Ohran Viper"/>
         <card number="1" price="0" name="Master of the Wild Hunt"/>
         <card number="1" price="0" name="Noble Hierarch"/>
@@ -48,7 +47,6 @@
         <card number="1" price="0" name="Acidic Slime"/>
         <card number="1" price="0" name="Cultivate"/>
         <card number="1" price="0" name="Saproling Burst"/>
-        <card number="1" price="0" name="Bellowing Tanglewurm"/>
         <card number="1" price="0" name="Terastodon"/>
         <card number="1" price="0" name="Beast Within"/>
         <card number="1" price="0" name="Kodama's Reach"/>
@@ -63,5 +61,7 @@
         <card number="1" price="0" name="Strangleroot Geist"/>
         <card number="1" price="0" name="Vorapede"/>
         <card number="1" price="0" name="Llanowar Elves"/>
+        <card number="1" price="0" name="Wolfir Silverheart"/>
+        <card number="1" price="0" name="Ulvenwald Tracker"/>
     </zone>
 </cockatrice_deck>

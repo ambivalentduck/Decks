@@ -3,7 +3,6 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" price="0" name="Wake Thrasher"/>
         <card number="1" price="0" name="Venser, Shaper Savant"/>
         <card number="1" price="0" name="Vendilion Clique"/>
         <card number="1" price="0" name="Teferi, Mage of Zhalfir"/>
@@ -53,7 +52,6 @@
         <card number="1" price="0" name="Sunder"/>
         <card number="1" price="0" name="Phyrexian Metamorph"/>
         <card number="1" price="0" name="Gifts Ungiven"/>
-        <card number="1" price="0" name="Sphinx of Lost Truths"/>
         <card number="1" price="0" name="Jace, Memory Adept"/>
         <card number="1" price="0" name="Snapcaster Mage"/>
         <card number="1" price="0" name="Phantasmal Image"/>
@@ -63,5 +61,7 @@
         <card number="1" price="0" name="Sun Quan, Lord of Wu"/>
         <card number="1" price="0" name="Time Warp"/>
         <card number="1" price="0" name="Forbid"/>
+        <card number="1" price="0" name="Tamiyo, the Moon Sage"/>
+        <card number="1" price="0" name="Latch Seeker"/>
     </zone>
 </cockatrice_deck>
