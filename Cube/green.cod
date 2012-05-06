@@ -28,7 +28,6 @@
         <card number="1" price="0" name="Wild Nacatl"/>
         <card number="1" price="0" name="Sylvan Library"/>
         <card number="1" price="0" name="Harmonize"/>
-        <card number="1" price="0" name="Primal Command"/>
         <card number="1" price="0" name="Krosan Grip"/>
         <card number="1" price="0" name="Call of the Herd"/>
         <card number="1" price="0" name="Rancor"/>
@@ -63,5 +62,6 @@
         <card number="1" price="0" name="Llanowar Elves"/>
         <card number="1" price="0" name="Wolfir Silverheart"/>
         <card number="1" price="0" name="Ulvenwald Tracker"/>
+        <card number="1" price="0" name="Bramblecrush"/>
     </zone>
 </cockatrice_deck>

@@ -6,7 +6,6 @@
         <card number="1" price="0" name="Dauthi Mercenary"/>
         <card number="1" price="0" name="Kokusho, the Evening Star"/>
         <card number="1" price="0" name="Oona's Prowler"/>
-        <card number="1" price="0" name="Nezumi Shortfang"/>
         <card number="1" price="0" name="Carnophage"/>
         <card number="1" price="0" name="Vampire Lacerator"/>
         <card number="1" price="0" name="Skeletal Vampire"/>
@@ -63,5 +62,6 @@
         <card number="1" price="0" name="Gravecrawler"/>
         <card number="1" price="0" name="Massacre Wurm"/>
         <card number="1" price="0" name="Mikaeus, the Unhallowed"/>
+        <card number="1" price="0" name="Unburial Rites"/>
     </zone>
 </cockatrice_deck>

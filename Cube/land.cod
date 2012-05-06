@@ -61,7 +61,7 @@
         <card number="1" price="0" name="Llanowar Wastes"/>
         <card number="1" price="0" name="Library of Alexandria"/>
         <card number="1" price="0" name="Slayers' Stronghold"/>
-        <card number="1" price="0" name="Alchemist's Refuge"/>
         <card number="1" price="0" name="Desolate Lighthouse"/>
+        <card number="1" price="0" name="Yavimaya Coast"/>
     </zone>
 </cockatrice_deck>

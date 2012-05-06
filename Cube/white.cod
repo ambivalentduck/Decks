@@ -8,7 +8,6 @@
         <card number="1" price="0" name="Mother of Runes"/>
         <card number="1" price="0" name="Elite Vanguard"/>
         <card number="1" price="0" name="Soltari Crusader"/>
-        <card number="1" price="0" name="Paladin en-Vec"/>
         <card number="1" price="0" name="Soltari Monk"/>
         <card number="1" price="0" name="Reveillark"/>
         <card number="1" price="0" name="Sun Titan"/>
@@ -39,7 +38,6 @@
         <card number="1" price="0" name="Armageddon"/>
         <card number="1" price="0" name="Glorious Anthem"/>
         <card number="1" price="0" name="Spectral Procession"/>
-        <card number="1" price="0" name="Honor of the Pure"/>
         <card number="1" price="0" name="Marshal's Anthem"/>
         <card number="1" price="0" name="Mirran Crusader"/>
         <card number="1" price="0" name="Hero of Bladehold"/>
@@ -63,5 +61,7 @@
         <card number="1" price="0" name="Lingering Souls"/>
         <card number="1" price="0" name="Silverblade Paladin"/>
         <card number="1" price="0" name="Restoration Angel"/>
+        <card number="1" price="0" name="Flickerwisp"/>
+        <card number="1" price="0" name="Elesh Norn, Grand Cenobite"/>
     </zone>
 </cockatrice_deck>
