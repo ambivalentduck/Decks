@@ -66,8 +66,6 @@
         <card number="1" price="0" name="Mystic Snake"/>
         <card number="1" price="0" name="Recurring Insight"/>
         <card number="1" price="0" name="Phantasmal Image"/>
-        <card number="1" price="0" name="Chandra, the Firebrand"/>
-        <card number="1" price="0" name="Walk the Aeons"/>
         <card number="1" price="0" name="Consecrated Sphinx"/>
         <card number="1" price="0" name="Rite of Replication"/>
         <card number="1" price="0" name="Intuition"/>
@@ -85,13 +83,15 @@
         <card number="1" price="0" name="Wood Elves"/>
         <card number="1" price="0" name="Flash"/>
         <card number="1" price="0" name="Trinket Mage"/>
-        <card number="1" price="0" name="Skullclamp"/>
         <card number="1" price="0" name="Mimic Vat"/>
         <card number="1" price="0" name="Terastodon"/>
-        <card number="1" price="0" name="Defense of the Heart"/>
         <card number="1" price="0" name="Rootbound Crag"/>
         <card number="1" price="0" name="Sulfur Falls"/>
         <card number="1" price="0" name="Hinterland Harbor"/>
         <card number="1" price="0" name="Kiki-Jiki, Mirror Breaker"/>
+        <card number="1" price="0" name="Temporal Mastery"/>
+        <card number="1" price="0" name="Green Sun's Zenith"/>
+        <card number="1" price="0" name="Reiterate"/>
+        <card number="1" price="0" name="Wild Ricochet"/>
     </zone>
 </cockatrice_deck>

@@ -11,22 +11,14 @@
         <card number="1" price="0" name="Gauntlet of Might"/>
         <card number="1" price="0" name="Total War"/>
         <card number="1" price="0" name="Lightning Greaves"/>
-        <card number="1" price="0" name="Darksteel Plate"/>
-        <card number="25" price="0" name="Mountain"/>
         <card number="1" price="0" name="Shinka, the Bloodsoaked Keep"/>
         <card number="1" price="0" name="Hellkite Charger"/>
         <card number="1" price="0" name="Aggravated Assault"/>
         <card number="1" price="0" name="Gratuitous Violence"/>
-        <card number="1" price="0" name="Basilisk Collar"/>
         <card number="1" price="0" name="Crawlspace"/>
-        <card number="1" price="0" name="Myr Battlesphere"/>
         <card number="1" price="0" name="Kozilek, Butcher of Truth"/>
-        <card number="1" price="0" name="Grab the Reins"/>
-        <card number="1" price="0" name="Wayfarer's Bauble"/>
         <card number="1" price="0" name="Vesuva"/>
         <card number="1" price="0" name="Valakut, the Molten Pinnacle"/>
-        <card number="1" price="0" name="Armillary Sphere"/>
-        <card number="1" price="0" name="Expedition Map"/>
         <card number="1" price="0" name="Mind's Eye"/>
         <card number="1" price="0" name="Chaos Warp"/>
         <card number="1" price="0" name="Wild Ricochet"/>
@@ -34,22 +26,15 @@
         <card number="1" price="0" name="Insurrection"/>
         <card number="1" price="0" name="Heat Shimmer"/>
         <card number="1" price="0" name="Shattering Spree"/>
-        <card number="1" price="0" name="Kher Keep"/>
-        <card number="1" price="0" name="Loxodon Warhammer"/>
         <card number="1" price="0" name="Rage Reflection"/>
-        <card number="1" price="0" name="Ruby Medallion"/>
         <card number="1" price="0" name="Blood Moon"/>
-        <card number="1" price="0" name="Spinerock Knoll"/>
         <card number="1" price="0" name="Tower of the Magistrate"/>
         <card number="1" price="0" name="Strip Mine"/>
         <card number="1" price="0" name="Wasteland"/>
         <card number="1" price="0" name="Mind Stone"/>
         <card number="1" price="0" name="Duplicant"/>
         <card number="1" price="0" name="Solemn Simulacrum"/>
-        <card number="1" price="0" name="Viashino Heretic"/>
-        <card number="1" price="0" name="Kiki-Jiki, Mirror Breaker"/>
         <card number="1" price="0" name="Sundering Titan"/>
-        <card number="1" price="0" name="Taurean Mauler"/>
         <card number="1" price="0" name="Goblin Welder"/>
         <card number="1" price="0" name="Word of Seizing"/>
         <card number="1" price="0" name="Goblin Bombardment"/>
@@ -57,27 +42,43 @@
         <card number="1" price="0" name="Mana Crypt"/>
         <card number="1" price="0" name="Sword of Feast and Famine"/>
         <card number="1" price="0" name="Sword of Fire and Ice"/>
-        <card number="1" price="0" name="Sword of Kaldra"/>
         <card number="1" price="0" name="Into the Core"/>
         <card number="1" price="0" name="It That Betrays"/>
         <card number="1" price="0" name="Swiftfoot Boots"/>
         <card number="1" price="0" name="Blood Frenzy"/>
         <card number="1" price="0" name="Batterskull"/>
-        <card number="1" price="0" name="Conquering Manticore"/>
         <card number="1" price="0" name="Twist Allegiance"/>
         <card number="1" price="0" name="Ancient Tomb"/>
         <card number="1" price="0" name="Thawing Glaciers"/>
-        <card number="1" price="0" name="Journeyer's Kite"/>
         <card number="1" price="0" name="Tawnos's Coffin"/>
         <card number="1" price="0" name="Smoke"/>
         <card number="1" price="0" name="Invasion Plans"/>
-        <card number="1" price="0" name="Shield of Kaldra"/>
-        <card number="1" price="0" name="Helm of Kaldra"/>
         <card number="1" price="0" name="Ulamog, the Infinite Gyre"/>
-        <card number="1" price="0" name="Sword of Light and Shadow"/>
-        <card number="1" price="0" name="Umezawa's Jitte"/>
         <card number="1" price="0" name="Worn Powerstone"/>
-        <card number="1" price="0" name="Eye of Ugin"/>
-        <card number="1" price="0" name="Curse of Stalked Prey"/>
+        <card number="1" price="0" name="Malignus"/>
+        <card number="1" price="0" name="Reiterate"/>
+        <card number="1" price="0" name="Zealous Conscripts"/>
+        <card number="1" price="0" name="High Market"/>
+        <card number="1" price="0" name="All Is Dust"/>
+        <card number="1" price="0" name="Everflowing Chalice"/>
+        <card number="1" price="0" name="Argentum Armor"/>
+        <card number="1" price="0" name="Seize the Day"/>
+        <card number="1" price="0" name="Fire Diamond"/>
+        <card number="1" price="0" name="Guardian Idol"/>
+        <card number="1" price="0" name="Coldsteel Heart"/>
+        <card number="1" price="0" name="Thran Dynamo"/>
+        <card number="1" price="0" name="Voltaic Key"/>
+        <card number="1" price="0" name="Palladium Myr"/>
+        <card number="1" price="0" name="Mana Vault"/>
+        <card number="1" price="0" name="Grim Monolith"/>
+        <card number="1" price="0" name="Grafted Exoskeleton"/>
+        <card number="1" price="0" name="Mimic Vat"/>
+        <card number="1" price="0" name="Sword of War and Peace"/>
+        <card number="1" price="0" name="Fireshrieker"/>
+        <card number="1" price="0" name="Basalt Monolith"/>
+        <card number="1" price="0" name="Scrying Sheets"/>
+        <card number="24" price="0" name="Snow-Covered Mountain"/>
+        <card number="1" price="0" name="Buried Ruin"/>
+        <card number="1" price="0" name="Alpha Brawl"/>
     </zone>
 </cockatrice_deck>

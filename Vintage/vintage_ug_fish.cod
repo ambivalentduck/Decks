@@ -21,13 +21,12 @@
         <card number="1" price="0" name="Merchant Scroll"/>
         <card number="1" price="0" name="Mystical Tutor"/>
         <card number="1" price="0" name="Brainstorm"/>
-        <card number="1" price="0" name="Ponder"/>
         <card number="1" price="0" name="Time Walk"/>
-        <card number="3" price="0" name="Flusterstorm"/>
+        <card number="4" price="0" name="Flusterstorm"/>
         <card number="4" price="0" name="Mental Misstep"/>
         <card number="4" price="0" name="Force of Will"/>
-        <card number="3" price="0" name="Edric, Spymaster of Trest"/>
-        <card number="4" price="0" name="Tandem Lookout"/>
+        <card number="4" price="0" name="Edric, Spymaster of Trest"/>
+        <card number="3" price="0" name="Tandem Lookout"/>
         <card number="4" price="0" name="Snapcaster Mage"/>
         <card number="4" price="0" name="Tarmogoyf"/>
         <card number="4" price="0" name="Trygon Predator"/>
