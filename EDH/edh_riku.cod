@@ -91,7 +91,7 @@
         <card number="1" price="0" name="Kiki-Jiki, Mirror Breaker"/>
         <card number="1" price="0" name="Temporal Mastery"/>
         <card number="1" price="0" name="Green Sun's Zenith"/>
-        <card number="1" price="0" name="Reiterate"/>
         <card number="1" price="0" name="Wild Ricochet"/>
+        <card number="1" price="0" name="Zealous Conscripts"/>
     </zone>
 </cockatrice_deck>

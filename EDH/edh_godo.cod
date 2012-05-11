@@ -3,19 +3,16 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" price="0" name="Kazuul, Tyrant of the Cliffs"/>
         <card number="1" price="0" name="Godo, Bandit Warlord"/>
         <card number="1" price="0" name="Extraplanar Lens"/>
         <card number="1" price="0" name="Caged Sun"/>
         <card number="1" price="0" name="Gauntlet of Power"/>
         <card number="1" price="0" name="Gauntlet of Might"/>
-        <card number="1" price="0" name="Total War"/>
         <card number="1" price="0" name="Lightning Greaves"/>
         <card number="1" price="0" name="Shinka, the Bloodsoaked Keep"/>
         <card number="1" price="0" name="Hellkite Charger"/>
         <card number="1" price="0" name="Aggravated Assault"/>
         <card number="1" price="0" name="Gratuitous Violence"/>
-        <card number="1" price="0" name="Crawlspace"/>
         <card number="1" price="0" name="Kozilek, Butcher of Truth"/>
         <card number="1" price="0" name="Vesuva"/>
         <card number="1" price="0" name="Valakut, the Molten Pinnacle"/>
@@ -74,11 +71,14 @@
         <card number="1" price="0" name="Grafted Exoskeleton"/>
         <card number="1" price="0" name="Mimic Vat"/>
         <card number="1" price="0" name="Sword of War and Peace"/>
-        <card number="1" price="0" name="Fireshrieker"/>
-        <card number="1" price="0" name="Basalt Monolith"/>
         <card number="1" price="0" name="Scrying Sheets"/>
         <card number="24" price="0" name="Snow-Covered Mountain"/>
         <card number="1" price="0" name="Buried Ruin"/>
         <card number="1" price="0" name="Alpha Brawl"/>
+        <card number="1" price="0" name="Gilded Lotus"/>
+        <card number="1" price="0" name="Oblivion Stone"/>
+        <card number="1" price="0" name="Mindslaver"/>
+        <card number="1" price="0" name="Sculpting Steel"/>
+        <card number="1" price="0" name="Stranglehold"/>
     </zone>
 </cockatrice_deck>
