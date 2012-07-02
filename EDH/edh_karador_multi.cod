@@ -11,7 +11,6 @@
         <card number="1" price="0" name="Overgrown Tomb"/>
         <card number="1" price="0" name="Fetid Heath"/>
         <card number="1" price="0" name="Urborg, Tomb of Yawgmoth"/>
-        <card number="1" price="0" name="Shizo, Death's Storehouse"/>
         <card number="1" price="0" name="Arid Mesa"/>
         <card number="1" price="0" name="Bloodstained Mire"/>
         <card number="1" price="0" name="Flooded Strand"/>
@@ -32,7 +31,6 @@
         <card number="1" price="0" name="Teneb, the Harvester"/>
         <card number="1" price="0" name="Serra Ascendant"/>
         <card number="1" price="0" name="Sun Titan"/>
-        <card number="1" price="0" name="Wurmcoil Engine"/>
         <card number="1" price="0" name="Survival of the Fittest"/>
         <card number="1" price="0" name="Garruk Wildspeaker"/>
         <card number="1" price="0" name="Sword of Fire and Ice"/>
@@ -50,10 +48,8 @@
         <card number="1" price="0" name="Vampiric Tutor"/>
         <card number="1" price="0" name="Enlightened Tutor"/>
         <card number="1" price="0" name="Demonic Tutor"/>
-        <card number="1" price="0" name="Praetor's Grasp"/>
         <card number="1" price="0" name="Hibernation's End"/>
         <card number="1" price="0" name="Debtors' Knell"/>
-        <card number="1" price="0" name="Defense of the Heart"/>
         <card number="1" price="0" name="Oblation"/>
         <card number="1" price="0" name="Helm of Possession"/>
         <card number="1" price="0" name="Krosan Grip"/>
@@ -64,44 +60,48 @@
         <card number="1" price="0" name="Homeward Path"/>
         <card number="1" price="0" name="Return to Dust"/>
         <card number="1" price="0" name="Decree of Pain"/>
-        <card number="1" price="0" name="Maze of Ith"/>
         <card number="1" price="0" name="Coalition Relic"/>
         <card number="1" price="0" name="Skyshroud Claim"/>
         <card number="1" price="0" name="City of Brass"/>
         <card number="1" price="0" name="Privileged Position"/>
         <card number="1" price="0" name="Ghostly Prison"/>
         <card number="1" price="0" name="No Mercy"/>
-        <card number="1" price="0" name="Llanowar Wastes"/>
         <card number="1" price="0" name="Primeval Titan"/>
         <card number="1" price="0" name="Sensei's Divining Top"/>
         <card number="1" price="0" name="Bojuka Bog"/>
-        <card number="1" price="0" name="Kor Haven"/>
         <card number="1" price="0" name="Karador, Ghost Chieftain"/>
         <card number="1" price="0" name="Mind's Eye"/>
         <card number="1" price="0" name="Sakura-Tribe Elder"/>
         <card number="1" price="0" name="Krosan Verge"/>
-        <card number="1" price="0" name="Nature's Lore"/>
         <card number="1" price="0" name="Rune-Scarred Demon"/>
         <card number="1" price="0" name="Snow-Covered Forest"/>
         <card number="1" price="0" name="Snow-Covered Plains"/>
         <card number="1" price="0" name="Snow-Covered Swamp"/>
-        <card number="1" price="0" name="Phyrexian Rebirth"/>
-        <card number="1" price="0" name="Avenger of Zendikar"/>
         <card number="1" price="0" name="Shriekmaw"/>
         <card number="1" price="0" name="Oblivion Stone"/>
-        <card number="1" price="0" name="Pernicious Deed"/>
         <card number="1" price="0" name="Cabal Coffers"/>
         <card number="1" price="0" name="Buried Alive"/>
         <card number="1" price="0" name="Leyline of Sanctity"/>
         <card number="1" price="0" name="Rout"/>
-        <card number="1" price="0" name="Iona, Shield of Emeria"/>
         <card number="1" price="0" name="Oracle of Mul Daya"/>
         <card number="1" price="0" name="Mirari's Wake"/>
-        <card number="1" price="0" name="Grand Abolisher"/>
         <card number="1" price="0" name="Academy Rector"/>
-        <card number="1" price="0" name="Farseek"/>
         <card number="1" price="0" name="Fauna Shaman"/>
-        <card number="1" price="0" name="Spike Weaver"/>
-        <card number="1" price="0" name="Bloodgift Demon"/>
+        <card number="1" price="0" name="Yosei, the Morning Star"/>
+        <card number="1" price="0" name="Yavimaya Granger"/>
+        <card number="1" price="0" name="Birthing Pod"/>
+        <card number="1" price="0" name="Karmic Guide"/>
+        <card number="1" price="0" name="Wasteland"/>
+        <card number="1" price="0" name="Yavimaya Elder"/>
+        <card number="1" price="0" name="Natural Order"/>
+        <card number="1" price="0" name="High Market"/>
+        <card number="1" price="0" name="Phyrexian Tower"/>
+        <card number="1" price="0" name="Tooth and Nail"/>
+        <card number="1" price="0" name="Adarkar Valkyrie"/>
+        <card number="1" price="0" name="Regrowth"/>
+        <card number="1" price="0" name="Greater Good"/>
+        <card number="1" price="0" name="Pernicious Deed"/>
+        <card number="1" price="0" name="Eternal Dragon"/>
+        <card number="1" price="0" name="Sorin, Lord of Innistrad"/>
     </zone>
 </cockatrice_deck>

@@ -19,34 +19,30 @@
         <card number="1" price="0" name="Demonic Tutor"/>
         <card number="1" price="0" name="Vampiric Tutor"/>
         <card number="1" price="0" name="Demonic Consultation"/>
-        <card number="2" price="0" name="Mountain"/>
+        <card number="3" price="0" name="Mountain"/>
         <card number="4" price="0" name="Badlands"/>
         <card number="1" price="0" name="Gempalm Incinerator"/>
         <card number="1" price="0" name="Sol Ring"/>
         <card number="1" price="0" name="Mana Crypt"/>
-        <card number="2" price="0" name="Wort, Boggart Auntie"/>
+        <card number="1" price="0" name="Wort, Boggart Auntie"/>
         <card number="4" price="0" name="Bloodstained Mire"/>
-        <card number="2" price="0" name="Wooded Foothills"/>
-        <card number="2" price="0" name="Volcanic Island"/>
-        <card number="1" price="0" name="Ancestral Recall"/>
-        <card number="1" price="0" name="Time Walk"/>
         <card number="1" price="0" name="Goblin Welder"/>
-        <card number="1" price="0" name="Mogg War Marshal"/>
-        <card number="1" price="0" name="Tormod's Crypt"/>
-        <card number="1" price="0" name="Brainstorm"/>
-        <card number="1" price="0" name="Goblin Tinkerer"/>
-        <card number="3" price="0" name="Surgical Extraction"/>
+        <card number="2" price="0" name="Goblin Tinkerer"/>
         <card number="1" price="0" name="Stingscourger"/>
-        <card number="1" price="0" name="Steel Sabotage"/>
+        <card number="2" price="0" name="Scalding Tarn"/>
+        <card number="1" price="0" name="Swamp"/>
+        <card number="4" price="0" name="Mental Misstep"/>
+        <card number="1" price="0" name="Mad Auntie"/>
+        <card number="3" price="0" name="Electrostatic Bolt"/>
+        <card number="1" price="0" name="Tormod's Crypt"/>
     </zone>
     <zone name="side">
-        <card number="3" price="0" name="Pulverize"/>
-        <card number="1" price="0" name="Planar Void"/>
-        <card number="1" price="0" name="Tormod's Crypt"/>
-        <card number="2" price="0" name="Pyrokinesis"/>
+        <card number="2" price="0" name="Pyroblast"/>
+        <card number="4" price="0" name="Pulverize"/>
+        <card number="4" price="0" name="Grafdigger's Cage"/>
         <card number="1" price="0" name="Wasteland"/>
-        <card number="2" price="0" name="Red Elemental Blast"/>
-        <card number="4" price="0" name="Mental Misstep"/>
-        <card number="1" price="0" name="Nihil Spellbomb"/>
+        <card number="1" price="0" name="Tormod's Crypt"/>
+        <card number="1" price="0" name="Mad Auntie"/>
+        <card number="1" price="0" name="Leyline of the Void"/>
     </zone>
 </cockatrice_deck>

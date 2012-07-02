@@ -60,8 +60,8 @@
         <card number="1" price="0" name="Nekrataal"/>
         <card number="1" price="0" name="Animate Dead"/>
         <card number="1" price="0" name="Gravecrawler"/>
-        <card number="1" price="0" name="Massacre Wurm"/>
         <card number="1" price="0" name="Mikaeus, the Unhallowed"/>
         <card number="1" price="0" name="Unburial Rites"/>
+        <card number="1" price="0" name="Griselbrand"/>
     </zone>
 </cockatrice_deck>

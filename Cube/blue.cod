@@ -13,7 +13,6 @@
         <card number="1" price="0" name="Old Man of the Sea"/>
         <card number="1" price="0" name="Lighthouse Chronologist"/>
         <card number="1" price="0" name="Palinchron"/>
-        <card number="1" price="0" name="Sphinx of Jwar Isle"/>
         <card number="1" price="0" name="Glen Elendra Archmage"/>
         <card number="1" price="0" name="Keiga, the Tide Star"/>
         <card number="1" price="0" name="Meloku the Clouded Mirror"/>
@@ -22,7 +21,6 @@
         <card number="1" price="0" name="Remand"/>
         <card number="1" price="0" name="Psionic Blast"/>
         <card number="1" price="0" name="Capsize"/>
-        <card number="1" price="0" name="Tinker"/>
         <card number="1" price="0" name="Jace, the Mind Sculptor"/>
         <card number="1" price="0" name="Parallax Tide"/>
         <card number="1" price="0" name="Force of Will"/>
@@ -42,7 +40,6 @@
         <card number="1" price="0" name="Dismiss"/>
         <card number="1" price="0" name="Brainstorm"/>
         <card number="1" price="0" name="Opposition"/>
-        <card number="1" price="0" name="Desertion"/>
         <card number="1" price="0" name="Control Magic"/>
         <card number="1" price="0" name="Cryptic Command"/>
         <card number="1" price="0" name="Time Walk"/>
@@ -63,5 +60,8 @@
         <card number="1" price="0" name="Forbid"/>
         <card number="1" price="0" name="Tamiyo, the Moon Sage"/>
         <card number="1" price="0" name="Latch Seeker"/>
+        <card number="1" price="0" name="Deadeye Navigator"/>
+        <card number="1" price="0" name="Dungeon Geists"/>
+        <card number="1" price="0" name="Tandem Lookout"/>
     </zone>
 </cockatrice_deck>

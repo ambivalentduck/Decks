@@ -3,7 +3,6 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" price="0" name="Riku of Two Reflections"/>
         <card number="1" price="0" name="Chancellor of the Spires"/>
         <card number="1" price="0" name="Time Warp"/>
         <card number="1" price="0" name="Temporal Manipulation"/>
@@ -48,7 +47,7 @@
         <card number="1" price="0" name="Wooded Foothills"/>
         <card number="5" price="0" name="Island"/>
         <card number="5" price="0" name="Forest"/>
-        <card number="3" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Mountain"/>
         <card number="1" price="0" name="Windswept Heath"/>
         <card number="1" price="0" name="Flooded Strand"/>
         <card number="1" price="0" name="Arid Mesa"/>
@@ -81,7 +80,6 @@
         <card number="1" price="0" name="Gilded Drake"/>
         <card number="1" price="0" name="Fierce Empath"/>
         <card number="1" price="0" name="Wood Elves"/>
-        <card number="1" price="0" name="Flash"/>
         <card number="1" price="0" name="Trinket Mage"/>
         <card number="1" price="0" name="Mimic Vat"/>
         <card number="1" price="0" name="Terastodon"/>
@@ -89,9 +87,11 @@
         <card number="1" price="0" name="Sulfur Falls"/>
         <card number="1" price="0" name="Hinterland Harbor"/>
         <card number="1" price="0" name="Kiki-Jiki, Mirror Breaker"/>
-        <card number="1" price="0" name="Temporal Mastery"/>
         <card number="1" price="0" name="Green Sun's Zenith"/>
         <card number="1" price="0" name="Wild Ricochet"/>
         <card number="1" price="0" name="Zealous Conscripts"/>
+        <card number="1" price="0" name="Alchemist's Refuge"/>
+        <card number="1" price="0" name="Walk the Aeons"/>
+        <card number="1" price="0" name="Fabricate"/>
     </zone>
 </cockatrice_deck>

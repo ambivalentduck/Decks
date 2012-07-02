@@ -9,7 +9,6 @@
         <card number="1" price="0" name="Wall of Denial"/>
         <card number="1" price="0" name="Brion Stoutarm"/>
         <card number="1" price="0" name="Kitchen Finks"/>
-        <card number="1" price="0" name="Sygg, River Cutthroat"/>
         <card number="1" price="0" name="Grand Arbiter Augustin IV"/>
         <card number="1" price="0" name="Angel of Despair"/>
         <card number="1" price="0" name="Putrid Leech"/>
@@ -25,15 +24,12 @@
         <card number="1" price="0" name="Niv-Mizzet, the Firemind"/>
         <card number="1" price="0" name="Broodmate Dragon"/>
         <card number="1" price="0" name="Duergar Hedge-Mage"/>
-        <card number="1" price="0" name="Lorescale Coatl"/>
         <card number="1" price="0" name="Qasali Pridemage"/>
         <card number="1" price="0" name="Sarkhan Vol"/>
-        <card number="1" price="0" name="Behemoth Sledge"/>
         <card number="1" price="0" name="Undermine"/>
         <card number="1" price="0" name="Blightning"/>
         <card number="1" price="0" name="Putrefy"/>
         <card number="1" price="0" name="Electrolyze"/>
-        <card number="1" price="0" name="Agony Warp"/>
         <card number="1" price="0" name="Debtors' Knell"/>
         <card number="1" price="0" name="Prophetic Bolt"/>
         <card number="1" price="0" name="Mortify"/>
@@ -57,11 +53,15 @@
         <card number="1" price="0" name="Geist of Saint Traft"/>
         <card number="1" price="0" name="Olivia Voldaren"/>
         <card number="1" price="0" name="Wilt-Leaf Liege"/>
-        <card number="1" price="0" name="Glare of Subdual"/>
         <card number="1" price="0" name="Tattermunge Maniac"/>
         <card number="1" price="0" name="Sphinx of the Steel Wind"/>
-        <card number="1" price="0" name="Intet, the Dreamer"/>
         <card number="1" price="0" name="Huntmaster of the Fells"/>
         <card number="1" price="0" name="Sorin, Lord of Innistrad"/>
+        <card number="1" price="0" name="Shardless Agent"/>
+        <card number="1" price="0" name="Baleful Strix"/>
+        <card number="1" price="0" name="Havengul Lich"/>
+        <card number="1" price="0" name="Sigarda, Host of Herons"/>
+        <card number="1" price="0" name="Maelstrom Wanderer"/>
+        <card number="1" price="0" name="Indrik Umbra"/>
     </zone>
 </cockatrice_deck>

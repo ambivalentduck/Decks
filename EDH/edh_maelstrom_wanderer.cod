@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="2.72" name="Time Warp"/>
+        <card number="1" price="31.64" name="Temporal Manipulation"/>
+        <card number="1" price="2.79" name="Time Stretch"/>
+        <card number="1" price="109.58" name="Mana Drain"/>
+        <card number="1" price="0" name="Chaos Warp"/>
+        <card number="1" price="0.48" name="Cultivate"/>
+        <card number="1" price="0.35" name="Kodama's Reach"/>
+        <card number="1" price="1.03" name="Skyshroud Claim"/>
+        <card number="1" price="50.9" name="Jace, the Mind Sculptor"/>
+        <card number="1" price="3.69" name="Garruk Wildspeaker"/>
+        <card number="1" price="1.17" name="Hinder"/>
+        <card number="1" price="0" name="Spell Crumple"/>
+        <card number="1" price="1.85" name="Nature's Lore"/>
+        <card number="1" price="0.25" name="Crystal Shard"/>
+        <card number="1" price="2.14" name="Erratic Portal"/>
+        <card number="1" price="4.43" name="Phyrexian Metamorph"/>
+        <card number="1" price="0.88" name="Spitting Image"/>
+        <card number="1" price="3.32" name="Eternal Witness"/>
+        <card number="1" price="4.77" name="Regrowth"/>
+        <card number="1" price="1.04" name="Acidic Slime"/>
+        <card number="1" price="9.33" name="Primeval Titan"/>
+        <card number="1" price="4.34" name="Solemn Simulacrum"/>
+        <card number="1" price="9.92" name="Tooth and Nail"/>
+        <card number="1" price="11.17" name="Bribery"/>
+        <card number="1" price="1.5" name="Krosan Grip"/>
+        <card number="1" price="3.88" name="Palinchron"/>
+        <card number="1" price="0.37" name="Mulldrifter"/>
+        <card number="1" price="9.99" name="Sylvan Library"/>
+        <card number="1" price="10.18" name="Sol Ring"/>
+        <card number="1" price="51.08" name="Mana Crypt"/>
+        <card number="1" price="94.51" name="Tropical Island"/>
+        <card number="1" price="18.8" name="Breeding Pool"/>
+        <card number="1" price="12.8" name="Stomping Ground"/>
+        <card number="1" price="63.53" name="Taiga"/>
+        <card number="1" price="100.5" name="Volcanic Island"/>
+        <card number="1" price="19.58" name="Steam Vents"/>
+        <card number="1" price="35.78" name="Polluted Delta"/>
+        <card number="1" price="14.31" name="Bloodstained Mire"/>
+        <card number="1" price="14.96" name="Misty Rainforest"/>
+        <card number="1" price="20.48" name="Wooded Foothills"/>
+        <card number="5" price="0.6" name="Island"/>
+        <card number="5" price="0.52" name="Forest"/>
+        <card number="2" price="0.55" name="Mountain"/>
+        <card number="1" price="29.04" name="Windswept Heath"/>
+        <card number="1" price="32.87" name="Flooded Strand"/>
+        <card number="1" price="9.04" name="Arid Mesa"/>
+        <card number="1" price="12.99" name="Scalding Tarn"/>
+        <card number="1" price="8.48" name="Verdant Catacombs"/>
+        <card number="1" price="3.16" name="Reliquary Tower"/>
+        <card number="1" price="0" name="Command Tower"/>
+        <card number="1" price="7.99" name="Strip Mine"/>
+        <card number="1" price="1.14" name="Rhystic Study"/>
+        <card number="1" price="7.01" name="Glen Elendra Archmage"/>
+        <card number="1" price="1.39" name="Lightning Greaves"/>
+        <card number="1" price="0.6" name="Heat Shimmer"/>
+        <card number="1" price="0.45" name="Sakura-Tribe Elder"/>
+        <card number="1" price="1.04" name="Mystic Snake"/>
+        <card number="1" price="0.55" name="Recurring Insight"/>
+        <card number="1" price="7.94" name="Phantasmal Image"/>
+        <card number="1" price="5.32" name="Consecrated Sphinx"/>
+        <card number="1" price="1.48" name="Rite of Replication"/>
+        <card number="1" price="3.34" name="Boseiju, Who Shelters All"/>
+        <card number="1" price="1.13" name="Beast Within"/>
+        <card number="1" price="11.52" name="Sensei's Divining Top"/>
+        <card number="1" price="8.51" name="Woodfall Primus"/>
+        <card number="1" price="1.62" name="Fact or Fiction"/>
+        <card number="1" price="17.28" name="Snapcaster Mage"/>
+        <card number="1" price="35.42" name="Sneak Attack"/>
+        <card number="1" price="17.28" name="Survival of the Fittest"/>
+        <card number="1" price="14.02" name="Gilded Drake"/>
+        <card number="1" price="0.25" name="Fierce Empath"/>
+        <card number="1" price="1.4" name="Wood Elves"/>
+        <card number="1" price="0.31" name="Trinket Mage"/>
+        <card number="1" price="0.85" name="Mimic Vat"/>
+        <card number="1" price="0.69" name="Terastodon"/>
+        <card number="1" price="2.3" name="Rootbound Crag"/>
+        <card number="1" price="4.26" name="Sulfur Falls"/>
+        <card number="1" price="3.75" name="Hinterland Harbor"/>
+        <card number="1" price="7.75" name="Kiki-Jiki, Mirror Breaker"/>
+        <card number="1" price="1" name="Wild Ricochet"/>
+        <card number="1" price="2.56" name="Zealous Conscripts"/>
+        <card number="1" price="0.63" name="Alchemist's Refuge"/>
+        <card number="1" price="1.08" name="Walk the Aeons"/>
+        <card number="1" price="0.74" name="Fabricate"/>
+        <card number="1" price="0" name="Maelstrom Wanderer"/>
+        <card number="1" price="2" name="Equilibrium"/>
+        <card number="1" price="0" name="Shardless Agent"/>
+        <card number="1" price="0" name="Proteus Staff"/>
+        <card number="1" price="0" name="Intuition"/>
+        <card number="1" price="0" name="Bloodbraid Elf"/>
+        <card number="1" price="0" name="Thran Dynamo"/>
+    </zone>
+</cockatrice_deck>

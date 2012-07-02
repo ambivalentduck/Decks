@@ -28,11 +28,11 @@
         <card number="1" price="0" name="Sol Ring"/>
         <card number="2" price="0" name="Polluted Delta"/>
         <card number="1" price="0" name="Echoing Truth"/>
-        <card number="2" price="0" name="Scavenging Ooze"/>
-        <card number="2" price="0" name="Swords to Plowshares"/>
-        <card number="1" price="0" name="Tundra"/>
-        <card number="1" price="0" name="Savannah"/>
-        <card number="3" price="0" name="Qasali Pridemage"/>
+        <card number="4" price="0" name="Dark Confidant"/>
+        <card number="1" price="0" name="Vampiric Tutor"/>
+        <card number="1" price="0" name="Demonic Tutor"/>
+        <card number="2" price="0" name="Underground Sea"/>
+        <card number="1" price="0" name="Scavenging Ooze"/>
     </zone>
     <zone name="side">
         <card number="4" price="0" name="Nature's Claim"/>

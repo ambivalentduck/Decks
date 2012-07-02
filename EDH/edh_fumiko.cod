@@ -12,7 +12,6 @@
         <card number="1" price="0" name="Caged Sun"/>
         <card number="1" price="0" name="Gauntlet of Power"/>
         <card number="1" price="0" name="Gauntlet of Might"/>
-        <card number="1" price="0" name="No Quarter"/>
         <card number="1" price="0" name="Total War"/>
         <card number="1" price="0" name="Lightning Greaves"/>
         <card number="1" price="0" name="Darksteel Plate"/>
@@ -70,7 +69,6 @@
         <card number="1" price="0" name="Blood Frenzy"/>
         <card number="1" price="0" name="Batterskull"/>
         <card number="1" price="0" name="Creepy Doll"/>
-        <card number="1" price="0" name="Conquering Manticore"/>
         <card number="1" price="0" name="Hateflayer"/>
         <card number="1" price="0" name="Twist Allegiance"/>
         <card number="1" price="0" name="Ancient Tomb"/>
@@ -78,5 +76,7 @@
         <card number="1" price="0" name="Journeyer's Kite"/>
         <card number="1" price="0" name="Tawnos's Coffin"/>
         <card number="1" price="0" name="Smoke"/>
+        <card number="1" price="0" name="Zealous Conscripts"/>
+        <card number="1" price="0" name="Malignus"/>
     </zone>
 </cockatrice_deck>

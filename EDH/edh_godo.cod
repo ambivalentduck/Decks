@@ -31,7 +31,6 @@
         <card number="1" price="0" name="Mind Stone"/>
         <card number="1" price="0" name="Duplicant"/>
         <card number="1" price="0" name="Solemn Simulacrum"/>
-        <card number="1" price="0" name="Sundering Titan"/>
         <card number="1" price="0" name="Goblin Welder"/>
         <card number="1" price="0" name="Word of Seizing"/>
         <card number="1" price="0" name="Goblin Bombardment"/>
@@ -49,13 +48,11 @@
         <card number="1" price="0" name="Thawing Glaciers"/>
         <card number="1" price="0" name="Tawnos's Coffin"/>
         <card number="1" price="0" name="Smoke"/>
-        <card number="1" price="0" name="Invasion Plans"/>
         <card number="1" price="0" name="Ulamog, the Infinite Gyre"/>
         <card number="1" price="0" name="Worn Powerstone"/>
         <card number="1" price="0" name="Malignus"/>
         <card number="1" price="0" name="Reiterate"/>
         <card number="1" price="0" name="Zealous Conscripts"/>
-        <card number="1" price="0" name="High Market"/>
         <card number="1" price="0" name="All Is Dust"/>
         <card number="1" price="0" name="Everflowing Chalice"/>
         <card number="1" price="0" name="Argentum Armor"/>
@@ -74,11 +71,14 @@
         <card number="1" price="0" name="Scrying Sheets"/>
         <card number="24" price="0" name="Snow-Covered Mountain"/>
         <card number="1" price="0" name="Buried Ruin"/>
-        <card number="1" price="0" name="Alpha Brawl"/>
         <card number="1" price="0" name="Gilded Lotus"/>
         <card number="1" price="0" name="Oblivion Stone"/>
         <card number="1" price="0" name="Mindslaver"/>
         <card number="1" price="0" name="Sculpting Steel"/>
         <card number="1" price="0" name="Stranglehold"/>
+        <card number="1" price="0" name="Karn Liberated"/>
+        <card number="1" price="0" name="High Market"/>
+        <card number="1" price="0" name="Eye of Ugin"/>
+        <card number="1" price="0" name="Memory Jar"/>
     </zone>
 </cockatrice_deck>

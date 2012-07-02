@@ -25,7 +25,6 @@
         <card number="1" price="0" name="Deranged Hermit"/>
         <card number="1" price="0" name="Joraga Treespeaker"/>
         <card number="1" price="0" name="Wickerbough Elder"/>
-        <card number="1" price="0" name="Wild Nacatl"/>
         <card number="1" price="0" name="Sylvan Library"/>
         <card number="1" price="0" name="Harmonize"/>
         <card number="1" price="0" name="Krosan Grip"/>
@@ -52,7 +51,6 @@
         <card number="1" price="0" name="Vengevine"/>
         <card number="1" price="0" name="Skinshifter"/>
         <card number="1" price="0" name="Phantom Centaur"/>
-        <card number="1" price="0" name="Jungle Lion"/>
         <card number="1" price="0" name="Genesis"/>
         <card number="1" price="0" name="Garruk, Primal Hunter"/>
         <card number="1" price="0" name="Scavenging Ooze"/>
@@ -63,5 +61,6 @@
         <card number="1" price="0" name="Wolfir Silverheart"/>
         <card number="1" price="0" name="Ulvenwald Tracker"/>
         <card number="1" price="0" name="Bramblecrush"/>
+        <card number="1" price="0" name="Mayor of Avabruck"/>
     </zone>
 </cockatrice_deck>

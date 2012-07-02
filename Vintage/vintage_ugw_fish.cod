@@ -14,6 +14,7 @@
         <card number="1" price="0" name="Forest"/>
         <card number="4" price="0" name="Tropical Island"/>
         <card number="4" price="0" name="Misty Rainforest"/>
+        <card number="2" price="0" name="Flooded Strand"/>
         <card number="1" price="0" name="Ancestral Recall"/>
         <card number="1" price="0" name="Merchant Scroll"/>
         <card number="1" price="0" name="Mystical Tutor"/>
@@ -23,22 +24,20 @@
         <card number="4" price="0" name="Mental Misstep"/>
         <card number="4" price="0" name="Force of Will"/>
         <card number="4" price="0" name="Edric, Spymaster of Trest"/>
+        <card number="3" price="0" name="Tandem Lookout"/>
         <card number="4" price="0" name="Snapcaster Mage"/>
+        <card number="4" price="0" name="Tarmogoyf"/>
         <card number="4" price="0" name="Trygon Predator"/>
-        <card number="1" price="0" name="Sol Ring"/>
-        <card number="2" price="0" name="Polluted Delta"/>
-        <card number="1" price="0" name="Echoing Truth"/>
-        <card number="2" price="0" name="Scavenging Ooze"/>
+        <card number="2" price="0" name="Tundra"/>
         <card number="2" price="0" name="Swords to Plowshares"/>
-        <card number="1" price="0" name="Tundra"/>
-        <card number="1" price="0" name="Savannah"/>
-        <card number="3" price="0" name="Qasali Pridemage"/>
     </zone>
     <zone name="side">
-        <card number="4" price="0" name="Nature's Claim"/>
+        <card number="3" price="0" name="Nature's Claim"/>
         <card number="4" price="0" name="Grafdigger's Cage"/>
-        <card number="4" price="0" name="Ulvenwald Tracker"/>
-        <card number="2" price="0" name="Surgical Extraction"/>
-        <card number="1" price="0" name="Hurkyl's Recall"/>
+        <card number="2" price="0" name="Scavenging Ooze"/>
+        <card number="2" price="0" name="Ravenous Trap"/>
+        <card number="1" price="0" name="Kataki, War's Wage"/>
+        <card number="2" price="0" name="Swords to Plowshares"/>
+        <card number="1" price="0" name="Surgical Extraction"/>
     </zone>
 </cockatrice_deck>
