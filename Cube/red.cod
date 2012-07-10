@@ -62,5 +62,6 @@
         <card number="1" price="0" name="Torch Fiend"/>
         <card number="1" price="0" name="Squee, Goblin Nabob"/>
         <card number="1" price="0" name="Devil's Play"/>
+        <card number="1" price="0" name="Thundermaw Hellkite"/>
     </zone>
 </cockatrice_deck>

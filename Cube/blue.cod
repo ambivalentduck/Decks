@@ -35,7 +35,6 @@
         <card number="1" price="0" name="Ancestral Recall"/>
         <card number="1" price="0" name="Future Sight"/>
         <card number="1" price="0" name="Counterspell"/>
-        <card number="1" price="0" name="Exclude"/>
         <card number="1" price="0" name="Fact or Fiction"/>
         <card number="1" price="0" name="Dismiss"/>
         <card number="1" price="0" name="Brainstorm"/>
@@ -63,5 +62,6 @@
         <card number="1" price="0" name="Deadeye Navigator"/>
         <card number="1" price="0" name="Dungeon Geists"/>
         <card number="1" price="0" name="Tandem Lookout"/>
+        <card number="1" price="0" name="Fettergeist"/>
     </zone>
 </cockatrice_deck>

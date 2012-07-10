@@ -62,5 +62,6 @@
         <card number="1" price="0" name="Ulvenwald Tracker"/>
         <card number="1" price="0" name="Bramblecrush"/>
         <card number="1" price="0" name="Mayor of Avabruck"/>
+        <card number="1" price="0" name="Thragtusk"/>
     </zone>
 </cockatrice_deck>

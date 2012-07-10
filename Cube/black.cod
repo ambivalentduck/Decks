@@ -8,7 +8,6 @@
         <card number="1" price="0" name="Oona's Prowler"/>
         <card number="1" price="0" name="Carnophage"/>
         <card number="1" price="0" name="Vampire Lacerator"/>
-        <card number="1" price="0" name="Skeletal Vampire"/>
         <card number="1" price="0" name="Nezumi Graverobber"/>
         <card number="1" price="0" name="Hypnotic Specter"/>
         <card number="1" price="0" name="Ink-Eyes, Servant of Oni"/>
@@ -63,5 +62,6 @@
         <card number="1" price="0" name="Mikaeus, the Unhallowed"/>
         <card number="1" price="0" name="Unburial Rites"/>
         <card number="1" price="0" name="Griselbrand"/>
+        <card number="1" price="0" name="Knight of Infamy"/>
     </zone>
 </cockatrice_deck>

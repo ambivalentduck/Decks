@@ -56,12 +56,12 @@
         <card number="1" price="0" name="War Priest of Thune"/>
         <card number="1" price="0" name="Fiend Hunter"/>
         <card number="1" price="0" name="Mentor of the Meek"/>
-        <card number="1" price="0" name="Grand Abolisher"/>
         <card number="1" price="0" name="Eight-and-a-Half-Tails"/>
         <card number="1" price="0" name="Lingering Souls"/>
         <card number="1" price="0" name="Silverblade Paladin"/>
         <card number="1" price="0" name="Restoration Angel"/>
         <card number="1" price="0" name="Flickerwisp"/>
         <card number="1" price="0" name="Elesh Norn, Grand Cenobite"/>
+        <card number="1" price="0" name="Ajani, Caller of the Pride"/>
     </zone>
 </cockatrice_deck>
