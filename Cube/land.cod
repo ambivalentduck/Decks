@@ -35,7 +35,6 @@
         <card number="1" price="0" name="Windswept Heath"/>
         <card number="1" price="0" name="Wooded Foothills"/>
         <card number="1" price="0" name="Urborg, Tomb of Yawgmoth"/>
-        <card number="1" price="0" name="Windbrisk Heights"/>
         <card number="1" price="0" name="Taiga"/>
         <card number="1" price="0" name="Godless Shrine"/>
         <card number="1" price="0" name="Steam Vents"/>
@@ -63,5 +62,6 @@
         <card number="1" price="0" name="Slayers' Stronghold"/>
         <card number="1" price="0" name="Desolate Lighthouse"/>
         <card number="1" price="0" name="Yavimaya Coast"/>
+        <card number="1" price="0" name="Kor Haven"/>
     </zone>
 </cockatrice_deck>

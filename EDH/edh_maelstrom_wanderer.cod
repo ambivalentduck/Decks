@@ -19,7 +19,6 @@
         <card number="1" price="0.25" name="Crystal Shard"/>
         <card number="1" price="2.14" name="Erratic Portal"/>
         <card number="1" price="4.43" name="Phyrexian Metamorph"/>
-        <card number="1" price="0.88" name="Spitting Image"/>
         <card number="1" price="3.32" name="Eternal Witness"/>
         <card number="1" price="4.77" name="Regrowth"/>
         <card number="1" price="1.04" name="Acidic Slime"/>
@@ -94,5 +93,6 @@
         <card number="1" price="0" name="Intuition"/>
         <card number="1" price="0" name="Bloodbraid Elf"/>
         <card number="1" price="0" name="Thran Dynamo"/>
+        <card number="1" price="0" name="Treachery"/>
     </zone>
 </cockatrice_deck>

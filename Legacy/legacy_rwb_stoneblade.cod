@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" price="0" name="Liliana of the Veil"/>
+        <card number="1" price="0" name="Batterskull"/>
+        <card number="2" price="0" name="Hero of Bladehold"/>
+        <card number="1" price="0" name="Sword of Body and Mind"/>
+        <card number="2" price="0" name="Inquisition of Kozilek"/>
+        <card number="4" price="0" name="Stoneforge Mystic"/>
+        <card number="4" price="0" name="Marsh Flats"/>
+        <card number="3" price="0" name="Thoughtseize"/>
+        <card number="4" price="0" name="Dark Confidant"/>
+        <card number="1" price="0" name="Umezawa's Jitte"/>
+        <card number="2" price="0" name="Sensei's Divining Top"/>
+        <card number="4" price="0" name="Bloodstained Mire"/>
+        <card number="4" price="0" name="Grim Lavamancer"/>
+        <card number="1" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Plains"/>
+        <card number="3" price="0" name="Vindicate"/>
+        <card number="4" price="0" name="Wasteland"/>
+        <card number="3" price="0" name="Hymn to Tourach"/>
+        <card number="4" price="0" name="Swords to Plowshares"/>
+        <card number="4" price="0" name="Scrubland"/>
+        <card number="1" price="0" name="Plateau"/>
+        <card number="4" price="0" name="Badlands"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Surgical Extraction"/>
+        <card number="1" price="0" name="Path to Exile"/>
+        <card number="2" price="0" name="Relic of Progenitus"/>
+        <card number="2" price="0" name="Kitchen Finks"/>
+        <card number="2" price="0" name="Engineered Explosives"/>
+        <card number="2" price="0" name="Perish"/>
+        <card number="2" price="0" name="Pyroblast"/>
+        <card number="2" price="0" name="Red Elemental Blast"/>
+    </zone>
+</cockatrice_deck>

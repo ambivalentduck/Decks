@@ -3,30 +3,32 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="2" price="0" name="Thought Scour"/>
-        <card number="4" price="0" name="Delver of Secrets"/>
+        <card number="4" price="0.72" name="Delver of Secrets"/>
         <card number="1" price="0" name="Scavenging Ooze"/>
-        <card number="2" price="0" name="Forked Bolt"/>
-        <card number="4" price="0" name="Scalding Tarn"/>
-        <card number="4" price="0" name="Spell Pierce"/>
-        <card number="4" price="0" name="Misty Rainforest"/>
-        <card number="4" price="0" name="Ponder"/>
-        <card number="4" price="0" name="Tarmogoyf"/>
-        <card number="4" price="0" name="Nimble Mongoose"/>
-        <card number="4" price="0" name="Daze"/>
-        <card number="4" price="0" name="Brainstorm"/>
-        <card number="4" price="0" name="Wasteland"/>
-        <card number="4" price="0" name="Force of Will"/>
-        <card number="3" price="0" name="Volcanic Island"/>
-        <card number="4" price="0" name="Tropical Island"/>
-        <card number="4" price="0" name="Lightning Bolt"/>
+        <card number="2" price="0.55" name="Forked Bolt"/>
+        <card number="4" price="13.59" name="Scalding Tarn"/>
+        <card number="3" price="0.78" name="Spell Pierce"/>
+        <card number="4" price="13.38" name="Misty Rainforest"/>
+        <card number="4" price="1.67" name="Ponder"/>
+        <card number="3" price="75.95" name="Tarmogoyf"/>
+        <card number="4" price="1.95" name="Nimble Mongoose"/>
+        <card number="4" price="2.19" name="Daze"/>
+        <card number="4" price="2.64" name="Brainstorm"/>
+        <card number="4" price="37.9" name="Wasteland"/>
+        <card number="4" price="51" name="Force of Will"/>
+        <card number="3" price="117.94" name="Volcanic Island"/>
+        <card number="4" price="98.21" name="Tropical Island"/>
+        <card number="4" price="1.94" name="Lightning Bolt"/>
+        <card number="4" price="14.18" name="Stifle"/>
     </zone>
     <zone name="side">
-        <card number="2" price="0" name="Ancient Grudge"/>
-        <card number="1" price="0" name="Life from the Loam"/>
-        <card number="4" price="0" name="Submerge"/>
-        <card number="3" price="0" name="Tormod's Crypt"/>
-        <card number="2" price="0" name="Mind Harness"/>
-        <card number="3" price="0" name="Red Elemental Blast"/>
+        <card number="2" price="2" name="Ancient Grudge"/>
+        <card number="4" price="3" name="Submerge"/>
+        <card number="2" price="1.5" name="Red Elemental Blast"/>
+        <card number="2" price="0" name="Rough // Tumble"/>
+        <card number="1" price="0" name="Pyroblast"/>
+        <card number="1" price="0" name="Grafdigger's Cage"/>
+        <card number="2" price="0" name="Tormod's Crypt"/>
+        <card number="1" price="0" name="Scavenging Ooze"/>
     </zone>
 </cockatrice_deck>

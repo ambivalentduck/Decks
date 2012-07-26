@@ -49,7 +49,6 @@
         <card number="1" price="0" name="Dismember"/>
         <card number="1" price="0" name="Sheoldred, Whispering One"/>
         <card number="1" price="0" name="Gatekeeper of Malakir"/>
-        <card number="1" price="0" name="Sorin Markov"/>
         <card number="1" price="0" name="Dark Confidant"/>
         <card number="1" price="0" name="Diregraf Ghoul"/>
         <card number="1" price="0" name="Bloodgift Demon"/>
@@ -63,5 +62,6 @@
         <card number="1" price="0" name="Unburial Rites"/>
         <card number="1" price="0" name="Griselbrand"/>
         <card number="1" price="0" name="Knight of Infamy"/>
+        <card number="1" price="0" name="Massacre Wurm"/>
     </zone>
 </cockatrice_deck>
