@@ -17,7 +17,6 @@
         <card number="1" price="0" name="Phyrexian Processor"/>
         <card number="1" price="0" name="Mindslaver"/>
         <card number="1" price="0" name="Tangle Wire"/>
-        <card number="1" price="0" name="Scroll Rack"/>
         <card number="1" price="0" name="Nevinyrral's Disk"/>
         <card number="1" price="0" name="Crucible of Worlds"/>
         <card number="1" price="0" name="Bonesplitter"/>
@@ -63,5 +62,6 @@
         <card number="1" price="0" name="Molten-Tail Masticore"/>
         <card number="1" price="0" name="Smokestack"/>
         <card number="1" price="0" name="Perilous Myr"/>
+        <card number="1" price="0" name="Palladium Myr"/>
     </zone>
 </cockatrice_deck>

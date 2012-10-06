@@ -5,17 +5,15 @@
     <zone name="main">
         <card number="1" price="0" name="Fumiko the Lowblood"/>
         <card number="1" price="0" name="Kazuul, Tyrant of the Cliffs"/>
-        <card number="1" price="0" name="AEther Membrane"/>
         <card number="1" price="0" name="Orcish Squatters"/>
         <card number="1" price="0" name="Godo, Bandit Warlord"/>
         <card number="1" price="0" name="Extraplanar Lens"/>
         <card number="1" price="0" name="Caged Sun"/>
         <card number="1" price="0" name="Gauntlet of Power"/>
         <card number="1" price="0" name="Gauntlet of Might"/>
-        <card number="1" price="0" name="Total War"/>
         <card number="1" price="0" name="Lightning Greaves"/>
         <card number="1" price="0" name="Darksteel Plate"/>
-        <card number="26" price="0" name="Mountain"/>
+        <card number="25" price="0" name="Mountain"/>
         <card number="1" price="0" name="Shinka, the Bloodsoaked Keep"/>
         <card number="1" price="0" name="Hellkite Charger"/>
         <card number="1" price="0" name="Aggravated Assault"/>
@@ -40,7 +38,6 @@
         <card number="1" price="0" name="Kher Keep"/>
         <card number="1" price="0" name="Loxodon Warhammer"/>
         <card number="1" price="0" name="Rage Reflection"/>
-        <card number="1" price="0" name="Ruby Medallion"/>
         <card number="1" price="0" name="Blood Moon"/>
         <card number="1" price="0" name="Spinerock Knoll"/>
         <card number="1" price="0" name="Tower of the Magistrate"/>
@@ -51,7 +48,6 @@
         <card number="1" price="0" name="Solemn Simulacrum"/>
         <card number="1" price="0" name="Viashino Heretic"/>
         <card number="1" price="0" name="Kiki-Jiki, Mirror Breaker"/>
-        <card number="1" price="0" name="Sundering Titan"/>
         <card number="1" price="0" name="Taurean Mauler"/>
         <card number="1" price="0" name="Goblin Welder"/>
         <card number="1" price="0" name="Word of Seizing"/>
@@ -68,7 +64,6 @@
         <card number="1" price="0" name="Swiftfoot Boots"/>
         <card number="1" price="0" name="Blood Frenzy"/>
         <card number="1" price="0" name="Batterskull"/>
-        <card number="1" price="0" name="Creepy Doll"/>
         <card number="1" price="0" name="Hateflayer"/>
         <card number="1" price="0" name="Twist Allegiance"/>
         <card number="1" price="0" name="Ancient Tomb"/>
@@ -78,5 +73,11 @@
         <card number="1" price="0" name="Smoke"/>
         <card number="1" price="0" name="Zealous Conscripts"/>
         <card number="1" price="0" name="Malignus"/>
+        <card number="1" price="0" name="Temporal Aperture"/>
+        <card number="1" price="0" name="Eye of Ugin"/>
+        <card number="1" price="0" name="Reiterate"/>
+        <card number="1" price="0" name="Wurmcoil Engine"/>
+        <card number="1" price="0" name="Staff of Nin"/>
+        <card number="1" price="0" name="Inferno Titan"/>
     </zone>
 </cockatrice_deck>

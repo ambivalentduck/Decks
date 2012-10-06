@@ -26,8 +26,6 @@
         <card number="1" price="0" name="Worship"/>
         <card number="1" price="0" name="Day of Judgment"/>
         <card number="1" price="0" name="Swords to Plowshares"/>
-        <card number="1" price="0" name="Parallax Wave"/>
-        <card number="1" price="0" name="Decree of Justice"/>
         <card number="1" price="0" name="Ajani Goldmane"/>
         <card number="1" price="0" name="Oblivion Ring"/>
         <card number="1" price="0" name="Gideon Jura"/>
@@ -50,18 +48,20 @@
         <card number="1" price="0" name="Temporal Isolation"/>
         <card number="1" price="0" name="Cloistered Youth"/>
         <card number="1" price="0" name="Mikaeus, the Lunarch"/>
-        <card number="1" price="0" name="Rout"/>
         <card number="1" price="0" name="Geist-Honored Monk"/>
         <card number="1" price="0" name="Faith's Fetters"/>
         <card number="1" price="0" name="War Priest of Thune"/>
         <card number="1" price="0" name="Fiend Hunter"/>
-        <card number="1" price="0" name="Mentor of the Meek"/>
-        <card number="1" price="0" name="Eight-and-a-Half-Tails"/>
         <card number="1" price="0" name="Lingering Souls"/>
         <card number="1" price="0" name="Silverblade Paladin"/>
         <card number="1" price="0" name="Restoration Angel"/>
         <card number="1" price="0" name="Flickerwisp"/>
         <card number="1" price="0" name="Elesh Norn, Grand Cenobite"/>
         <card number="1" price="0" name="Ajani, Caller of the Pride"/>
+        <card number="1" price="0" name="Soltari Trooper"/>
+        <card number="1" price="0" name="Fencing Ace"/>
+        <card number="1" price="0" name="Lone Missionary"/>
+        <card number="1" price="0" name="Ravages of War"/>
+        <card number="1" price="0" name="Catastrophe"/>
     </zone>
 </cockatrice_deck>

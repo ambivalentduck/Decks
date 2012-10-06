@@ -3,87 +3,87 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Thelon of Havenwood"/>
-        <card number="1" name="Thelonite Hermit"/>
-        <card number="1" name="Thallid"/>
-        <card number="1" name="Thallid Devourer"/>
-        <card number="1" name="Thallid Germinator"/>
-        <card number="1" name="Thallid Shell-Dweller"/>
-        <card number="1" name="Thorn Thallid"/>
-        <card number="1" name="Sporesower Thallid"/>
-        <card number="1" name="Deathspore Thallid"/>
-        <card number="1" name="Elvish Farmer"/>
-        <card number="1" name="Feral Thallid"/>
-        <card number="1" name="Fungal Bloom"/>
-        <card number="1" name="Psychotrope Thallid"/>
-        <card number="1" name="Savage Thallid"/>
-        <card number="1" name="Spore Flower"/>
-        <card number="1" name="Sporoloth Ancient"/>
-        <card number="1" name="Hibernation's End"/>
-        <card number="1" name="Utopia Mycon"/>
-        <card number="1" name="Vitaspore Thallid"/>
-        <card number="1" name="Contagion Clasp"/>
-        <card number="1" name="Contagion Engine"/>
-        <card number="1" name="Core Prowler"/>
-        <card number="1" name="Skithiryx, the Blight Dragon"/>
-        <card number="1" name="Plaguemaw Beast"/>
-        <card number="1" name="Spread the Sickness"/>
-        <card number="1" name="Contagious Nim"/>
-        <card number="1" name="Cystbearer"/>
-        <card number="1" name="Hand of the Praetors"/>
-        <card number="1" name="Phyrexian Vatmother"/>
-        <card number="1" name="Inkmoth Nexus"/>
-        <card number="1" name="Glissa, the Traitor"/>
-        <card number="1" name="Phyresis"/>
-        <card number="1" name="Phyrexian Crusader"/>
-        <card number="1" name="Rot Wolf"/>
-        <card number="1" name="Septic Rats"/>
-        <card number="1" name="Tainted Strike"/>
-        <card number="1" name="Viridian Corrupter"/>
-        <card number="1" name="Sylvan Library"/>
-        <card number="1" name="Survival of the Fittest"/>
-        <card number="1" name="Demonic Tutor"/>
-        <card number="1" name="Vampiric Tutor"/>
-        <card number="1" name="Primeval Titan"/>
-        <card number="1" name="Grave Titan"/>
-        <card number="1" name="Nature's Lore"/>
-        <card number="1" name="Sol Ring"/>
-        <card number="1" name="Mana Crypt"/>
-        <card number="1" name="Bayou"/>
-        <card number="1" name="Overgrown Tomb"/>
-        <card number="12" name="Forest"/>
-        <card number="12" name="Swamp"/>
-        <card number="1" name="Verdant Catacombs"/>
-        <card number="1" name="Wasteland"/>
-        <card number="1" name="Strip Mine"/>
-        <card number="1" name="Maelstrom Pulse"/>
-        <card number="1" name="Spiritmonger"/>
-        <card number="1" name="Sisters of Stone Death"/>
-        <card number="1" name="Vulturous Zombie"/>
-        <card number="1" name="Barren Moor"/>
-        <card number="1" name="Decree of Savagery"/>
-        <card number="1" name="Decree of Pain"/>
-        <card number="1" name="Rain of Daggers"/>
-        <card number="1" name="Krosan Tusker"/>
-        <card number="1" name="Tranquil Thicket"/>
-        <card number="1" name="Ink-Eyes, Servant of Oni"/>
-        <card number="1" name="Enslave"/>
-        <card number="1" name="Praetor's Counsel"/>
-        <card number="1" name="Mana Reflection"/>
-        <card number="1" name="Tower of the Magistrate"/>
-        <card number="1" name="Dust Bowl"/>
-        <card number="1" name="Living Death"/>
-        <card number="1" name="Mind Twist"/>
-        <card number="1" name="Llanowar Wastes"/>
-        <card number="1" name="Tainted Wood"/>
-        <card number="1" name="Yawgmoth's Will"/>
-        <card number="1" name="Oversold Cemetery"/>
-        <card number="1" name="Oath of Ghouls"/>
-        <card number="1" name="Keeper of the Dead"/>
-        <card number="1" name="Golgari Grave-Troll"/>
+        <card number="1" price="0" name="Thelon of Havenwood"/>
+        <card number="1" price="0" name="Thelonite Hermit"/>
+        <card number="1" price="0" name="Thallid"/>
+        <card number="1" price="0" name="Thallid Devourer"/>
+        <card number="1" price="0" name="Thallid Germinator"/>
+        <card number="1" price="0" name="Thallid Shell-Dweller"/>
+        <card number="1" price="0" name="Thorn Thallid"/>
+        <card number="1" price="0" name="Sporesower Thallid"/>
+        <card number="1" price="0" name="Deathspore Thallid"/>
+        <card number="1" price="0" name="Elvish Farmer"/>
+        <card number="1" price="0" name="Feral Thallid"/>
+        <card number="1" price="0" name="Fungal Bloom"/>
+        <card number="1" price="0" name="Psychotrope Thallid"/>
+        <card number="1" price="0" name="Savage Thallid"/>
+        <card number="1" price="0" name="Spore Flower"/>
+        <card number="1" price="0" name="Sporoloth Ancient"/>
+        <card number="1" price="0" name="Hibernation's End"/>
+        <card number="1" price="0" name="Utopia Mycon"/>
+        <card number="1" price="0" name="Vitaspore Thallid"/>
+        <card number="1" price="0" name="Contagion Clasp"/>
+        <card number="1" price="0" name="Contagion Engine"/>
+        <card number="1" price="0" name="Core Prowler"/>
+        <card number="1" price="0" name="Skithiryx, the Blight Dragon"/>
+        <card number="1" price="0" name="Plaguemaw Beast"/>
+        <card number="1" price="0" name="Spread the Sickness"/>
+        <card number="1" price="0" name="Contagious Nim"/>
+        <card number="1" price="0" name="Cystbearer"/>
+        <card number="1" price="0" name="Hand of the Praetors"/>
+        <card number="1" price="0" name="Phyrexian Vatmother"/>
+        <card number="1" price="0" name="Inkmoth Nexus"/>
+        <card number="1" price="0" name="Glissa, the Traitor"/>
+        <card number="1" price="0" name="Phyresis"/>
+        <card number="1" price="0" name="Phyrexian Crusader"/>
+        <card number="1" price="0" name="Rot Wolf"/>
+        <card number="1" price="0" name="Septic Rats"/>
+        <card number="1" price="0" name="Tainted Strike"/>
+        <card number="1" price="0" name="Viridian Corrupter"/>
+        <card number="1" price="0" name="Sylvan Library"/>
+        <card number="1" price="0" name="Survival of the Fittest"/>
+        <card number="1" price="0" name="Demonic Tutor"/>
+        <card number="1" price="0" name="Vampiric Tutor"/>
+        <card number="1" price="0" name="Primeval Titan"/>
+        <card number="1" price="0" name="Grave Titan"/>
+        <card number="1" price="0" name="Nature's Lore"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Mana Crypt"/>
+        <card number="1" price="0" name="Bayou"/>
+        <card number="1" price="0" name="Overgrown Tomb"/>
+        <card number="12" price="0" name="Forest"/>
+        <card number="12" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Verdant Catacombs"/>
+        <card number="1" price="0" name="Wasteland"/>
+        <card number="1" price="0" name="Strip Mine"/>
+        <card number="1" price="0" name="Maelstrom Pulse"/>
+        <card number="1" price="0" name="Spiritmonger"/>
+        <card number="1" price="0" name="Sisters of Stone Death"/>
+        <card number="1" price="0" name="Vulturous Zombie"/>
+        <card number="1" price="0" name="Barren Moor"/>
+        <card number="1" price="0" name="Decree of Savagery"/>
+        <card number="1" price="0" name="Decree of Pain"/>
+        <card number="1" price="0" name="Rain of Daggers"/>
+        <card number="1" price="0" name="Krosan Tusker"/>
+        <card number="1" price="0" name="Tranquil Thicket"/>
+        <card number="1" price="0" name="Ink-Eyes, Servant of Oni"/>
+        <card number="1" price="0" name="Enslave"/>
+        <card number="1" price="0" name="Praetor's Counsel"/>
+        <card number="1" price="0" name="Mana Reflection"/>
+        <card number="1" price="0" name="Tower of the Magistrate"/>
+        <card number="1" price="0" name="Dust Bowl"/>
+        <card number="1" price="0" name="Living Death"/>
+        <card number="1" price="0" name="Llanowar Wastes"/>
+        <card number="1" price="0" name="Tainted Wood"/>
+        <card number="1" price="0" name="Yawgmoth's Will"/>
+        <card number="1" price="0" name="Oversold Cemetery"/>
+        <card number="1" price="0" name="Oath of Ghouls"/>
+        <card number="1" price="0" name="Keeper of the Dead"/>
+        <card number="1" price="0" name="Golgari Grave-Troll"/>
+        <card number="1" price="0" name="Doubling Season"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Gloom"/>
-        <card number="1" name="Choke"/>
+        <card number="1" price="0" name="Gloom"/>
+        <card number="1" price="0" name="Choke"/>
     </zone>
 </cockatrice_deck>

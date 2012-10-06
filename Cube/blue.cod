@@ -5,14 +5,12 @@
     <zone name="main">
         <card number="1" price="0" name="Venser, Shaper Savant"/>
         <card number="1" price="0" name="Vendilion Clique"/>
-        <card number="1" price="0" name="Teferi, Mage of Zhalfir"/>
         <card number="1" price="0" name="Serendib Efreet"/>
         <card number="1" price="0" name="Kira, Great Glass-Spinner"/>
         <card number="1" price="0" name="Looter il-Kor"/>
         <card number="1" price="0" name="Mulldrifter"/>
         <card number="1" price="0" name="Old Man of the Sea"/>
         <card number="1" price="0" name="Lighthouse Chronologist"/>
-        <card number="1" price="0" name="Palinchron"/>
         <card number="1" price="0" name="Glen Elendra Archmage"/>
         <card number="1" price="0" name="Keiga, the Tide Star"/>
         <card number="1" price="0" name="Meloku the Clouded Mirror"/>
@@ -47,7 +45,6 @@
         <card number="1" price="0" name="Frost Titan"/>
         <card number="1" price="0" name="Sunder"/>
         <card number="1" price="0" name="Phyrexian Metamorph"/>
-        <card number="1" price="0" name="Gifts Ungiven"/>
         <card number="1" price="0" name="Jace, Memory Adept"/>
         <card number="1" price="0" name="Snapcaster Mage"/>
         <card number="1" price="0" name="Phantasmal Image"/>
@@ -63,5 +60,8 @@
         <card number="1" price="0" name="Dungeon Geists"/>
         <card number="1" price="0" name="Tandem Lookout"/>
         <card number="1" price="0" name="Fettergeist"/>
+        <card number="1" price="0" name="Jace, Architect of Thought"/>
+        <card number="1" price="0" name="Augur of Bolas"/>
+        <card number="1" price="0" name="Cyclonic Rift"/>
     </zone>
 </cockatrice_deck>

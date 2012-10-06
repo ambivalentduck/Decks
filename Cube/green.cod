@@ -49,7 +49,6 @@
         <card number="1" price="0" name="Beast Within"/>
         <card number="1" price="0" name="Kodama's Reach"/>
         <card number="1" price="0" name="Vengevine"/>
-        <card number="1" price="0" name="Skinshifter"/>
         <card number="1" price="0" name="Phantom Centaur"/>
         <card number="1" price="0" name="Genesis"/>
         <card number="1" price="0" name="Garruk, Primal Hunter"/>
@@ -63,5 +62,6 @@
         <card number="1" price="0" name="Bramblecrush"/>
         <card number="1" price="0" name="Mayor of Avabruck"/>
         <card number="1" price="0" name="Thragtusk"/>
+        <card number="1" price="0" name="Deadbridge Goliath"/>
     </zone>
 </cockatrice_deck>

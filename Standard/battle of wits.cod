@@ -3,95 +3,69 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="3" price="0" name="Buried Ruin"/>
         <card number="4" price="0" name="Cavern of Souls"/>
         <card number="4" price="0" name="Darkslick Shores"/>
+        <card number="4" price="0" name="Drowned Catacomb"/>
         <card number="4" price="0" name="Evolving Wilds"/>
-        <card number="17" price="0" name="Forest"/>
         <card number="4" price="0" name="Ghost Quarter"/>
-        <card number="4" price="0" name="Glimmerpost"/>
-        <card number="2" price="0" name="Grim Backwoods"/>
-        <card number="4" price="0" name="Hinterland Harbor"/>
-        <card number="17" price="0" name="Island"/>
+        <card number="4" price="0" name="Glacial Fortress"/>
+        <card number="24" price="0" name="Island"/>
+        <card number="4" price="0" name="Isolated Chapel"/>
         <card number="3" price="0" name="Nephalia Drownyard"/>
-        <card number="3" price="0" name="Phyrexia's Core"/>
-        <card number="4" price="0" name="Shimmering Grotto"/>
-        <card number="17" price="0" name="Swamp"/>
-        <card number="4" price="0" name="Drowned Catacombs"/>
-        <card number="4" price="0" name="Woodland Cemetery"/>
-        <card number="3" price="0" name="Acidic Slime"/>
-        <card number="1" price="0" name="Bitterheart Witch"/>
-        <card number="1" price="0" name="Blightsteel Colossus"/>
-        <card number="2" price="0" name="Consecrated Sphinx"/>
-        <card number="2" price="0" name="Deceiver Exarch"/>
-        <card number="2" price="0" name="Djinn of Wishes"/>
-        <card number="3" price="0" name="Elvish Visionary"/>
-        <card number="2" price="0" name="Frost Titan"/>
-        <card number="2" price="0" name="Geth, Lord of the Vault"/>
-        <card number="2" price="0" name="Grave Titan"/>
-        <card number="2" price="0" name="Griselbrand"/>
-        <card number="2" price="0" name="Havengul Lich"/>
-        <card number="1" price="0" name="Jin-Gitaxias, Core Augur"/>
-        <card number="2" price="0" name="Massacre Wurm"/>
-        <card number="2" price="0" name="Mikaeus, the Unhallowed"/>
-        <card number="1" price="0" name="Myr Battlesphere"/>
-        <card number="2" price="0" name="Phantasmal Image"/>
-        <card number="3" price="0" name="Phyrexian Metamorph"/>
-        <card number="1" price="0" name="Silklash Spider"/>
-        <card number="1" price="0" name="Skithiryx, the Blight Dragon"/>
-        <card number="4" price="0" name="Solemn Simulacrum"/>
-        <card number="2" price="0" name="Spellskite"/>
-        <card number="1" price="0" name="Sphinx of Uthuun"/>
-        <card number="1" price="0" name="Tree of Redemption"/>
-        <card number="2" price="0" name="Trinket Mage"/>
-        <card number="4" price="0" name="Vampire Nighthawk"/>
-        <card number="1" price="0" name="Viridian Corrupter"/>
-        <card number="3" price="0" name="Viridian Emissary"/>
-        <card number="2" price="0" name="Vorapede"/>
-        <card number="1" price="0" name="Vorinclex, Voice of Hunger"/>
-        <card number="2" price="0" name="Wurmcoil Engine"/>
-        <card number="3" price="0" name="Alchemist Refuge"/>
-        <card number="2" price="0" name="Dungeon Geist"/>
-        <card number="3" price="0" name="Rune Scarred Demon"/>
-        <card number="1" price="0" name="Sheoldred, the Whispering One"/>
-        <card number="2" price="0" name="Thragtusk"/>
-        <card number="3" price="0" name="Batterskull"/>
-        <card number="4" price="0" name="Birthing Pod"/>
-        <card number="1" price="0" name="Elixir of Immortality"/>
-        <card number="1" price="0" name="Grimoire of the Dead"/>
-        <card number="4" price="0" name="Ichor Wellspring"/>
-        <card number="2" price="0" name="Mindslaver"/>
-        <card number="1" price="0" name="Nihil Spellbomb"/>
-        <card number="4" price="0" name="Pristine Talisman"/>
-        <card number="1" price="0" name="Tormod's Crypt"/>
+        <card number="21" price="0" name="Plains"/>
+        <card number="4" price="0" name="Seachrome Coast"/>
+        <card number="10" price="0" name="Swamp"/>
+        <card number="4" price="0" name="Blade Splicer"/>
+        <card number="4" price="0" name="Delver of Secrets"/>
+        <card number="4" price="0" name="Dungeon Geists"/>
+        <card number="4" price="0" name="Elite Vanguard"/>
+        <card number="4" price="0" name="Fettergeist"/>
+        <card number="4" price="0" name="Geist of Saint Traft"/>
+        <card number="4" price="0" name="Hero of Bladehold"/>
+        <card number="4" price="0" name="Phantasmal Image"/>
+        <card number="2" price="0" name="Phyrexian Metamorph"/>
+        <card number="4" price="0" name="Porcelain Legionnaire"/>
+        <card number="4" price="0" name="Restoration Angel"/>
+        <card number="4" price="0" name="Snapcaster Mage"/>
+        <card number="3" price="0" name="Sun Titan"/>
+        <card number="4" price="0" name="Trinket Mage"/>
+        <card number="2" price="0" name="Batterskull"/>
         <card number="4" price="0" name="Battle of Wits"/>
-        <card number="4" price="0" name="Curse of Death's Hold"/>
-        <card number="3" price="0" name="Volition Reins"/>
-        <card number="3" price="0" name="Beast Within"/>
-        <card number="2" price="0" name="Blue Sun's Zenith"/>
-        <card number="3" price="0" name="Dissipate"/>
-        <card number="4" price="0" name="Forbidden Alchemy"/>
-        <card number="3" price="0" name="Go for the Throat"/>
-        <card number="4" price="0" name="Think Twice"/>
-        <card number="2" price="0" name="Black Sun's Zenith"/>
-        <card number="4" price="0" name="Diabolic Tutor"/>
+        <card number="1" price="0" name="Chimeric Mass"/>
+        <card number="4" price="0" name="Despise"/>
+        <card number="4" price="0" name="Dismember"/>
+        <card number="4" price="0" name="Dissipate"/>
+        <card number="4" price="0" name="Doom Blade"/>
+        <card number="4" price="0" name="Duress"/>
+        <card number="1" price="0" name="Elixir of Immortality"/>
+        <card number="4" price="0" name="Gitaxian Probe"/>
+        <card number="4" price="0" name="Go for the Throat"/>
+        <card number="1" price="0" name="Grafdigger's Cage"/>
         <card number="4" price="0" name="Increasing Ambition"/>
-        <card number="2" price="0" name="Life's Finale"/>
+        <card number="4" price="0" name="Lingering Souls"/>
+        <card number="4" price="0" name="Mana Leak"/>
+        <card number="4" price="0" name="Midnight Haunting"/>
+        <card number="4" price="0" name="Negate"/>
+        <card number="4" price="0" name="Oblivion Ring"/>
         <card number="4" price="0" name="Ponder"/>
-        <card number="4" price="0" name="Rampant Growth"/>
-        <card number="4" price="0" name="Temporal Mastery"/>
-        <card number="2" price="0" name="Diabolic Revelation"/>
-        <card number="1" price="0" name="Time Reversal"/>
-        <card number="3" price="0" name="Tezzeret, Agent of Bolas"/>
-        <card number="2" price="0" name="Karn, Liberated"/>
-        <card number="2" price="0" name="Corrosive Gale"/>
-        <card number="2" price="0" name="Flashfreeze"/>
-        <card number="1" price="0" name="Autumn's Veil"/>
-        <card number="1" price="0" name="Memoricide"/>
-        <card number="2" price="0" name="Negate"/>
-        <card number="1" price="0" name="Nihil Spellbomb"/>
-        <card number="2" price="0" name="Noxious Revival"/>
-        <card number="2" price="0" name="Praetor's Grasp"/>
-        <card number="2" price="0" name="Sever the Bloodline"/>
+        <card number="4" price="0" name="Rewind"/>
+        <card number="3" price="0" name="Sword of Body and Mind"/>
+        <card number="4" price="0" name="Sword of Feast and Famine"/>
+        <card number="4" price="0" name="Sword of War and Peace"/>
+        <card number="4" price="0" name="Thought Scour"/>
+        <card number="1" price="0" name="Tormod's Crypt"/>
+        <card number="1" price="0" name="Traveler's Amulet"/>
+        <card number="4" price="0" name="Vapor Snag"/>
+        <card number="2" price="0" name="Gideon Jura"/>
+        <card number="3" price="0" name="Tamiyo, the Moon Sage"/>
+        <card number="3" price="0" name="Venser, the Sojourner"/>
+    </zone>
+    <zone name="side">
+        <card number="3" price="0" name="Celestial Purge"/>
+        <card number="3" price="0" name="Day of Judgment"/>
+        <card number="1" price="0" name="Sunblast Angel"/>
+        <card number="2" price="0" name="Surgical Extraction"/>
+        <card number="3" price="0" name="Terminus"/>
+        <card number="3" price="0" name="Tormod's Crypt"/>
     </zone>
 </cockatrice_deck>

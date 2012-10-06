@@ -6,13 +6,9 @@
         <card number="1" price="0" name="Inferno Titan"/>
         <card number="1" price="0" name="Flametongue Kavu"/>
         <card number="1" price="0" name="Grim Lavamancer"/>
-        <card number="1" price="0" name="Blood Knight"/>
         <card number="1" price="0" name="Siege-Gang Commander"/>
         <card number="1" price="0" name="Avalanche Riders"/>
-        <card number="1" price="0" name="Hell's Thunder"/>
         <card number="1" price="0" name="Keldon Champion"/>
-        <card number="1" price="0" name="Stigma Lasher"/>
-        <card number="1" price="0" name="Sulfur Elemental"/>
         <card number="1" price="0" name="Hellspark Elemental"/>
         <card number="1" price="0" name="Kiki-Jiki, Mirror Breaker"/>
         <card number="1" price="0" name="Mogg Fanatic"/>
@@ -21,8 +17,6 @@
         <card number="1" price="0" name="Keldon Marauders"/>
         <card number="1" price="0" name="Banefire"/>
         <card number="1" price="0" name="Molten Rain"/>
-        <card number="1" price="0" name="Flame Javelin"/>
-        <card number="1" price="0" name="Shattering Spree"/>
         <card number="1" price="0" name="Magma Jet"/>
         <card number="1" price="0" name="Incinerate"/>
         <card number="1" price="0" name="Sulfuric Vortex"/>
@@ -43,13 +37,10 @@
         <card number="1" price="0" name="Searing Blaze"/>
         <card number="1" price="0" name="Burst Lightning"/>
         <card number="1" price="0" name="Chandra Nalaar"/>
-        <card number="1" price="0" name="Goblin Wardriver"/>
         <card number="1" price="0" name="Chandra's Phoenix"/>
         <card number="1" price="0" name="Reckless Waif"/>
-        <card number="1" price="0" name="Kargan Dragonlord"/>
         <card number="1" price="0" name="Chaos Warp"/>
         <card number="1" price="0" name="Instigator Gang"/>
-        <card number="1" price="0" name="Ember Hauler"/>
         <card number="1" price="0" name="Stromkirk Noble"/>
         <card number="1" price="0" name="Chandra, the Firebrand"/>
         <card number="1" price="0" name="Hellrider"/>
@@ -57,11 +48,20 @@
         <card number="1" price="0" name="Zealous Conscripts"/>
         <card number="1" price="0" name="Lightning Mauler"/>
         <card number="1" price="0" name="Firebolt"/>
-        <card number="1" price="0" name="Reckless Charge"/>
         <card number="1" price="0" name="Stormblood Berserker"/>
         <card number="1" price="0" name="Torch Fiend"/>
         <card number="1" price="0" name="Squee, Goblin Nabob"/>
         <card number="1" price="0" name="Devil's Play"/>
         <card number="1" price="0" name="Thundermaw Hellkite"/>
+        <card number="1" price="0" name="Ash Zealot"/>
+        <card number="1" price="0" name="Gore-House Chainwalker"/>
+        <card number="1" price="0" name="Vexing Devil"/>
+        <card number="1" price="0" name="Mizzium Mortars"/>
+        <card number="1" price="0" name="Aftershock"/>
+        <card number="1" price="0" name="Faithless Looting"/>
+        <card number="1" price="0" name="Keldon Vandals"/>
+        <card number="1" price="0" name="Staggershock"/>
+        <card number="1" price="0" name="Wildfire"/>
+        <card number="1" price="0" name="Kargan Dragonlord"/>
     </zone>
 </cockatrice_deck>

@@ -28,7 +28,6 @@
         <card number="1" price="0" name="Stoneforge Mystic"/>
         <card number="1" price="0" name="Eternal Witness"/>
         <card number="1" price="0" name="Qasali Pridemage"/>
-        <card number="1" price="0" name="Teneb, the Harvester"/>
         <card number="1" price="0" name="Serra Ascendant"/>
         <card number="1" price="0" name="Sun Titan"/>
         <card number="1" price="0" name="Survival of the Fittest"/>
@@ -66,7 +65,6 @@
         <card number="1" price="0" name="Privileged Position"/>
         <card number="1" price="0" name="Ghostly Prison"/>
         <card number="1" price="0" name="No Mercy"/>
-        <card number="1" price="0" name="Primeval Titan"/>
         <card number="1" price="0" name="Sensei's Divining Top"/>
         <card number="1" price="0" name="Bojuka Bog"/>
         <card number="1" price="0" name="Karador, Ghost Chieftain"/>
@@ -93,7 +91,6 @@
         <card number="1" price="0" name="Karmic Guide"/>
         <card number="1" price="0" name="Wasteland"/>
         <card number="1" price="0" name="Yavimaya Elder"/>
-        <card number="1" price="0" name="Natural Order"/>
         <card number="1" price="0" name="High Market"/>
         <card number="1" price="0" name="Phyrexian Tower"/>
         <card number="1" price="0" name="Tooth and Nail"/>
@@ -103,5 +100,8 @@
         <card number="1" price="0" name="Pernicious Deed"/>
         <card number="1" price="0" name="Eternal Dragon"/>
         <card number="1" price="0" name="Sorin, Lord of Innistrad"/>
+        <card number="1" price="0" name="Terastodon"/>
+        <card number="1" price="0" name="Avenger of Zendikar"/>
+        <card number="1" price="0" name="Kokusho, the Evening Star"/>
     </zone>
 </cockatrice_deck>

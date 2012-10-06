@@ -28,7 +28,6 @@
         <card number="1" price="0" name="Sarcomancy"/>
         <card number="1" price="0" name="Thoughtseize"/>
         <card number="1" price="0" name="Doom Blade"/>
-        <card number="1" price="0" name="Living Death"/>
         <card number="1" price="0" name="Reanimate"/>
         <card number="1" price="0" name="Vampiric Tutor"/>
         <card number="1" price="0" name="Demonic Tutor"/>
@@ -48,7 +47,6 @@
         <card number="1" price="0" name="Liliana Vess"/>
         <card number="1" price="0" name="Dismember"/>
         <card number="1" price="0" name="Sheoldred, Whispering One"/>
-        <card number="1" price="0" name="Gatekeeper of Malakir"/>
         <card number="1" price="0" name="Dark Confidant"/>
         <card number="1" price="0" name="Diregraf Ghoul"/>
         <card number="1" price="0" name="Bloodgift Demon"/>
@@ -63,5 +61,7 @@
         <card number="1" price="0" name="Griselbrand"/>
         <card number="1" price="0" name="Knight of Infamy"/>
         <card number="1" price="0" name="Massacre Wurm"/>
+        <card number="1" price="0" name="Desecration Demon"/>
+        <card number="1" price="0" name="Vampire Hexmage"/>
     </zone>
 </cockatrice_deck>

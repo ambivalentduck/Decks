@@ -6,12 +6,10 @@
         <card number="1" price="0" name="Woolly Thoctar"/>
         <card number="1" price="0" name="Spiritmonger"/>
         <card number="1" price="0" name="Bloodbraid Elf"/>
-        <card number="1" price="0" name="Wall of Denial"/>
         <card number="1" price="0" name="Brion Stoutarm"/>
         <card number="1" price="0" name="Kitchen Finks"/>
         <card number="1" price="0" name="Grand Arbiter Augustin IV"/>
         <card number="1" price="0" name="Angel of Despair"/>
-        <card number="1" price="0" name="Putrid Leech"/>
         <card number="1" price="0" name="Mystic Snake"/>
         <card number="1" price="0" name="Figure of Destiny"/>
         <card number="1" price="0" name="Giant Solifuge"/>
@@ -29,7 +27,6 @@
         <card number="1" price="0" name="Undermine"/>
         <card number="1" price="0" name="Blightning"/>
         <card number="1" price="0" name="Putrefy"/>
-        <card number="1" price="0" name="Electrolyze"/>
         <card number="1" price="0" name="Debtors' Knell"/>
         <card number="1" price="0" name="Prophetic Bolt"/>
         <card number="1" price="0" name="Mortify"/>
@@ -39,10 +36,8 @@
         <card number="1" price="0" name="Snakeform"/>
         <card number="1" price="0" name="Ajani Vengeant"/>
         <card number="1" price="0" name="Lightning Helix"/>
-        <card number="1" price="0" name="Bituminous Blast"/>
         <card number="1" price="0" name="Terminate"/>
         <card number="1" price="0" name="Sarkhan the Mad"/>
-        <card number="1" price="0" name="Absorb"/>
         <card number="1" price="0" name="Nicol Bolas, Planeswalker"/>
         <card number="1" price="0" name="Fire // Ice"/>
         <card number="1" price="0" name="Hide // Seek"/>
@@ -51,8 +46,6 @@
         <card number="1" price="0" name="Edric, Spymaster of Trest"/>
         <card number="1" price="0" name="Ruhan of the Fomori"/>
         <card number="1" price="0" name="Geist of Saint Traft"/>
-        <card number="1" price="0" name="Olivia Voldaren"/>
-        <card number="1" price="0" name="Wilt-Leaf Liege"/>
         <card number="1" price="0" name="Tattermunge Maniac"/>
         <card number="1" price="0" name="Sphinx of the Steel Wind"/>
         <card number="1" price="0" name="Huntmaster of the Fells"/>
@@ -62,6 +55,13 @@
         <card number="1" price="0" name="Havengul Lich"/>
         <card number="1" price="0" name="Sigarda, Host of Herons"/>
         <card number="1" price="0" name="Maelstrom Wanderer"/>
-        <card number="1" price="0" name="Indrik Umbra"/>
+        <card number="1" price="0" name="Vraska the Unseen"/>
+        <card number="1" price="0" name="Dreadbore"/>
+        <card number="1" price="0" name="Dryad Militant"/>
+        <card number="1" price="0" name="Armada Wurm"/>
+        <card number="1" price="0" name="Detention Sphere"/>
+        <card number="1" price="0" name="Supreme Verdict"/>
+        <card number="1" price="0" name="Niv-Mizzet, Dracogenius"/>
+        <card number="1" price="0" name="Rakdos Cackler"/>
     </zone>
 </cockatrice_deck>
