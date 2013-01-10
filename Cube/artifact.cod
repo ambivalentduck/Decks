@@ -29,7 +29,6 @@
         <card number="1" price="0" name="Oblivion Stone"/>
         <card number="1" price="0" name="Erratic Portal"/>
         <card number="1" price="0" name="Lightning Greaves"/>
-        <card number="1" price="0" name="Loxodon Warhammer"/>
         <card number="1" price="0" name="Mox Pearl"/>
         <card number="1" price="0" name="Mox Jet"/>
         <card number="1" price="0" name="Mox Emerald"/>
@@ -62,6 +61,7 @@
         <card number="1" price="0" name="Molten-Tail Masticore"/>
         <card number="1" price="0" name="Smokestack"/>
         <card number="1" price="0" name="Perilous Myr"/>
-        <card number="1" price="0" name="Palladium Myr"/>
+        <card number="1" price="0" name="Manriki-Gusari"/>
+        <card number="1" price="0" name="Chromatic Lantern"/>
     </zone>
 </cockatrice_deck>

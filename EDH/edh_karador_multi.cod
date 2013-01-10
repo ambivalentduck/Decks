@@ -9,7 +9,6 @@
         <card number="1" price="0" name="Scrubland"/>
         <card number="1" price="0" name="Godless Shrine"/>
         <card number="1" price="0" name="Overgrown Tomb"/>
-        <card number="1" price="0" name="Fetid Heath"/>
         <card number="1" price="0" name="Urborg, Tomb of Yawgmoth"/>
         <card number="1" price="0" name="Arid Mesa"/>
         <card number="1" price="0" name="Bloodstained Mire"/>
@@ -32,7 +31,6 @@
         <card number="1" price="0" name="Sun Titan"/>
         <card number="1" price="0" name="Survival of the Fittest"/>
         <card number="1" price="0" name="Garruk Wildspeaker"/>
-        <card number="1" price="0" name="Sword of Fire and Ice"/>
         <card number="1" price="0" name="Mana Crypt"/>
         <card number="1" price="0" name="Aura Shards"/>
         <card number="1" price="0" name="Phyrexian Arena"/>
@@ -52,16 +50,13 @@
         <card number="1" price="0" name="Oblation"/>
         <card number="1" price="0" name="Helm of Possession"/>
         <card number="1" price="0" name="Krosan Grip"/>
-        <card number="1" price="0" name="Batterskull"/>
         <card number="1" price="0" name="Sheoldred, Whispering One"/>
-        <card number="1" price="0" name="Beacon of Unrest"/>
         <card number="1" price="0" name="Command Tower"/>
         <card number="1" price="0" name="Homeward Path"/>
         <card number="1" price="0" name="Return to Dust"/>
         <card number="1" price="0" name="Decree of Pain"/>
         <card number="1" price="0" name="Coalition Relic"/>
         <card number="1" price="0" name="Skyshroud Claim"/>
-        <card number="1" price="0" name="City of Brass"/>
         <card number="1" price="0" name="Privileged Position"/>
         <card number="1" price="0" name="Ghostly Prison"/>
         <card number="1" price="0" name="No Mercy"/>
@@ -78,7 +73,6 @@
         <card number="1" price="0" name="Shriekmaw"/>
         <card number="1" price="0" name="Oblivion Stone"/>
         <card number="1" price="0" name="Cabal Coffers"/>
-        <card number="1" price="0" name="Buried Alive"/>
         <card number="1" price="0" name="Leyline of Sanctity"/>
         <card number="1" price="0" name="Rout"/>
         <card number="1" price="0" name="Oracle of Mul Daya"/>
@@ -94,14 +88,20 @@
         <card number="1" price="0" name="High Market"/>
         <card number="1" price="0" name="Phyrexian Tower"/>
         <card number="1" price="0" name="Tooth and Nail"/>
-        <card number="1" price="0" name="Adarkar Valkyrie"/>
         <card number="1" price="0" name="Regrowth"/>
         <card number="1" price="0" name="Greater Good"/>
         <card number="1" price="0" name="Pernicious Deed"/>
-        <card number="1" price="0" name="Eternal Dragon"/>
-        <card number="1" price="0" name="Sorin, Lord of Innistrad"/>
         <card number="1" price="0" name="Terastodon"/>
         <card number="1" price="0" name="Avenger of Zendikar"/>
         <card number="1" price="0" name="Kokusho, the Evening Star"/>
+        <card number="1" price="0" name="Loyal Retainers"/>
+        <card number="1" price="0" name="Vraska the Unseen"/>
+        <card number="1" price="0" name="Duplicant"/>
+        <card number="1" price="0" name="Reveillark"/>
+        <card number="1" price="0" name="Grave Betrayal"/>
+        <card number="1" price="0" name="Sword of Light and Shadow"/>
+        <card number="1" price="0" name="Wurmcoil Engine"/>
+        <card number="1" price="0" name="Murmuring Bosk"/>
+        <card number="1" price="0" name="Mistveil Plains"/>
     </zone>
 </cockatrice_deck>

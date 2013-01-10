@@ -31,7 +31,6 @@
         <card number="1" price="0" name="Mind Stone"/>
         <card number="1" price="0" name="Duplicant"/>
         <card number="1" price="0" name="Solemn Simulacrum"/>
-        <card number="1" price="0" name="Goblin Welder"/>
         <card number="1" price="0" name="Word of Seizing"/>
         <card number="1" price="0" name="Goblin Bombardment"/>
         <card number="1" price="0" name="Sol Ring"/>
@@ -67,9 +66,8 @@
         <card number="1" price="0" name="Grim Monolith"/>
         <card number="1" price="0" name="Grafted Exoskeleton"/>
         <card number="1" price="0" name="Mimic Vat"/>
-        <card number="1" price="0" name="Sword of War and Peace"/>
         <card number="1" price="0" name="Scrying Sheets"/>
-        <card number="24" price="0" name="Snow-Covered Mountain"/>
+        <card number="23" price="0" name="Snow-Covered Mountain"/>
         <card number="1" price="0" name="Buried Ruin"/>
         <card number="1" price="0" name="Gilded Lotus"/>
         <card number="1" price="0" name="Oblivion Stone"/>
@@ -80,5 +78,8 @@
         <card number="1" price="0" name="High Market"/>
         <card number="1" price="0" name="Eye of Ugin"/>
         <card number="1" price="0" name="Memory Jar"/>
+        <card number="1" price="0" name="Cavern of Souls"/>
+        <card number="1" price="0" name="Staff of Nin"/>
+        <card number="1" price="0" name="Diaochan, Artful Beauty"/>
     </zone>
 </cockatrice_deck>

@@ -55,7 +55,6 @@
         <card number="1" price="0" name="Time Warp"/>
         <card number="1" price="0" name="Forbid"/>
         <card number="1" price="0" name="Tamiyo, the Moon Sage"/>
-        <card number="1" price="0" name="Latch Seeker"/>
         <card number="1" price="0" name="Deadeye Navigator"/>
         <card number="1" price="0" name="Dungeon Geists"/>
         <card number="1" price="0" name="Tandem Lookout"/>
@@ -63,5 +62,6 @@
         <card number="1" price="0" name="Jace, Architect of Thought"/>
         <card number="1" price="0" name="Augur of Bolas"/>
         <card number="1" price="0" name="Cyclonic Rift"/>
+        <card number="1" price="0" name="Wake Thrasher"/>
     </zone>
 </cockatrice_deck>

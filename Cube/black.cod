@@ -3,7 +3,6 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" price="0" name="Dauthi Mercenary"/>
         <card number="1" price="0" name="Kokusho, the Evening Star"/>
         <card number="1" price="0" name="Oona's Prowler"/>
         <card number="1" price="0" name="Carnophage"/>
@@ -20,7 +19,6 @@
         <card number="1" price="0" name="Plague Sliver"/>
         <card number="1" price="0" name="Tombstalker"/>
         <card number="1" price="0" name="Graveborn Muse"/>
-        <card number="1" price="0" name="Nantuko Shade"/>
         <card number="1" price="0" name="Drana, Kalastria Bloodchief"/>
         <card number="1" price="0" name="Profane Command"/>
         <card number="1" price="0" name="Damnation"/>
@@ -56,12 +54,14 @@
         <card number="1" price="0" name="Nekrataal"/>
         <card number="1" price="0" name="Animate Dead"/>
         <card number="1" price="0" name="Gravecrawler"/>
-        <card number="1" price="0" name="Mikaeus, the Unhallowed"/>
         <card number="1" price="0" name="Unburial Rites"/>
         <card number="1" price="0" name="Griselbrand"/>
         <card number="1" price="0" name="Knight of Infamy"/>
         <card number="1" price="0" name="Massacre Wurm"/>
         <card number="1" price="0" name="Desecration Demon"/>
         <card number="1" price="0" name="Vampire Hexmage"/>
+        <card number="1" price="0" name="Pack Rat"/>
+        <card number="1" price="0" name="Thrill-Kill Assassin"/>
+        <card number="1" price="0" name="Stupor"/>
     </zone>
 </cockatrice_deck>

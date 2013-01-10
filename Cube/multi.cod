@@ -9,7 +9,6 @@
         <card number="1" price="0" name="Brion Stoutarm"/>
         <card number="1" price="0" name="Kitchen Finks"/>
         <card number="1" price="0" name="Grand Arbiter Augustin IV"/>
-        <card number="1" price="0" name="Angel of Despair"/>
         <card number="1" price="0" name="Mystic Snake"/>
         <card number="1" price="0" name="Figure of Destiny"/>
         <card number="1" price="0" name="Giant Solifuge"/>
@@ -19,7 +18,6 @@
         <card number="1" price="0" name="Rafiq of the Many"/>
         <card number="1" price="0" name="Trygon Predator"/>
         <card number="1" price="0" name="Doran, the Siege Tower"/>
-        <card number="1" price="0" name="Niv-Mizzet, the Firemind"/>
         <card number="1" price="0" name="Broodmate Dragon"/>
         <card number="1" price="0" name="Duergar Hedge-Mage"/>
         <card number="1" price="0" name="Qasali Pridemage"/>
@@ -55,7 +53,6 @@
         <card number="1" price="0" name="Havengul Lich"/>
         <card number="1" price="0" name="Sigarda, Host of Herons"/>
         <card number="1" price="0" name="Maelstrom Wanderer"/>
-        <card number="1" price="0" name="Vraska the Unseen"/>
         <card number="1" price="0" name="Dreadbore"/>
         <card number="1" price="0" name="Dryad Militant"/>
         <card number="1" price="0" name="Armada Wurm"/>
@@ -63,5 +60,8 @@
         <card number="1" price="0" name="Supreme Verdict"/>
         <card number="1" price="0" name="Niv-Mizzet, Dracogenius"/>
         <card number="1" price="0" name="Rakdos Cackler"/>
+        <card number="1" price="0" name="Electrolyze"/>
+        <card number="1" price="0" name="Tidehollow Sculler"/>
+        <card number="1" price="0" name="Vraska the Unseen"/>
     </zone>
 </cockatrice_deck>

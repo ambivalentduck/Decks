@@ -6,7 +6,6 @@
         <card number="1" price="0" name="Breeding Pool"/>
         <card number="1" price="0" name="Badlands"/>
         <card number="1" price="0" name="Volcanic Island"/>
-        <card number="1" price="0" name="Barbarian Ring"/>
         <card number="1" price="0" name="Tundra"/>
         <card number="1" price="0" name="Tropical Island"/>
         <card number="1" price="0" name="Sacred Foundry"/>
@@ -22,7 +21,6 @@
         <card number="1" price="0" name="Overgrown Tomb"/>
         <card number="1" price="0" name="Blood Crypt"/>
         <card number="1" price="0" name="Shelldock Isle"/>
-        <card number="1" price="0" name="Oran-Rief, the Vastwood"/>
         <card number="1" price="0" name="Fetid Heath"/>
         <card number="1" price="0" name="Flooded Strand"/>
         <card number="1" price="0" name="Scalding Tarn"/>
@@ -47,8 +45,6 @@
         <card number="1" price="0" name="Savannah"/>
         <card number="1" price="0" name="Hallowed Fountain"/>
         <card number="1" price="0" name="Graven Cairns"/>
-        <card number="1" price="0" name="Kessig Wolf Run"/>
-        <card number="1" price="0" name="Moorland Haunt"/>
         <card number="1" price="0" name="Flooded Grove"/>
         <card number="1" price="0" name="Vault of the Archangel"/>
         <card number="1" price="0" name="Sunken Ruins"/>
@@ -63,5 +59,9 @@
         <card number="1" price="0" name="Desolate Lighthouse"/>
         <card number="1" price="0" name="Yavimaya Coast"/>
         <card number="1" price="0" name="Kor Haven"/>
+        <card number="1" price="0" name="Raging Ravine"/>
+        <card number="1" price="0" name="Celestial Colonnade"/>
+        <card number="1" price="0" name="Treetop Village"/>
+        <card number="1" price="0" name="Ghitu Encampment"/>
     </zone>
 </cockatrice_deck>
