@@ -5,12 +5,9 @@
     <zone name="main">
         <card number="4" price="0" name="Goblin Lackey"/>
         <card number="4" price="0" name="Goblin Matron"/>
-        <card number="1" price="0" name="Earwig Squad"/>
-        <card number="1" price="0" name="Goblin Tinkerer"/>
-        <card number="4" price="0" name="Rakdos Guildmage"/>
-        <card number="3" price="0" name="Badlands"/>
+        <card number="2" price="0" name="Earwig Squad"/>
+        <card number="4" price="0" name="Badlands"/>
         <card number="2" price="0" name="Mountain"/>
-        <card number="1" price="0" name="Wort, Boggart Auntie"/>
         <card number="1" price="0" name="Demonic Tutor"/>
         <card number="1" price="0" name="Vampiric Tutor"/>
         <card number="1" price="0" name="Demonic Consultation"/>
@@ -22,29 +19,34 @@
         <card number="1" price="0" name="Black Lotus"/>
         <card number="1" price="0" name="Sol Ring"/>
         <card number="1" price="0" name="Mana Crypt"/>
-        <card number="1" price="0" name="Tinker"/>
-        <card number="1" price="0" name="Ancestral Recall"/>
-        <card number="1" price="0" name="Time Walk"/>
-        <card number="1" price="0" name="Brainstorm"/>
         <card number="4" price="0" name="Lightning Bolt"/>
-        <card number="1" price="0" name="Blightsteel Colossus"/>
-        <card number="2" price="0" name="Jace, the Mind Sculptor"/>
-        <card number="1" price="0" name="Underground Sea"/>
-        <card number="1" price="0" name="Volcanic Island"/>
-        <card number="4" price="0" name="Scalding Tarn"/>
+        <card number="2" price="0" name="Scalding Tarn"/>
         <card number="4" price="0" name="Bloodstained Mire"/>
-        <card number="1" price="0" name="Yawgmoth's Will"/>
-        <card number="1" price="0" name="Mad Auntie"/>
-        <card number="1" price="0" name="Mogg Fanatic"/>
         <card number="1" price="0" name="Strip Mine"/>
-        <card number="1" price="0" name="Wasteland"/>
-        <card number="1" price="0" name="Siege-Gang Commander"/>
-        <card number="1" price="0" name="Goblin Psychopath"/>
-        <card number="1" price="0" name="Ponder"/>
+        <card number="2" price="0" name="Wasteland"/>
+        <card number="4" price="0" name="Rakdos Charm"/>
+        <card number="2" price="0" name="Goblin Welder"/>
+        <card number="2" price="0" name="Cavern of Souls"/>
+        <card number="1" price="0" name="Gempalm Incinerator"/>
+        <card number="1" price="0" name="Stingscourger"/>
+        <card number="1" price="0" name="Goblin Piledriver"/>
+        <card number="1" price="0" name="Goblin Sharpshooter"/>
+        <card number="3" price="0" name="Thoughtseize"/>
+        <card number="2" price="0" name="Grafdigger's Cage"/>
+        <card number="1" price="0" name="Mogg Fanatic"/>
+        <card number="1" price="0" name="Mad Auntie"/>
+        <card number="1" price="0" name="Goblin Chieftain"/>
     </zone>
     <zone name="side">
-        <card number="4" price="0" name="Niv-Mizzet, the Firemind"/>
-        <card number="4" price="0" name="Flusterstorm"/>
-        <card number="2" price="0" name="Pulverize"/>
+        <card number="4" price="0" name="Mental Misstep"/>
+        <card number="1" price="0" name="Leyline of the Void"/>
+        <card number="1" price="0" name="Nihil Spellbomb"/>
+        <card number="2" price="0" name="Thorn of Amethyst"/>
+        <card number="2" price="0" name="Earwig Squad"/>
+        <card number="1" price="0" name="Pulverize"/>
+        <card number="1" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Yawgmoth's Will"/>
+        <card number="1" price="0" name="Red Elemental Blast"/>
+        <card number="1" price="0" name="Pyroblast"/>
     </zone>
 </cockatrice_deck>

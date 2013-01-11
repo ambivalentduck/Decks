@@ -3,10 +3,10 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="4" price="0" name="Polluted Delta"/>
+        <card number="3" price="0" name="Polluted Delta"/>
         <card number="3" price="0" name="Misty Rainforest"/>
         <card number="4" price="0" name="Underground Sea"/>
-        <card number="1" price="0" name="Tropical Island"/>
+        <card number="2" price="0" name="Tropical Island"/>
         <card number="2" price="0" name="Island"/>
         <card number="1" price="0" name="Black Lotus"/>
         <card number="1" price="0" name="Mox Jet"/>
@@ -22,7 +22,7 @@
         <card number="1" price="0" name="Ancestral Recall"/>
         <card number="1" price="0" name="Brainstorm"/>
         <card number="4" price="0" name="Gush"/>
-        <card number="4" price="0" name="Preordain"/>
+        <card number="1" price="0" name="Preordain"/>
         <card number="1" price="0" name="Demonic Tutor"/>
         <card number="1" price="0" name="Vampiric Tutor"/>
         <card number="1" price="0" name="Mystical Tutor"/>
@@ -32,17 +32,18 @@
         <card number="1" price="0" name="Lotus Petal"/>
         <card number="1" price="0" name="Laboratory Maniac"/>
         <card number="4" price="0" name="Gitaxian Probe"/>
+        <card number="1" price="0" name="Mox Emerald"/>
+        <card number="1" price="0" name="Chain of Vapor"/>
+        <card number="1" price="0" name="Ponder"/>
     </zone>
     <zone name="side">
-        <card number="1" price="0" name="Steel Sabotage"/>
         <card number="2" price="0" name="Hurkyl's Recall"/>
-        <card number="1" price="0" name="Sol Ring"/>
-        <card number="4" price="0" name="Leyline of the Void"/>
-        <card number="1" price="0" name="Chain of Vapor"/>
-        <card number="1" price="0" name="Mox Emerald"/>
-        <card number="1" price="0" name="Engineered Plague"/>
-        <card number="1" price="0" name="Dread of Night"/>
-        <card number="2" price="0" name="Xantid Swarm"/>
-        <card number="1" price="0" name="Doom Blade"/>
+        <card number="4" price="0" name="Oath of Druids"/>
+        <card number="2" price="0" name="Griselbrand"/>
+        <card number="1" price="0" name="Show and Tell"/>
+        <card number="1" price="0" name="Mox Ruby"/>
+        <card number="1" price="0" name="Mox Pearl"/>
+        <card number="1" price="0" name="Darkblast"/>
+        <card number="3" price="0" name="Teferi's Realm"/>
     </zone>
 </cockatrice_deck>

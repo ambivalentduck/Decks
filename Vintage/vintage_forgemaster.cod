@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Black Lotus"/>
+        <card number="4" price="0" name="Chalice of the Void"/>
+        <card number="1" price="0" name="Duplicant"/>
+        <card number="4" price="0" name="Kuldotha Forgemaster"/>
+        <card number="4" price="0" name="Lodestone Golem"/>
+        <card number="1" price="0" name="Mana Crypt"/>
+        <card number="1" price="0" name="Mana Vault"/>
+        <card number="4" price="0" name="Metalworker"/>
+        <card number="1" price="0" name="Mox Emerald"/>
+        <card number="1" price="0" name="Mox Jet"/>
+        <card number="1" price="0" name="Mox Pearl"/>
+        <card number="1" price="0" name="Mox Ruby"/>
+        <card number="1" price="0" name="Mox Sapphire"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Sundering Titan"/>
+        <card number="4" price="0" name="Thorn of Amethyst"/>
+        <card number="1" price="0" name="Trinisphere"/>
+        <card number="1" price="0" name="Triskelion"/>
+        <card number="1" price="0" name="Wurmcoil Engine"/>
+        <card number="4" price="0" name="Ancient Tomb"/>
+        <card number="3" price="0" name="City of Traitors"/>
+        <card number="4" price="0" name="Mishra's Workshop"/>
+        <card number="1" price="0" name="Tolarian Academy"/>
+        <card number="3" price="0" name="Sphere of Resistance"/>
+        <card number="1" price="0" name="Myr Battlesphere"/>
+        <card number="4" price="0" name="Tangle Wire"/>
+        <card number="1" price="0" name="Strip Mine"/>
+        <card number="4" price="0" name="Wasteland"/>
+        <card number="1" price="0" name="Steel Hellkite"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Duplicant"/>
+        <card number="3" price="0" name="Phyrexian Metamorph"/>
+        <card number="2" price="0" name="Crucible of Worlds"/>
+        <card number="4" price="0" name="Relic of Progenitus"/>
+        <card number="3" price="0" name="Grafdigger's Cage"/>
+        <card number="1" price="0" name="Steel Hellkite"/>
+    </zone>
+</cockatrice_deck>

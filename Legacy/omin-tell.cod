@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Omniscience"/>
+        <card number="2" price="0" name="Griselbrand"/>
+        <card number="3" price="0" name="Gitaxian Probe"/>
+        <card number="4" price="0" name="Preordain"/>
+        <card number="2" price="0" name="Emrakul, the Aeons Torn"/>
+        <card number="4" price="0" name="Scalding Tarn"/>
+        <card number="4" price="0" name="Ponder"/>
+        <card number="4" price="0" name="Flooded Strand"/>
+        <card number="4" price="0" name="Burning Wish"/>
+        <card number="3" price="0" name="Island"/>
+        <card number="4" price="0" name="Daze"/>
+        <card number="4" price="0" name="Brainstorm"/>
+        <card number="3" price="0" name="Show and Tell"/>
+        <card number="2" price="0" name="City of Traitors"/>
+        <card number="2" price="0" name="Lotus Petal"/>
+        <card number="3" price="0" name="Ancient Tomb"/>
+        <card number="1" price="0" name="Personal Tutor"/>
+        <card number="4" price="0" name="Force of Will"/>
+        <card number="3" price="0" name="Volcanic Island"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Grafdigger's Cage"/>
+        <card number="1" price="0" name="Surgical Extraction"/>
+        <card number="1" price="0" name="Grapeshot"/>
+        <card number="1" price="0" name="Shattering Spree"/>
+        <card number="1" price="0" name="Time of Need"/>
+        <card number="1" price="0" name="Petals of Insight"/>
+        <card number="2" price="0" name="Pyroclasm"/>
+        <card number="2" price="0" name="Defense Grid"/>
+        <card number="1" price="0" name="Show and Tell"/>
+        <card number="4" price="0" name="Red Elemental Blast"/>
+    </zone>
+</cockatrice_deck>

@@ -3,10 +3,6 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" price="0" name="Rakdos Charm"/>
-        <card number="4" price="0" name="Dark Confidant"/>
-        <card number="1" price="0" name="Flusterstorm"/>
-        <card number="4" price="0" name="Force of Will"/>
         <card number="1" price="0" name="Ancestral Recall"/>
         <card number="1" price="0" name="Time Walk"/>
         <card number="1" price="0" name="Mox Emerald"/>
@@ -15,13 +11,11 @@
         <card number="1" price="0" name="Mox Ruby"/>
         <card number="1" price="0" name="Mox Sapphire"/>
         <card number="1" price="0" name="Black Lotus"/>
-        <card number="2" price="0" name="Jace, the Mind Sculptor"/>
         <card number="3" price="0" name="Underground Sea"/>
         <card number="1" price="0" name="Island"/>
         <card number="1" price="0" name="Polluted Delta"/>
         <card number="1" price="0" name="Demonic Tutor"/>
         <card number="1" price="0" name="Vampiric Tutor"/>
-        <card number="1" price="0" name="Mountain"/>
         <card number="4" price="0" name="Burning Wish"/>
         <card number="1" price="0" name="Yawgmoth's Will"/>
         <card number="4" price="0" name="Volcanic Island"/>
@@ -29,29 +23,35 @@
         <card number="1" price="0" name="Sol Ring"/>
         <card number="1" price="0" name="Mana Crypt"/>
         <card number="1" price="0" name="Mana Vault"/>
-        <card number="2" price="0" name="Ingot Chewer"/>
-        <card number="4" price="0" name="Thoughtseize"/>
         <card number="1" price="0" name="Mystical Tutor"/>
-        <card number="2" price="0" name="Hurkyl's Recall"/>
         <card number="1" price="0" name="Tinker"/>
         <card number="1" price="0" name="Time Vault"/>
         <card number="1" price="0" name="Voltaic Key"/>
-        <card number="1" price="0" name="Blightsteel Colossus"/>
         <card number="1" price="0" name="Tolarian Academy"/>
         <card number="1" price="0" name="Brainstorm"/>
         <card number="1" price="0" name="Merchant Scroll"/>
+        <card number="3" price="0" name="Mox Opal"/>
+        <card number="1" price="0" name="Wheel of Fortune"/>
+        <card number="4" price="0" name="Goblin Welder"/>
+        <card number="1" price="0" name="Timetwister"/>
+        <card number="1" price="0" name="Ponder"/>
+        <card number="1" price="0" name="Memory Jar"/>
+        <card number="4" price="0" name="Hurkyl's Recall"/>
+        <card number="1" price="0" name="Demonic Consultation"/>
+        <card number="1" price="0" name="Empty the Warrens"/>
+        <card number="1" price="0" name="Yawgmoth's Bargain"/>
+        <card number="2" price="0" name="Snapcaster Mage"/>
+        <card number="2" price="0" name="Chrome Mox"/>
     </zone>
     <zone name="side">
-        <card number="1" price="0" name="Empty the Warrens"/>
         <card number="1" price="0" name="Tendrils of Agony"/>
         <card number="1" price="0" name="Pulverize"/>
         <card number="1" price="0" name="Yixlid Jailer"/>
         <card number="4" price="0" name="Leyline of the Void"/>
-        <card number="2" price="0" name="Ingot Chewer"/>
-        <card number="1" price="0" name="Pyroclasm"/>
-        <card number="1" price="0" name="Timetwister"/>
-        <card number="1" price="0" name="Duress"/>
+        <card number="4" price="0" name="Ingot Chewer"/>
         <card number="1" price="0" name="Transmute Artifact"/>
-        <card number="1" price="0" name="Red Elemental Blast"/>
+        <card number="1" price="0" name="Thoughtseize"/>
+        <card number="1" price="0" name="Massacre"/>
+        <card number="1" price="0" name="Mind's Desire"/>
     </zone>
 </cockatrice_deck>
