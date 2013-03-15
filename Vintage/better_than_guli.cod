@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Dark Confidant"/>
+        <card number="4" price="0" name="Thalia, Guardian of Thraben"/>
+        <card number="4" price="0" name="Mayor of Avabruck"/>
+        <card number="4" price="0" name="Sakashima's Student"/>
+        <card number="4" price="0" name="Noble Hierarch"/>
+        <card number="4" price="0" name="Glowrider"/>
+        <card number="4" price="0" name="Cavern of Souls"/>
+        <card number="1" price="0" name="Mox Emerald"/>
+        <card number="1" price="0" name="Mox Jet"/>
+        <card number="1" price="0" name="Mox Pearl"/>
+        <card number="1" price="0" name="Mox Ruby"/>
+        <card number="1" price="0" name="Mox Sapphire"/>
+        <card number="1" price="0" name="Mana Crypt"/>
+        <card number="1" price="0" name="Lotus Petal"/>
+        <card number="1" price="0" name="Black Lotus"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="4" price="0" name="Wasteland"/>
+        <card number="1" price="0" name="Strip Mine"/>
+        <card number="4" price="0" name="City of Brass"/>
+        <card number="3" price="0" name="Grafdigger's Cage"/>
+        <card number="3" price="0" name="Stony Silence"/>
+        <card number="3" price="0" name="Rest in Peace"/>
+        <card number="3" price="0" name="Gemstone Mine"/>
+        <card number="1" price="0" name="Karakas"/>
+        <card number="1" price="0" name="Ancestral Recall"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Rest in Peace"/>
+        <card number="4" price="0" name="Chalice of the Void"/>
+        <card number="1" price="0" name="Energy Flux"/>
+        <card number="1" price="0" name="Grafdigger's Cage"/>
+        <card number="3" price="0" name="Kataki, War's Wage"/>
+        <card number="1" price="0" name="Meddling Mage"/>
+        <card number="4" price="0" name="Ancient Tomb"/>
+    </zone>
+</cockatrice_deck>

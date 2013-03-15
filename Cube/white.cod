@@ -58,10 +58,10 @@
         <card number="1" price="0" name="Fencing Ace"/>
         <card number="1" price="0" name="Lone Missionary"/>
         <card number="1" price="0" name="Ravages of War"/>
-        <card number="1" price="0" name="Catastrophe"/>
         <card number="1" price="0" name="Thalia, Guardian of Thraben"/>
         <card number="1" price="0" name="Emeria Angel"/>
         <card number="1" price="0" name="Terminus"/>
-        <card number="1" price="0" name="Nearheath Pilgrim"/>
+        <card number="1" price="0" name="Gideon, Champion of Justice"/>
+        <card number="1" price="0" name="Sublime Archangel"/>
     </zone>
 </cockatrice_deck>

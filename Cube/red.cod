@@ -57,11 +57,11 @@
         <card number="1" price="0" name="Gore-House Chainwalker"/>
         <card number="1" price="0" name="Vexing Devil"/>
         <card number="1" price="0" name="Mizzium Mortars"/>
-        <card number="1" price="0" name="Aftershock"/>
         <card number="1" price="0" name="Faithless Looting"/>
         <card number="1" price="0" name="Keldon Vandals"/>
         <card number="1" price="0" name="Staggershock"/>
         <card number="1" price="0" name="Wildfire"/>
         <card number="1" price="0" name="Kargan Dragonlord"/>
+        <card number="1" price="0" name="Hound of Griselbrand"/>
     </zone>
 </cockatrice_deck>

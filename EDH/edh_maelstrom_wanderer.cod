@@ -11,15 +11,11 @@
         <card number="1" price="0" name="Kodama's Reach"/>
         <card number="1" price="0" name="Skyshroud Claim"/>
         <card number="1" price="0" name="Jace, the Mind Sculptor"/>
-        <card number="1" price="0" name="Crystal Shard"/>
         <card number="1" price="0" name="Phyrexian Metamorph"/>
         <card number="1" price="0" name="Eternal Witness"/>
         <card number="1" price="0" name="Regrowth"/>
-        <card number="1" price="0" name="Acidic Slime"/>
-        <card number="1" price="0" name="Solemn Simulacrum"/>
         <card number="1" price="0" name="Tooth and Nail"/>
         <card number="1" price="0" name="Bribery"/>
-        <card number="1" price="0" name="Krosan Grip"/>
         <card number="1" price="0" name="Palinchron"/>
         <card number="1" price="0" name="Mulldrifter"/>
         <card number="1" price="0" name="Sylvan Library"/>
@@ -36,7 +32,7 @@
         <card number="1" price="0" name="Misty Rainforest"/>
         <card number="1" price="0" name="Wooded Foothills"/>
         <card number="5" price="0" name="Island"/>
-        <card number="5" price="0" name="Forest"/>
+        <card number="7" price="0" name="Forest"/>
         <card number="2" price="0" name="Mountain"/>
         <card number="1" price="0" name="Windswept Heath"/>
         <card number="1" price="0" name="Flooded Strand"/>
@@ -48,17 +44,11 @@
         <card number="1" price="0" name="Rhystic Study"/>
         <card number="1" price="0" name="Glen Elendra Archmage"/>
         <card number="1" price="0" name="Sakura-Tribe Elder"/>
-        <card number="1" price="0" name="Recurring Insight"/>
-        <card number="1" price="0" name="Phantasmal Image"/>
         <card number="1" price="0" name="Rite of Replication"/>
         <card number="1" price="0" name="Beast Within"/>
         <card number="1" price="0" name="Sensei's Divining Top"/>
-        <card number="1" price="0" name="Fact or Fiction"/>
         <card number="1" price="0" name="Sneak Attack"/>
-        <card number="1" price="0" name="Wood Elves"/>
         <card number="1" price="0" name="Trinket Mage"/>
-        <card number="1" price="0" name="Rootbound Crag"/>
-        <card number="1" price="0" name="Sulfur Falls"/>
         <card number="1" price="0" name="Hinterland Harbor"/>
         <card number="1" price="0" name="Kiki-Jiki, Mirror Breaker"/>
         <card number="1" price="0" name="Zealous Conscripts"/>
@@ -76,7 +66,6 @@
         <card number="1" price="0" name="Brutalizer Exarch"/>
         <card number="1" price="0" name="Hunting Wilds"/>
         <card number="1" price="0" name="Tolaria West"/>
-        <card number="1" price="0" name="Nature's Lore"/>
         <card number="1" price="0" name="Food Chain"/>
         <card number="1" price="0" name="Mystical Tutor"/>
         <card number="1" price="0" name="Balefire Dragon"/>
@@ -86,13 +75,22 @@
         <card number="1" price="0" name="Mind's Desire"/>
         <card number="1" price="0" name="Gilded Lotus"/>
         <card number="1" price="0" name="Ulamog, the Infinite Gyre"/>
-        <card number="1" price="0" name="Tower of the Magistrate"/>
         <card number="1" price="0" name="Deadeye Navigator"/>
-        <card number="1" price="0" name="Time Spiral"/>
         <card number="1" price="0" name="Hellkite Tyrant"/>
         <card number="1" price="0" name="Mana Vault"/>
         <card number="1" price="0" name="Grim Monolith"/>
-        <card number="1" price="0" name="Venser, Shaper Savant"/>
-        <card number="1" price="0" name="Inferno Titan"/>
+        <card number="1" price="0" name="Sylvan Primordial"/>
+        <card number="1" price="0" name="Diluvian Primordial"/>
+        <card number="1" price="0" name="Ranger's Path"/>
+        <card number="1" price="0" name="Nature's Lore"/>
+        <card number="1" price="0" name="Avenger of Zendikar"/>
+        <card number="1" price="0" name="Insurrection"/>
+        <card number="1" price="0" name="Chancellor of the Spires"/>
+        <card number="1" price="0" name="Acquire"/>
+        <card number="1" price="0" name="Blatant Thievery"/>
+        <card number="1" price="0" name="Stranglehold"/>
+        <card number="1" price="0" name="Homeward Path"/>
+        <card number="1" price="0" name="Tezzeret the Seeker"/>
+        <card number="1" price="0" name="Basalt Monolith"/>
     </zone>
 </cockatrice_deck>

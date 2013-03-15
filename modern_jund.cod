@@ -3,37 +3,38 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="3" price="0" name="Liliana of the Veil"/>
         <card number="4" price="0" name="Blackcleave Cliffs"/>
-        <card number="4" price="0" name="Inquisition of Kozilek"/>
-        <card number="2" price="0" name="Raging Ravine"/>
-        <card number="2" price="0" name="Marsh Flats"/>
+        <card number="4" price="0" name="Raging Ravine"/>
         <card number="4" price="0" name="Verdant Catacombs"/>
-        <card number="2" price="0" name="Maelstrom Pulse"/>
-        <card number="4" price="0" name="Bloodbraid Elf"/>
-        <card number="1" price="0" name="Twilight Mire"/>
-        <card number="3" price="0" name="Kitchen Finks"/>
-        <card number="2" price="0" name="Thoughtseize"/>
-        <card number="4" price="0" name="Tarmogoyf"/>
-        <card number="2" price="0" name="Blood Crypt"/>
-        <card number="1" price="0" name="Stomping Ground"/>
+        <card number="4" price="0" name="Marsh Flats"/>
         <card number="1" price="0" name="Overgrown Tomb"/>
-        <card number="4" price="0" name="Dark Confidant"/>
-        <card number="1" price="0" name="Grim Lavamancer"/>
+        <card number="1" price="0" name="Godless Shrine"/>
+        <card number="1" price="0" name="Blood Crypt"/>
+        <card number="1" price="0" name="Stomping Ground"/>
+        <card number="1" price="0" name="Forest"/>
         <card number="2" price="0" name="Swamp"/>
-        <card number="2" price="0" name="Forest"/>
-        <card number="2" price="0" name="Terminate"/>
-        <card number="4" price="0" name="Treetop Village"/>
+        <card number="1" price="0" name="Treetop Village"/>
+        <card number="4" price="0" name="Deathrite Shaman"/>
+        <card number="4" price="0" name="Tarmogoyf"/>
+        <card number="4" price="0" name="Dark Confidant"/>
+        <card number="4" price="0" name="Bloodbraid Elf"/>
         <card number="4" price="0" name="Lightning Bolt"/>
-        <card number="2" price="0" name="Jund Charm"/>
+        <card number="2" price="0" name="Terminate"/>
+        <card number="2" price="0" name="Abrupt Decay"/>
+        <card number="3" price="0" name="Thoughtseize"/>
+        <card number="2" price="0" name="Inquisition of Kozilek"/>
+        <card number="4" price="0" name="Lingering Souls"/>
+        <card number="3" price="0" name="Liliana of the Veil"/>
     </zone>
     <zone name="side">
-        <card number="1" price="0" name="Thrun, the Last Troll"/>
-        <card number="3" price="0" name="Ancient Grudge"/>
-        <card number="4" price="0" name="Fulminator Mage"/>
-        <card number="2" price="0" name="Obstinate Baloth"/>
-        <card number="2" price="0" name="Duress"/>
-        <card number="1" price="0" name="Terminate"/>
-        <card number="2" price="0" name="Relic of Progenitus"/>
+        <card number="2" price="0" name="Rule of Law"/>
+        <card number="3" price="0" name="Rakdos Charm"/>
+        <card number="2" price="0" name="Shatterstorm"/>
+        <card number="1" price="0" name="Phyrexian Metamorph"/>
+        <card number="2" price="0" name="Olivia Voldaren"/>
+        <card number="2" price="0" name="Batterskull"/>
+        <card number="1" price="0" name="Grim Lavamancer"/>
+        <card number="1" price="0" name="Maelstrom Pulse"/>
+        <card number="1" price="0" name="Ancient Grudge"/>
     </zone>
 </cockatrice_deck>

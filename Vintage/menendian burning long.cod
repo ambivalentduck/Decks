@@ -33,23 +33,26 @@
         <card number="1" price="0" name="Sol Ring"/>
         <card number="1" price="0" name="Mana Vault"/>
         <card number="1" price="0" name="Lion's Eye Diamond"/>
-        <card number="2" price="0" name="Mox Opal"/>
+        <card number="1" price="0" name="Mox Opal"/>
         <card number="2" price="0" name="Chrome Mox"/>
         <card number="1" price="0" name="Tolarian Academy"/>
         <card number="4" price="0" name="City of Brass"/>
         <card number="2" price="0" name="Gemstone Mine"/>
         <card number="4" price="0" name="Forbidden Orchard"/>
         <card number="2" price="0" name="Hurkyl's Recall"/>
+        <card number="1" price="0" name="Thoughtseize"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Tendrils of Agony"/>
         <card number="1" price="0" name="Empty the Warrens"/>
         <card number="1" price="0" name="Show and Tell"/>
         <card number="1" price="0" name="Diminishing Returns"/>
-        <card number="3" price="0" name="Shattering Spree"/>
-        <card number="4" price="0" name="Ancient Tomb"/>
+        <card number="3" price="0" name="Ancient Tomb"/>
         <card number="1" price="0" name="Laboratory Maniac"/>
-        <card number="2" price="0" name="Hurkyl's Recall"/>
+        <card number="1" price="0" name="Hurkyl's Recall"/>
         <card number="1" price="0" name="Yawgmoth's Will"/>
+        <card number="3" price="0" name="Nature's Claim"/>
+        <card number="1" price="0" name="Shattering Spree"/>
+        <card number="1" price="0" name="Thoughtseize"/>
     </zone>
 </cockatrice_deck>

@@ -3,9 +3,10 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
+        <card number="1" price="0" name="Army Loyalist"/>
         <card number="4" price="0" name="Goblin Lackey"/>
         <card number="4" price="0" name="Goblin Matron"/>
-        <card number="2" price="0" name="Earwig Squad"/>
+        <card number="4" price="0" name="Earwig Squad"/>
         <card number="4" price="0" name="Badlands"/>
         <card number="2" price="0" name="Mountain"/>
         <card number="1" price="0" name="Demonic Tutor"/>
@@ -23,30 +24,24 @@
         <card number="2" price="0" name="Scalding Tarn"/>
         <card number="4" price="0" name="Bloodstained Mire"/>
         <card number="1" price="0" name="Strip Mine"/>
-        <card number="2" price="0" name="Wasteland"/>
         <card number="4" price="0" name="Rakdos Charm"/>
         <card number="2" price="0" name="Goblin Welder"/>
-        <card number="2" price="0" name="Cavern of Souls"/>
-        <card number="1" price="0" name="Gempalm Incinerator"/>
+        <card number="4" price="0" name="Cavern of Souls"/>
+        <card number="2" price="0" name="Gempalm Incinerator"/>
         <card number="1" price="0" name="Stingscourger"/>
-        <card number="1" price="0" name="Goblin Piledriver"/>
-        <card number="1" price="0" name="Goblin Sharpshooter"/>
         <card number="3" price="0" name="Thoughtseize"/>
         <card number="2" price="0" name="Grafdigger's Cage"/>
-        <card number="1" price="0" name="Mogg Fanatic"/>
         <card number="1" price="0" name="Mad Auntie"/>
-        <card number="1" price="0" name="Goblin Chieftain"/>
     </zone>
     <zone name="side">
         <card number="4" price="0" name="Mental Misstep"/>
-        <card number="1" price="0" name="Leyline of the Void"/>
         <card number="1" price="0" name="Nihil Spellbomb"/>
-        <card number="2" price="0" name="Thorn of Amethyst"/>
-        <card number="2" price="0" name="Earwig Squad"/>
-        <card number="1" price="0" name="Pulverize"/>
+        <card number="3" price="0" name="Thorn of Amethyst"/>
+        <card number="2" price="0" name="Pulverize"/>
         <card number="1" price="0" name="Swamp"/>
         <card number="1" price="0" name="Yawgmoth's Will"/>
         <card number="1" price="0" name="Red Elemental Blast"/>
         <card number="1" price="0" name="Pyroblast"/>
+        <card number="1" price="0" name="Grafdigger's Cage"/>
     </zone>
 </cockatrice_deck>

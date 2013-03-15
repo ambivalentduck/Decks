@@ -30,7 +30,6 @@
         <card number="1" price="0" name="Serra Ascendant"/>
         <card number="1" price="0" name="Sun Titan"/>
         <card number="1" price="0" name="Survival of the Fittest"/>
-        <card number="1" price="0" name="Garruk Wildspeaker"/>
         <card number="1" price="0" name="Mana Crypt"/>
         <card number="1" price="0" name="Aura Shards"/>
         <card number="1" price="0" name="Phyrexian Arena"/>
@@ -45,7 +44,6 @@
         <card number="1" price="0" name="Vampiric Tutor"/>
         <card number="1" price="0" name="Enlightened Tutor"/>
         <card number="1" price="0" name="Demonic Tutor"/>
-        <card number="1" price="0" name="Hibernation's End"/>
         <card number="1" price="0" name="Debtors' Knell"/>
         <card number="1" price="0" name="Oblation"/>
         <card number="1" price="0" name="Helm of Possession"/>
@@ -91,11 +89,9 @@
         <card number="1" price="0" name="Regrowth"/>
         <card number="1" price="0" name="Greater Good"/>
         <card number="1" price="0" name="Pernicious Deed"/>
-        <card number="1" price="0" name="Terastodon"/>
         <card number="1" price="0" name="Avenger of Zendikar"/>
         <card number="1" price="0" name="Kokusho, the Evening Star"/>
         <card number="1" price="0" name="Loyal Retainers"/>
-        <card number="1" price="0" name="Vraska the Unseen"/>
         <card number="1" price="0" name="Duplicant"/>
         <card number="1" price="0" name="Reveillark"/>
         <card number="1" price="0" name="Grave Betrayal"/>
@@ -103,5 +99,9 @@
         <card number="1" price="0" name="Wurmcoil Engine"/>
         <card number="1" price="0" name="Murmuring Bosk"/>
         <card number="1" price="0" name="Mistveil Plains"/>
+        <card number="1" price="0" name="Sylvan Primordial"/>
+        <card number="1" price="0" name="Sepulchral Primordial"/>
+        <card number="1" price="0" name="Artisan of Kozilek"/>
+        <card number="1" price="0" name="Vault of the Archangel"/>
     </zone>
 </cockatrice_deck>

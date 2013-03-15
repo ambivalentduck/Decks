@@ -6,12 +6,10 @@
         <card number="1" price="0" name="Woolly Thoctar"/>
         <card number="1" price="0" name="Spiritmonger"/>
         <card number="1" price="0" name="Bloodbraid Elf"/>
-        <card number="1" price="0" name="Brion Stoutarm"/>
         <card number="1" price="0" name="Kitchen Finks"/>
         <card number="1" price="0" name="Grand Arbiter Augustin IV"/>
         <card number="1" price="0" name="Mystic Snake"/>
         <card number="1" price="0" name="Figure of Destiny"/>
-        <card number="1" price="0" name="Giant Solifuge"/>
         <card number="1" price="0" name="Shadowmage Infiltrator"/>
         <card number="1" price="0" name="Oona, Queen of the Fae"/>
         <card number="1" price="0" name="Spellbound Dragon"/>
@@ -19,19 +17,16 @@
         <card number="1" price="0" name="Trygon Predator"/>
         <card number="1" price="0" name="Doran, the Siege Tower"/>
         <card number="1" price="0" name="Broodmate Dragon"/>
-        <card number="1" price="0" name="Duergar Hedge-Mage"/>
         <card number="1" price="0" name="Qasali Pridemage"/>
         <card number="1" price="0" name="Sarkhan Vol"/>
         <card number="1" price="0" name="Undermine"/>
         <card number="1" price="0" name="Blightning"/>
         <card number="1" price="0" name="Putrefy"/>
-        <card number="1" price="0" name="Debtors' Knell"/>
         <card number="1" price="0" name="Prophetic Bolt"/>
         <card number="1" price="0" name="Mortify"/>
         <card number="1" price="0" name="Maelstrom Pulse"/>
         <card number="1" price="0" name="Pernicious Deed"/>
         <card number="1" price="0" name="Vindicate"/>
-        <card number="1" price="0" name="Snakeform"/>
         <card number="1" price="0" name="Ajani Vengeant"/>
         <card number="1" price="0" name="Lightning Helix"/>
         <card number="1" price="0" name="Terminate"/>
@@ -63,5 +58,10 @@
         <card number="1" price="0" name="Electrolyze"/>
         <card number="1" price="0" name="Tidehollow Sculler"/>
         <card number="1" price="0" name="Vraska the Unseen"/>
+        <card number="1" price="0" name="Obzedat, Ghost Council"/>
+        <card number="1" price="0" name="Aurelia's Fury"/>
+        <card number="1" price="0" name="Boros Charm"/>
+        <card number="1" price="0" name="Domri Rade"/>
+        <card number="1" price="0" name="Cold-Eyed Selkie"/>
     </zone>
 </cockatrice_deck>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Mox Emerald"/>
+        <card number="1" price="0" name="Mox Jet"/>
+        <card number="1" price="0" name="Mox Pearl"/>
+        <card number="1" price="0" name="Mox Ruby"/>
+        <card number="1" price="0" name="Mox Sapphire"/>
+        <card number="1" price="0" name="Mana Crypt"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Yawgmoth's Will"/>
+        <card number="1" price="0" name="Vampiric Tutor"/>
+        <card number="1" price="0" name="Demonic Tutor"/>
+        <card number="4" price="0" name="Gush"/>
+        <card number="4" price="0" name="Merchant Scroll"/>
+        <card number="4" price="0" name="Brainstorm"/>
+        <card number="1" price="0" name="Ancestral Recall"/>
+        <card number="1" price="0" name="Time Walk"/>
+        <card number="1" price="0" name="Regrowth"/>
+        <card number="1" price="0" name="Fastbond"/>
+        <card number="4" price="0" name="Tropical Island"/>
+        <card number="4" price="0" name="Underground Sea"/>
+        <card number="6" price="0" name="Island"/>
+        <card number="4" price="0" name="Force of Will"/>
+        <card number="1" price="0" name="Hurkyl's Recall"/>
+        <card number="1" price="0" name="Timetwister"/>
+        <card number="1" price="0" name="Tinker"/>
+        <card number="1" price="0" name="Memory Jar"/>
+        <card number="1" price="0" name="Black Lotus"/>
+        <card number="1" price="0" name="Tolarian Academy"/>
+        <card number="1" price="0" name="Mystical Tutor"/>
+        <card number="1" price="0" name="Trade Routes"/>
+        <card number="1" price="0" name="Grim Monolith"/>
+        <card number="1" price="0" name="Power Artifact"/>
+        <card number="1" price="0" name="Stroke of Genius"/>
+        <card number="4" price="0" name="Mana Drain"/>
+        <card number="1" price="0" name="Lotus Petal"/>
+    </zone>
+</cockatrice_deck>

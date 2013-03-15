@@ -60,8 +60,8 @@
         <card number="1" price="0" name="Spellskite"/>
         <card number="1" price="0" name="Molten-Tail Masticore"/>
         <card number="1" price="0" name="Smokestack"/>
-        <card number="1" price="0" name="Perilous Myr"/>
         <card number="1" price="0" name="Manriki-Gusari"/>
         <card number="1" price="0" name="Chromatic Lantern"/>
+        <card number="1" price="0" name="Shrine of Burning Rage"/>
     </zone>
 </cockatrice_deck>
