@@ -62,6 +62,6 @@
         <card number="1" price="0" name="Vampire Hexmage"/>
         <card number="1" price="0" name="Pack Rat"/>
         <card number="1" price="0" name="Thrill-Kill Assassin"/>
-        <card number="1" price="0" name="Stupor"/>
+        <card number="1" price="0" name="Despise"/>
     </zone>
 </cockatrice_deck>

@@ -85,12 +85,12 @@
         <card number="1" price="0" name="Nature's Lore"/>
         <card number="1" price="0" name="Avenger of Zendikar"/>
         <card number="1" price="0" name="Insurrection"/>
-        <card number="1" price="0" name="Chancellor of the Spires"/>
-        <card number="1" price="0" name="Acquire"/>
         <card number="1" price="0" name="Blatant Thievery"/>
         <card number="1" price="0" name="Stranglehold"/>
         <card number="1" price="0" name="Homeward Path"/>
         <card number="1" price="0" name="Tezzeret the Seeker"/>
         <card number="1" price="0" name="Basalt Monolith"/>
+        <card number="1" price="0" name="Teferi, Mage of Zhalfir"/>
+        <card number="1" price="0" name="Defense of the Heart"/>
     </zone>
 </cockatrice_deck>

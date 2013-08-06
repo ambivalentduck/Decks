@@ -26,18 +26,14 @@
         <card number="1" price="0" name="Strip Mine"/>
         <card number="1" price="0" name="Stoneforge Mystic"/>
         <card number="1" price="0" name="Eternal Witness"/>
-        <card number="1" price="0" name="Qasali Pridemage"/>
         <card number="1" price="0" name="Serra Ascendant"/>
         <card number="1" price="0" name="Sun Titan"/>
         <card number="1" price="0" name="Survival of the Fittest"/>
         <card number="1" price="0" name="Mana Crypt"/>
         <card number="1" price="0" name="Aura Shards"/>
         <card number="1" price="0" name="Phyrexian Arena"/>
-        <card number="1" price="0" name="Vindicate"/>
-        <card number="1" price="0" name="Maelstrom Pulse"/>
         <card number="1" price="0" name="Lightning Greaves"/>
         <card number="1" price="0" name="Sylvan Library"/>
-        <card number="1" price="0" name="Tainted Pact"/>
         <card number="1" price="0" name="Sol Ring"/>
         <card number="1" price="0" name="Sword of Feast and Famine"/>
         <card number="1" price="0" name="Crucible of Worlds"/>
@@ -47,29 +43,24 @@
         <card number="1" price="0" name="Debtors' Knell"/>
         <card number="1" price="0" name="Oblation"/>
         <card number="1" price="0" name="Helm of Possession"/>
-        <card number="1" price="0" name="Krosan Grip"/>
         <card number="1" price="0" name="Sheoldred, Whispering One"/>
         <card number="1" price="0" name="Command Tower"/>
         <card number="1" price="0" name="Homeward Path"/>
         <card number="1" price="0" name="Return to Dust"/>
         <card number="1" price="0" name="Decree of Pain"/>
         <card number="1" price="0" name="Coalition Relic"/>
-        <card number="1" price="0" name="Skyshroud Claim"/>
         <card number="1" price="0" name="Privileged Position"/>
         <card number="1" price="0" name="Ghostly Prison"/>
         <card number="1" price="0" name="No Mercy"/>
         <card number="1" price="0" name="Sensei's Divining Top"/>
         <card number="1" price="0" name="Bojuka Bog"/>
         <card number="1" price="0" name="Karador, Ghost Chieftain"/>
-        <card number="1" price="0" name="Mind's Eye"/>
         <card number="1" price="0" name="Sakura-Tribe Elder"/>
         <card number="1" price="0" name="Krosan Verge"/>
         <card number="1" price="0" name="Rune-Scarred Demon"/>
         <card number="1" price="0" name="Snow-Covered Forest"/>
         <card number="1" price="0" name="Snow-Covered Plains"/>
         <card number="1" price="0" name="Snow-Covered Swamp"/>
-        <card number="1" price="0" name="Shriekmaw"/>
-        <card number="1" price="0" name="Oblivion Stone"/>
         <card number="1" price="0" name="Cabal Coffers"/>
         <card number="1" price="0" name="Leyline of Sanctity"/>
         <card number="1" price="0" name="Rout"/>
@@ -89,7 +80,6 @@
         <card number="1" price="0" name="Regrowth"/>
         <card number="1" price="0" name="Greater Good"/>
         <card number="1" price="0" name="Pernicious Deed"/>
-        <card number="1" price="0" name="Avenger of Zendikar"/>
         <card number="1" price="0" name="Kokusho, the Evening Star"/>
         <card number="1" price="0" name="Loyal Retainers"/>
         <card number="1" price="0" name="Duplicant"/>
@@ -98,10 +88,20 @@
         <card number="1" price="0" name="Sword of Light and Shadow"/>
         <card number="1" price="0" name="Wurmcoil Engine"/>
         <card number="1" price="0" name="Murmuring Bosk"/>
-        <card number="1" price="0" name="Mistveil Plains"/>
         <card number="1" price="0" name="Sylvan Primordial"/>
         <card number="1" price="0" name="Sepulchral Primordial"/>
-        <card number="1" price="0" name="Artisan of Kozilek"/>
         <card number="1" price="0" name="Vault of the Archangel"/>
+        <card number="1" price="0" name="Iona, Shield of Emeria"/>
+        <card number="1" price="0" name="Beast Within"/>
+        <card number="1" price="0" name="Austere Command"/>
+        <card number="1" price="0" name="Wrath of God"/>
+        <card number="1" price="0" name="Damnation"/>
+        <card number="1" price="0" name="Elesh Norn, Grand Cenobite"/>
+        <card number="1" price="0" name="Natural Order"/>
+        <card number="1" price="0" name="Dawntreader Elk"/>
+        <card number="1" price="0" name="Mikaeus, the Unhallowed"/>
+        <card number="1" price="0" name="Triskelion"/>
+        <card number="1" price="0" name="Avenger of Zendikar"/>
+        <card number="1" price="0" name="Land Tax"/>
     </zone>
 </cockatrice_deck>
