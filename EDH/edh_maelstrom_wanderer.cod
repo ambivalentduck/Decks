@@ -47,7 +47,6 @@
         <card number="1" price="0" name="Rite of Replication"/>
         <card number="1" price="0" name="Beast Within"/>
         <card number="1" price="0" name="Sensei's Divining Top"/>
-        <card number="1" price="0" name="Sneak Attack"/>
         <card number="1" price="0" name="Trinket Mage"/>
         <card number="1" price="0" name="Hinterland Harbor"/>
         <card number="1" price="0" name="Kiki-Jiki, Mirror Breaker"/>
@@ -68,7 +67,6 @@
         <card number="1" price="0" name="Tolaria West"/>
         <card number="1" price="0" name="Food Chain"/>
         <card number="1" price="0" name="Mystical Tutor"/>
-        <card number="1" price="0" name="Balefire Dragon"/>
         <card number="1" price="0" name="Spelljack"/>
         <card number="1" price="0" name="Scroll Rack"/>
         <card number="1" price="0" name="Temporal Mastery"/>
@@ -87,10 +85,12 @@
         <card number="1" price="0" name="Insurrection"/>
         <card number="1" price="0" name="Blatant Thievery"/>
         <card number="1" price="0" name="Stranglehold"/>
-        <card number="1" price="0" name="Homeward Path"/>
         <card number="1" price="0" name="Tezzeret the Seeker"/>
         <card number="1" price="0" name="Basalt Monolith"/>
         <card number="1" price="0" name="Teferi, Mage of Zhalfir"/>
         <card number="1" price="0" name="Defense of the Heart"/>
+        <card number="1" price="0" name="Blood Moon"/>
+        <card number="1" price="0" name="Tower of the Magistrate"/>
+        <card number="1" price="0" name="Knowledge Exploitation"/>
     </zone>
 </cockatrice_deck>
