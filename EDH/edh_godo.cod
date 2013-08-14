@@ -9,8 +9,6 @@
         <card number="1" price="0" name="Gauntlet of Power"/>
         <card number="1" price="0" name="Gauntlet of Might"/>
         <card number="1" price="0" name="Lightning Greaves"/>
-        <card number="1" price="0" name="Shinka, the Bloodsoaked Keep"/>
-        <card number="1" price="0" name="Hellkite Charger"/>
         <card number="1" price="0" name="Aggravated Assault"/>
         <card number="1" price="0" name="Gratuitous Violence"/>
         <card number="1" price="0" name="Kozilek, Butcher of Truth"/>
@@ -32,7 +30,6 @@
         <card number="1" price="0" name="Duplicant"/>
         <card number="1" price="0" name="Solemn Simulacrum"/>
         <card number="1" price="0" name="Word of Seizing"/>
-        <card number="1" price="0" name="Goblin Bombardment"/>
         <card number="1" price="0" name="Sol Ring"/>
         <card number="1" price="0" name="Mana Crypt"/>
         <card number="1" price="0" name="Sword of Feast and Famine"/>
@@ -80,6 +77,9 @@
         <card number="1" price="0" name="Memory Jar"/>
         <card number="1" price="0" name="Cavern of Souls"/>
         <card number="1" price="0" name="Staff of Nin"/>
-        <card number="1" price="0" name="Diaochan, Artful Beauty"/>
+        <card number="1" price="0" name="Glacial Crevasses"/>
+        <card number="1" price="0" name="Chandra, Pyromaster"/>
+        <card number="1" price="0" name="Thespian's Stage"/>
+        <card number="1" price="0" name="Vandalblast"/>
     </zone>
 </cockatrice_deck>

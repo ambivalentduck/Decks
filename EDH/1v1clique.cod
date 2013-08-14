@@ -8,8 +8,6 @@
         <card number="1" price="0" name="Phyrexian Metamorph"/>
         <card number="1" price="0" name="Snapcaster Mage"/>
         <card number="1" price="0" name="Venser, Shaper Savant"/>
-        <card number="1" price="0" name="Boomerang"/>
-        <card number="1" price="0" name="Brainstorm"/>
         <card number="1" price="0" name="Capsize"/>
         <card number="1" price="0" name="Circular Logic"/>
         <card number="1" price="0" name="Commandeer"/>
@@ -64,7 +62,6 @@
         <card number="1" price="0" name="Jace, the Mind Sculptor"/>
         <card number="1" price="0" name="Isochron Scepter"/>
         <card number="1" price="0" name="Vedalken Shackles"/>
-        <card number="1" price="0" name="Standstill"/>
         <card number="1" price="0" name="Treachery"/>
         <card number="24" price="0" name="Snow-Covered Island"/>
         <card number="1" price="0" name="Blasted Landscape"/>
@@ -80,5 +77,7 @@
         <card number="1" price="0" name="Wasteland"/>
         <card number="1" price="0" name="Riptide Laboratory"/>
         <card number="1" price="0" name="Cyclonic Rift"/>
+        <card number="1" price="0" name="Jace, Architect of Thought"/>
+        <card number="1" price="0" name="Tamiyo, the Moon Sage"/>
     </zone>
 </cockatrice_deck>
