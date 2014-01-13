@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" price="0" name="Deathrite Shaman"/>
+        <card number="2" price="0" name="Scavenging Ooze"/>
+        <card number="1" price="0" name="Batterskull"/>
+        <card number="4" price="0" name="Green Sun's Zenith"/>
+        <card number="2" price="0" name="Stoneforge Mystic"/>
+        <card number="4" price="0" name="Verdant Catacombs"/>
+        <card number="2" price="0" name="Qasali Pridemage"/>
+        <card number="4" price="0" name="Knight of the Reliquary"/>
+        <card number="4" price="0" name="Thoughtseize"/>
+        <card number="1" price="0" name="Gaddock Teeg"/>
+        <card number="1" price="0" name="Dryad Arbor"/>
+        <card number="2" price="0" name="Horizon Canopy"/>
+        <card number="1" price="0" name="Scryb Ranger"/>
+        <card number="1" price="0" name="Umezawa's Jitte"/>
+        <card number="4" price="0" name="Windswept Heath"/>
+        <card number="1" price="0" name="Plains"/>
+        <card number="1" price="0" name="Forest"/>
+        <card number="2" price="0" name="Birds of Paradise"/>
+        <card number="4" price="0" name="Mother of Runes"/>
+        <card number="3" price="0" name="Wasteland"/>
+        <card number="1" price="0" name="Maze of Ith"/>
+        <card number="1" price="0" name="Karakas"/>
+        <card number="1" price="0" name="Sylvan Library"/>
+        <card number="3" price="0" name="Savannah"/>
+        <card number="2" price="0" name="Bayou"/>
+        <card number="4" price="0" name="Swords to Plowshares"/>
+        <card number="1" price="0" name="Scrubland"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Phyrexian Revoker"/>
+        <card number="1" price="0" name="Sword of Feast and Famine"/>
+        <card number="1" price="0" name="Ethersworn Canonist"/>
+        <card number="2" price="0" name="Elspeth, Knight-Errant"/>
+        <card number="1" price="0" name="Oblivion Ring"/>
+        <card number="1" price="0" name="Cabal Therapy"/>
+        <card number="1" price="0" name="Engineered Plague"/>
+        <card number="3" price="0" name="Enlightened Tutor"/>
+        <card number="1" price="0" name="Tormod's Crypt"/>
+        <card number="1" price="0" name="Zuran Orb"/>
+        <card number="2" price="0" name="Abrupt Decay"/>
+    </zone>
+</cockatrice_deck>

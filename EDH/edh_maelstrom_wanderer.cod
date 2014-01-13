@@ -3,94 +3,94 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" price="6.18" name="Time Warp"/>
-        <card number="1" price="40" name="Temporal Manipulation"/>
-        <card number="1" price="121.01" name="Mana Drain"/>
+        <card number="1" price="5.59" name="Time Warp"/>
+        <card number="1" price="44.98" name="Temporal Manipulation"/>
+        <card number="1" price="143.99" name="Mana Drain"/>
         <card number="1" price="0" name="Chaos Warp"/>
-        <card number="1" price="0.76" name="Cultivate"/>
-        <card number="1" price="0.47" name="Kodama's Reach"/>
-        <card number="1" price="1.47" name="Skyshroud Claim"/>
-        <card number="1" price="124.65" name="Jace, the Mind Sculptor"/>
-        <card number="1" price="3" name="Phyrexian Metamorph"/>
-        <card number="1" price="1.89" name="Eternal Witness"/>
-        <card number="1" price="5.07" name="Regrowth"/>
-        <card number="1" price="4.9" name="Tooth and Nail"/>
-        <card number="1" price="12.97" name="Bribery"/>
-        <card number="1" price="3.93" name="Palinchron"/>
-        <card number="1" price="0.57" name="Mulldrifter"/>
+        <card number="1" price="0.82" name="Skyshroud Claim"/>
+        <card number="1" price="95.06" name="Jace, the Mind Sculptor"/>
+        <card number="1" price="3.06" name="Phyrexian Metamorph"/>
+        <card number="1" price="2.42" name="Eternal Witness"/>
+        <card number="1" price="1.5" name="Regrowth"/>
+        <card number="1" price="5.67" name="Tooth and Nail"/>
+        <card number="1" price="11.88" name="Bribery"/>
+        <card number="1" price="3.64" name="Palinchron"/>
         <card number="1" price="8.75" name="Sylvan Library"/>
-        <card number="1" price="11.5" name="Sol Ring"/>
-        <card number="1" price="73.01" name="Mana Crypt"/>
-        <card number="1" price="92.01" name="Tropical Island"/>
-        <card number="1" price="9.35" name="Breeding Pool"/>
-        <card number="1" price="9.75" name="Stomping Ground"/>
-        <card number="1" price="106.24" name="Taiga"/>
-        <card number="1" price="132.5" name="Volcanic Island"/>
-        <card number="1" price="7.87" name="Steam Vents"/>
-        <card number="1" price="67.46" name="Polluted Delta"/>
-        <card number="1" price="31.47" name="Bloodstained Mire"/>
-        <card number="1" price="41.81" name="Misty Rainforest"/>
-        <card number="1" price="31.62" name="Wooded Foothills"/>
-        <card number="5" price="19.99" name="Island"/>
-        <card number="7" price="21.99" name="Forest"/>
-        <card number="2" price="1.06" name="Mountain"/>
-        <card number="1" price="29.5" name="Windswept Heath"/>
-        <card number="1" price="50.68" name="Flooded Strand"/>
-        <card number="1" price="34.11" name="Arid Mesa"/>
-        <card number="1" price="38.18" name="Scalding Tarn"/>
-        <card number="1" price="42.81" name="Verdant Catacombs"/>
+        <card number="1" price="13.99" name="Sol Ring"/>
+        <card number="1" price="59.9" name="Mana Crypt"/>
+        <card number="1" price="62.87" name="Tropical Island"/>
+        <card number="1" price="9.2" name="Breeding Pool"/>
+        <card number="1" price="9.61" name="Stomping Ground"/>
+        <card number="1" price="55.03" name="Taiga"/>
+        <card number="1" price="107.99" name="Volcanic Island"/>
+        <card number="1" price="7.54" name="Steam Vents"/>
+        <card number="1" price="73.62" name="Polluted Delta"/>
+        <card number="1" price="29.72" name="Bloodstained Mire"/>
+        <card number="1" price="47.86" name="Misty Rainforest"/>
+        <card number="1" price="32.55" name="Wooded Foothills"/>
+        <card number="5" price="20.01" name="Island"/>
+        <card number="7" price="70" name="Forest"/>
+        <card number="2" price="31.38" name="Mountain"/>
+        <card number="1" price="38.49" name="Windswept Heath"/>
+        <card number="1" price="57" name="Flooded Strand"/>
+        <card number="1" price="27.75" name="Arid Mesa"/>
+        <card number="1" price="45.27" name="Scalding Tarn"/>
+        <card number="1" price="28.73" name="Verdant Catacombs"/>
         <card number="1" price="0" name="Command Tower"/>
-        <card number="1" price="7.47" name="Strip Mine"/>
-        <card number="1" price="2.72" name="Rhystic Study"/>
-        <card number="1" price="5.82" name="Glen Elendra Archmage"/>
-        <card number="1" price="0.5" name="Sakura-Tribe Elder"/>
-        <card number="1" price="2.47" name="Rite of Replication"/>
-        <card number="1" price="1.25" name="Beast Within"/>
-        <card number="1" price="14" name="Sensei's Divining Top"/>
-        <card number="1" price="0.34" name="Trinket Mage"/>
-        <card number="1" price="4.04" name="Hinterland Harbor"/>
-        <card number="1" price="17.5" name="Kiki-Jiki, Mirror Breaker"/>
-        <card number="1" price="1" name="Zealous Conscripts"/>
-        <card number="1" price="0.91" name="Walk the Aeons"/>
-        <card number="1" price="1.18" name="Fabricate"/>
+        <card number="1" price="5.88" name="Strip Mine"/>
+        <card number="1" price="3.07" name="Rhystic Study"/>
+        <card number="1" price="5.15" name="Glen Elendra Archmage"/>
+        <card number="1" price="0.69" name="Sakura-Tribe Elder"/>
+        <card number="1" price="2.99" name="Rite of Replication"/>
+        <card number="1" price="1.14" name="Beast Within"/>
+        <card number="1" price="16.63" name="Sensei's Divining Top"/>
+        <card number="1" price="0.33" name="Trinket Mage"/>
+        <card number="1" price="3.67" name="Hinterland Harbor"/>
+        <card number="1" price="0.75" name="Zealous Conscripts"/>
+        <card number="1" price="0.79" name="Walk the Aeons"/>
+        <card number="1" price="1.31" name="Fabricate"/>
         <card number="1" price="0" name="Maelstrom Wanderer"/>
-        <card number="1" price="17.37" name="Intuition"/>
-        <card number="1" price="5.31" name="Thran Dynamo"/>
-        <card number="1" price="0.75" name="Worn Powerstone"/>
-        <card number="1" price="6.74" name="Ancient Tomb"/>
-        <card number="1" price="1" name="Explosive Vegetation"/>
-        <card number="1" price="42.78" name="Wasteland"/>
-        <card number="1" price="19.6" name="Cryptic Command"/>
-        <card number="1" price="0.96" name="Brainstorm"/>
-        <card number="1" price="0.41" name="Brutalizer Exarch"/>
-        <card number="1" price="0.37" name="Hunting Wilds"/>
-        <card number="1" price="2.02" name="Tolaria West"/>
-        <card number="1" price="4.25" name="Food Chain"/>
-        <card number="1" price="5.24" name="Mystical Tutor"/>
-        <card number="1" price="0.99" name="Spelljack"/>
-        <card number="1" price="14.23" name="Scroll Rack"/>
-        <card number="1" price="4.48" name="Temporal Mastery"/>
-        <card number="1" price="0.57" name="Mind's Desire"/>
-        <card number="1" price="3.3" name="Gilded Lotus"/>
-        <card number="1" price="21.8" name="Ulamog, the Infinite Gyre"/>
-        <card number="1" price="1.25" name="Deadeye Navigator"/>
-        <card number="1" price="11.49" name="Mana Vault"/>
-        <card number="1" price="12.57" name="Grim Monolith"/>
-        <card number="1" price="0.57" name="Sylvan Primordial"/>
-        <card number="1" price="0.23" name="Diluvian Primordial"/>
-        <card number="1" price="0.25" name="Ranger's Path"/>
-        <card number="1" price="1" name="Nature's Lore"/>
-        <card number="1" price="5.32" name="Avenger of Zendikar"/>
-        <card number="1" price="2.24" name="Insurrection"/>
-        <card number="1" price="2.4" name="Blatant Thievery"/>
-        <card number="1" price="12.06" name="Tezzeret the Seeker"/>
-        <card number="1" price="3.87" name="Basalt Monolith"/>
-        <card number="1" price="13" name="Defense of the Heart"/>
-        <card number="1" price="1.04" name="Tower of the Magistrate"/>
-        <card number="1" price="1.27" name="Knowledge Exploitation"/>
-        <card number="1" price="0.42" name="Stolen Identity"/>
-        <card number="1" price="2.9" name="Garruk Wildspeaker"/>
-        <card number="1" price="0.86" name="Hellkite Tyrant"/>
-        <card number="1" price="0" name="Cyclonic Rift"/>
+        <card number="1" price="22.17" name="Intuition"/>
+        <card number="1" price="0.2" name="Thran Dynamo"/>
+        <card number="1" price="1.69" name="Worn Powerstone"/>
+        <card number="1" price="9.15" name="Ancient Tomb"/>
+        <card number="1" price="1.02" name="Explosive Vegetation"/>
+        <card number="1" price="20.55" name="Cryptic Command"/>
+        <card number="1" price="1.58" name="Brainstorm"/>
+        <card number="1" price="0.25" name="Brutalizer Exarch"/>
+        <card number="1" price="0.25" name="Hunting Wilds"/>
+        <card number="1" price="2.2" name="Tolaria West"/>
+        <card number="1" price="3.5" name="Food Chain"/>
+        <card number="1" price="5" name="Mystical Tutor"/>
+        <card number="1" price="1.99" name="Spelljack"/>
+        <card number="1" price="12.25" name="Scroll Rack"/>
+        <card number="1" price="3.35" name="Temporal Mastery"/>
+        <card number="1" price="1.4" name="Mind's Desire"/>
+        <card number="1" price="2.98" name="Gilded Lotus"/>
+        <card number="1" price="0.56" name="Deadeye Navigator"/>
+        <card number="1" price="9.99" name="Mana Vault"/>
+        <card number="1" price="19.27" name="Grim Monolith"/>
+        <card number="1" price="0.75" name="Sylvan Primordial"/>
+        <card number="1" price="1.51" name="Nature's Lore"/>
+        <card number="1" price="8.27" name="Avenger of Zendikar"/>
+        <card number="1" price="1.01" name="Insurrection"/>
+        <card number="1" price="2.54" name="Blatant Thievery"/>
+        <card number="1" price="6.25" name="Tezzeret the Seeker"/>
+        <card number="1" price="6.99" name="Basalt Monolith"/>
+        <card number="1" price="0.25" name="Knowledge Exploitation"/>
+        <card number="1" price="0.35" name="Stolen Identity"/>
+        <card number="1" price="4.14" name="Garruk Wildspeaker"/>
+        <card number="1" price="1.53" name="Cyclonic Rift"/>
+        <card number="1" price="0.98" name="Kessig Wolf Run"/>
+        <card number="1" price="0.5" name="Recurring Insight"/>
+        <card number="1" price="0" name="Carpet of Flowers"/>
+        <card number="1" price="0" name="Restore"/>
+        <card number="1" price="0" name="Venser, Shaper Savant"/>
+        <card number="1" price="0" name="Cavern of Souls"/>
+        <card number="1" price="0" name="Kozilek, Butcher of Truth"/>
+        <card number="1" price="0" name="Mystic Remora"/>
+        <card number="1" price="0" name="Thada Adel, Acquisitor"/>
+        <card number="1" price="0" name="Devastation Tide"/>
+        <card number="1" price="0" name="Future Sight"/>
     </zone>
 </cockatrice_deck>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="1.01" name="Merieke Ri Berit"/>
+        <card number="1" price="12.23" name="Sol Ring"/>
+        <card number="1" price="74.05" name="Mana Crypt"/>
+        <card number="1" price="4.8" name="Venser, the Sojourner"/>
+        <card number="1" price="11.88" name="Bribery"/>
+        <card number="1" price="1.99" name="Spelljack"/>
+        <card number="1" price="0.3" name="Stolen Identity"/>
+        <card number="1" price="1" name="Aura of Silence"/>
+        <card number="1" price="16.24" name="Demonic Tutor"/>
+        <card number="1" price="10.52" name="Vampiric Tutor"/>
+        <card number="1" price="13.96" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" price="7.13" name="Cabal Coffers"/>
+        <card number="1" price="0.68" name="Thespian's Stage"/>
+        <card number="1" price="7.69" name="Strip Mine"/>
+        <card number="1" price="105.5" name="Tundra"/>
+        <card number="1" price="175" name="Underground Sea"/>
+        <card number="1" price="12.89" name="Watery Grave"/>
+        <card number="1" price="9.87" name="Hallowed Fountain"/>
+        <card number="1" price="9.03" name="Godless Shrine"/>
+        <card number="1" price="56" name="Scrubland"/>
+        <card number="1" price="3.75" name="Thousand-Year Elixir"/>
+        <card number="1" price="1" name="Pemmin's Aura"/>
+        <card number="1" price="1" name="Umbral Mantle"/>
+        <card number="1" price="137.5" name="Mana Drain"/>
+        <card number="1" price="2.24" name="Hinder"/>
+        <card number="1" price="1.52" name="Cyclonic Rift"/>
+        <card number="1" price="0" name="Spell Crumple"/>
+        <card number="1" price="3.63" name="Rite of Replication"/>
+        <card number="1" price="4.47" name="Phyrexian Arena"/>
+        <card number="1" price="1.93" name="Knowledge Exploitation"/>
+        <card number="1" price="3.06" name="Luminarch Ascension"/>
+        <card number="1" price="3.34" name="Rhystic Study"/>
+        <card number="1" price="5.22" name="Glen Elendra Archmage"/>
+        <card number="1" price="0" name="Notion Thief"/>
+        <card number="1" price="2.1" name="Chromatic Lantern"/>
+        <card number="1" price="2.39" name="Leyline of Anticipation"/>
+        <card number="1" price="0.65" name="Merciless Eviction"/>
+        <card number="1" price="0.89" name="Fact or Fiction"/>
+        <card number="1" price="2.62" name="Phyrexian Metamorph"/>
+        <card number="1" price="0.54" name="Bojuka Bog"/>
+        <card number="1" price="97" name="Jace, the Mind Sculptor"/>
+        <card number="1" price="8.27" name="Stoneforge Mystic"/>
+        <card number="1" price="1.92" name="Stonehewer Giant"/>
+        <card number="1" price="11.33" name="Batterskull"/>
+        <card number="1" price="17.86" name="Sword of Feast and Famine"/>
+        <card number="1" price="11.61" name="Misdirection"/>
+        <card number="1" price="1.99" name="Commandeer"/>
+        <card number="1" price="1.31" name="Return to Dust"/>
+        <card number="1" price="2.42" name="Sun Titan"/>
+        <card number="1" price="6.31" name="Kor Haven"/>
+        <card number="1" price="9.73" name="Enlightened Tutor"/>
+        <card number="1" price="12.75" name="Land Tax"/>
+        <card number="4" price="1.18" name="Island"/>
+        <card number="3" price="8.49" name="Plains"/>
+        <card number="2" price="10.73" name="Swamp"/>
+        <card number="1" price="74.83" name="Polluted Delta"/>
+        <card number="1" price="58.13" name="Flooded Strand"/>
+        <card number="1" price="31.06" name="Marsh Flats"/>
+        <card number="1" price="4.49" name="Flagstones of Trokair"/>
+        <card number="1" price="9.62" name="Phyrexian Tower"/>
+        <card number="1" price="0" name="Command Tower"/>
+        <card number="1" price="1.15" name="Vault of the Archangel"/>
+        <card number="1" price="2.42" name="Arcane Sanctum"/>
+        <card number="1" price="12.04" name="Sensei's Divining Top"/>
+        <card number="1" price="1.31" name="Fabricate"/>
+        <card number="1" price="0.35" name="Trinket Mage"/>
+        <card number="1" price="2.28" name="Tolaria West"/>
+        <card number="1" price="20.53" name="Cryptic Command"/>
+        <card number="1" price="6.34" name="Minamo, School at Water's Edge"/>
+        <card number="1" price="8.28" name="Tezzeret the Seeker"/>
+        <card number="1" price="0.36" name="Nezumi Graverobber"/>
+        <card number="1" price="5.82" name="Academy Ruins"/>
+        <card number="1" price="2.25" name="Swiftfoot Boots"/>
+        <card number="1" price="3.16" name="Mystical Tutor"/>
+        <card number="1" price="0.26" name="Praetor's Grasp"/>
+        <card number="1" price="0.93" name="Mimic Vat"/>
+        <card number="1" price="6.91" name="Pact of Negation"/>
+        <card number="1" price="1.48" name="Thran Dynamo"/>
+        <card number="1" price="1.89" name="Worn Powerstone"/>
+        <card number="1" price="3.1" name="Gilded Lotus"/>
+        <card number="1" price="4.69" name="Karmic Justice"/>
+        <card number="1" price="1.08" name="Mindslaver"/>
+        <card number="1" price="0.25" name="Shred Memory"/>
+        <card number="1" price="2.25" name="Skullclamp"/>
+        <card number="1" price="1.44" name="Oblation"/>
+        <card number="1" price="0.25" name="Dismantling Blow"/>
+        <card number="1" price="0.48" name="Magewright's Stone"/>
+        <card number="1" price="51.21" name="Misty Rainforest"/>
+        <card number="1" price="31.21" name="Bloodstained Mire"/>
+        <card number="1" price="42.93" name="Scalding Tarn"/>
+        <card number="1" price="24.75" name="Verdant Catacombs"/>
+        <card number="1" price="21" name="Crucible of Worlds"/>
+        <card number="1" price="0" name="Windswept Heath"/>
+        <card number="1" price="0" name="Snapcaster Mage"/>
+    </zone>
+</cockatrice_deck>

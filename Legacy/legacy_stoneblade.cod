@@ -3,45 +3,45 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" price="0" name="Supreme Verdict"/>
-        <card number="1" price="0" name="Detention Sphere"/>
-        <card number="3" price="0" name="Terminus"/>
-        <card number="1" price="0" name="Entreat the Angels"/>
-        <card number="1" price="0" name="Snapcaster Mage"/>
-        <card number="1" price="0" name="Batterskull"/>
-        <card number="3" price="0" name="Jace, the Mind Sculptor"/>
-        <card number="3" price="0" name="Stoneforge Mystic"/>
-        <card number="2" price="0" name="Arid Mesa"/>
-        <card number="2" price="0" name="Spell Pierce"/>
-        <card number="3" price="0" name="Scalding Tarn"/>
+        <card number="2" price="0" name="Snapcaster Mage"/>
+        <card number="2" price="0" name="Thoughtseize"/>
+        <card number="3" price="0" name="True-Name Nemesis"/>
         <card number="1" price="0" name="Vendilion Clique"/>
-        <card number="1" price="0" name="Academy Ruins"/>
-        <card number="3" price="0" name="Counterbalance"/>
-        <card number="3" price="0" name="Sensei's Divining Top"/>
-        <card number="1" price="0" name="Engineered Explosives"/>
+        <card number="1" price="0" name="Karakas"/>
+        <card number="2" price="0" name="Island"/>
+        <card number="1" price="0" name="Plains"/>
+        <card number="1" price="0" name="Swamp"/>
+        <card number="3" price="0" name="Underground Sea"/>
+        <card number="3" price="0" name="Tundra"/>
+        <card number="4" price="0" name="Polluted Delta"/>
         <card number="4" price="0" name="Flooded Strand"/>
-        <card number="2" price="0" name="Plains"/>
-        <card number="5" price="0" name="Island"/>
-        <card number="2" price="0" name="Counterspell"/>
+        <card number="3" price="0" name="Marsh Flats"/>
+        <card number="2" price="0" name="Supreme Verdict"/>
+        <card number="1" price="0" name="Vindicate"/>
+        <card number="1" price="0" name="Batterskull"/>
+        <card number="1" price="0" name="Engineered Explosives"/>
+        <card number="1" price="0" name="Sword of Fire and Ice"/>
         <card number="4" price="0" name="Brainstorm"/>
         <card number="4" price="0" name="Force of Will"/>
-        <card number="1" price="0" name="Karakas"/>
         <card number="4" price="0" name="Swords to Plowshares"/>
-        <card number="1" price="0" name="Volcanic Island"/>
-        <card number="3" price="0" name="Tundra"/>
+        <card number="1" price="0" name="Inquisition of Kozilek"/>
+        <card number="1" price="0" name="Scrubland"/>
+        <card number="4" price="0" name="Stoneforge Mystic"/>
+        <card number="1" price="0" name="Ponder"/>
+        <card number="2" price="0" name="Counterspell"/>
+        <card number="1" price="0" name="Umezawa's Jitte"/>
+        <card number="2" price="0" name="Jace, the Mind Sculptor"/>
     </zone>
     <zone name="side">
-        <card number="1" price="0" name="Rest in Peace"/>
-        <card number="1" price="0" name="Terminus"/>
-        <card number="1" price="0" name="Grafdigger's Cage"/>
-        <card number="1" price="0" name="Spell Pierce"/>
+        <card number="4" price="0" name="Meddling Mage"/>
+        <card number="1" price="0" name="Thoughtseize"/>
+        <card number="1" price="0" name="Supreme Verdict"/>
+        <card number="1" price="0" name="Manriki-Gusari"/>
+        <card number="2" price="0" name="Zealous Persecution"/>
         <card number="1" price="0" name="Path to Exile"/>
-        <card number="1" price="0" name="Relic of Progenitus"/>
-        <card number="1" price="0" name="Vendilion Clique"/>
-        <card number="2" price="0" name="Oblivion Ring"/>
-        <card number="1" price="0" name="Umezawa's Jitte"/>
-        <card number="1" price="0" name="Mountain"/>
-        <card number="1" price="0" name="Disenchant"/>
-        <card number="3" price="0" name="Red Elemental Blast"/>
+        <card number="1" price="0" name="Grafdigger's Cage"/>
+        <card number="1" price="0" name="Humility"/>
+        <card number="1" price="0" name="Flusterstorm"/>
+        <card number="2" price="0" name="Rest in Peace"/>
     </zone>
 </cockatrice_deck>

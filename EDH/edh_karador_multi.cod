@@ -85,7 +85,6 @@
         <card number="1" price="0" name="Duplicant"/>
         <card number="1" price="0" name="Reveillark"/>
         <card number="1" price="0" name="Grave Betrayal"/>
-        <card number="1" price="0" name="Sword of Light and Shadow"/>
         <card number="1" price="0" name="Wurmcoil Engine"/>
         <card number="1" price="0" name="Murmuring Bosk"/>
         <card number="1" price="0" name="Sylvan Primordial"/>
@@ -95,7 +94,6 @@
         <card number="1" price="0" name="Beast Within"/>
         <card number="1" price="0" name="Austere Command"/>
         <card number="1" price="0" name="Wrath of God"/>
-        <card number="1" price="0" name="Damnation"/>
         <card number="1" price="0" name="Elesh Norn, Grand Cenobite"/>
         <card number="1" price="0" name="Natural Order"/>
         <card number="1" price="0" name="Dawntreader Elk"/>
@@ -103,5 +101,9 @@
         <card number="1" price="0" name="Triskelion"/>
         <card number="1" price="0" name="Avenger of Zendikar"/>
         <card number="1" price="0" name="Land Tax"/>
+        <card number="1" price="0" name="Twilight's Call"/>
+        <card number="1" price="0" name="Life's Finale"/>
+        <card number="1" price="0" name="Jarad's Orders"/>
+        <card number="1" price="0" name="Consecrated Sphinx"/>
     </zone>
 </cockatrice_deck>

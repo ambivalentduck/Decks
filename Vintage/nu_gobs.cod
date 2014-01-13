@@ -3,7 +3,6 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" price="0" name="Army Loyalist"/>
         <card number="4" price="0" name="Goblin Lackey"/>
         <card number="4" price="0" name="Goblin Matron"/>
         <card number="4" price="0" name="Earwig Squad"/>
@@ -32,6 +31,7 @@
         <card number="3" price="0" name="Thoughtseize"/>
         <card number="2" price="0" name="Grafdigger's Cage"/>
         <card number="1" price="0" name="Mad Auntie"/>
+        <card number="1" price="0" name="Legion Loyalist"/>
     </zone>
     <zone name="side">
         <card number="4" price="0" name="Mental Misstep"/>
