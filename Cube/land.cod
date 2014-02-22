@@ -32,7 +32,6 @@
         <card number="1" price="0" name="Arid Mesa"/>
         <card number="1" price="0" name="Windswept Heath"/>
         <card number="1" price="0" name="Wooded Foothills"/>
-        <card number="1" price="0" name="Urborg, Tomb of Yawgmoth"/>
         <card number="1" price="0" name="Taiga"/>
         <card number="1" price="0" name="Godless Shrine"/>
         <card number="1" price="0" name="Steam Vents"/>
@@ -40,7 +39,6 @@
         <card number="1" price="0" name="Scrubland"/>
         <card number="1" price="0" name="Mishra's Factory"/>
         <card number="1" price="0" name="Cascade Bluffs"/>
-        <card number="1" price="0" name="Horizon Canopy"/>
         <card number="1" price="0" name="Plateau"/>
         <card number="1" price="0" name="Savannah"/>
         <card number="1" price="0" name="Hallowed Fountain"/>
@@ -56,12 +54,14 @@
         <card number="1" price="0" name="Llanowar Wastes"/>
         <card number="1" price="0" name="Library of Alexandria"/>
         <card number="1" price="0" name="Slayers' Stronghold"/>
-        <card number="1" price="0" name="Desolate Lighthouse"/>
         <card number="1" price="0" name="Yavimaya Coast"/>
         <card number="1" price="0" name="Kor Haven"/>
         <card number="1" price="0" name="Raging Ravine"/>
         <card number="1" price="0" name="Celestial Colonnade"/>
         <card number="1" price="0" name="Treetop Village"/>
         <card number="1" price="0" name="Ghitu Encampment"/>
+        <card number="1" price="0" name="Volrath's Stronghold"/>
+        <card number="1" price="0" name="Shivan Reef"/>
+        <card number="1" price="0" name="Gavony Township"/>
     </zone>
 </cockatrice_deck>

@@ -15,7 +15,6 @@
         <card number="1" price="0" name="Kird Ape"/>
         <card number="1" price="0" name="Goblin Guide"/>
         <card number="1" price="0" name="Keldon Marauders"/>
-        <card number="1" price="0" name="Banefire"/>
         <card number="1" price="0" name="Molten Rain"/>
         <card number="1" price="0" name="Magma Jet"/>
         <card number="1" price="0" name="Incinerate"/>
@@ -32,17 +31,14 @@
         <card number="1" price="0" name="Viashino Slaughtermaster"/>
         <card number="1" price="0" name="Goblin Ruinblaster"/>
         <card number="1" price="0" name="Plated Geopede"/>
-        <card number="1" price="0" name="Spikeshot Elder"/>
         <card number="1" price="0" name="Arc Trail"/>
         <card number="1" price="0" name="Searing Blaze"/>
         <card number="1" price="0" name="Burst Lightning"/>
-        <card number="1" price="0" name="Chandra Nalaar"/>
         <card number="1" price="0" name="Chandra's Phoenix"/>
         <card number="1" price="0" name="Reckless Waif"/>
         <card number="1" price="0" name="Chaos Warp"/>
         <card number="1" price="0" name="Instigator Gang"/>
         <card number="1" price="0" name="Stromkirk Noble"/>
-        <card number="1" price="0" name="Chandra, the Firebrand"/>
         <card number="1" price="0" name="Hellrider"/>
         <card number="1" price="0" name="Brimstone Volley"/>
         <card number="1" price="0" name="Zealous Conscripts"/>
@@ -50,7 +46,6 @@
         <card number="1" price="0" name="Firebolt"/>
         <card number="1" price="0" name="Stormblood Berserker"/>
         <card number="1" price="0" name="Torch Fiend"/>
-        <card number="1" price="0" name="Squee, Goblin Nabob"/>
         <card number="1" price="0" name="Devil's Play"/>
         <card number="1" price="0" name="Thundermaw Hellkite"/>
         <card number="1" price="0" name="Ash Zealot"/>
@@ -58,10 +53,15 @@
         <card number="1" price="0" name="Vexing Devil"/>
         <card number="1" price="0" name="Mizzium Mortars"/>
         <card number="1" price="0" name="Faithless Looting"/>
-        <card number="1" price="0" name="Keldon Vandals"/>
         <card number="1" price="0" name="Staggershock"/>
         <card number="1" price="0" name="Wildfire"/>
         <card number="1" price="0" name="Kargan Dragonlord"/>
-        <card number="1" price="0" name="Hound of Griselbrand"/>
+        <card number="1" price="0" name="Legion Loyalist"/>
+        <card number="1" price="0" name="Pyrewild Shaman"/>
+        <card number="1" price="0" name="Chandra, Pyromaster"/>
+        <card number="1" price="0" name="Fire Imp"/>
+        <card number="1" price="0" name="Blistering Firecat"/>
+        <card number="1" price="0" name="Reckless Charge"/>
+        <card number="1" price="0" name="Bonfire of the Damned"/>
     </zone>
 </cockatrice_deck>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="True-Name Nemesis"/>
+        <card number="4" price="0" name="Delver of Secrets"/>
+        <card number="1" price="0" name="Batterskull"/>
+        <card number="4" price="0" name="Stoneforge Mystic"/>
+        <card number="4" price="0" name="Misty Rainforest"/>
+        <card number="4" price="0" name="Spell Pierce"/>
+        <card number="2" price="0" name="Scalding Tarn"/>
+        <card number="4" price="0" name="Ponder"/>
+        <card number="1" price="0" name="Sword of Fire and Ice"/>
+        <card number="3" price="0" name="Flooded Strand"/>
+        <card number="4" price="0" name="Daze"/>
+        <card number="4" price="0" name="Brainstorm"/>
+        <card number="4" price="0" name="Wasteland"/>
+        <card number="4" price="0" name="Force of Will"/>
+        <card number="4" price="0" name="Swords to Plowshares"/>
+        <card number="3" price="0" name="Volcanic Island"/>
+        <card number="4" price="0" name="Lightning Bolt"/>
+        <card number="4" price="0" name="Tundra"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Wear"/>
+        <card number="2" price="0" name="Rest in Peace"/>
+        <card number="1" price="0" name="Grafdigger's Cage"/>
+        <card number="1" price="0" name="Flusterstorm"/>
+        <card number="1" price="0" name="Sword of Feast and Famine"/>
+        <card number="3" price="0" name="Grim Lavamancer"/>
+        <card number="4" price="0" name="Meddling Mage"/>
+        <card number="2" price="0" name="Pyroblast"/>
+    </zone>
+</cockatrice_deck>

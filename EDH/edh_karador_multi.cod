@@ -36,7 +36,6 @@
         <card number="1" price="0" name="Sylvan Library"/>
         <card number="1" price="0" name="Sol Ring"/>
         <card number="1" price="0" name="Sword of Feast and Famine"/>
-        <card number="1" price="0" name="Crucible of Worlds"/>
         <card number="1" price="0" name="Vampiric Tutor"/>
         <card number="1" price="0" name="Enlightened Tutor"/>
         <card number="1" price="0" name="Demonic Tutor"/>
@@ -51,7 +50,6 @@
         <card number="1" price="0" name="Coalition Relic"/>
         <card number="1" price="0" name="Privileged Position"/>
         <card number="1" price="0" name="Ghostly Prison"/>
-        <card number="1" price="0" name="No Mercy"/>
         <card number="1" price="0" name="Sensei's Divining Top"/>
         <card number="1" price="0" name="Bojuka Bog"/>
         <card number="1" price="0" name="Karador, Ghost Chieftain"/>
@@ -67,13 +65,11 @@
         <card number="1" price="0" name="Oracle of Mul Daya"/>
         <card number="1" price="0" name="Mirari's Wake"/>
         <card number="1" price="0" name="Academy Rector"/>
-        <card number="1" price="0" name="Fauna Shaman"/>
         <card number="1" price="0" name="Yosei, the Morning Star"/>
         <card number="1" price="0" name="Yavimaya Granger"/>
         <card number="1" price="0" name="Birthing Pod"/>
         <card number="1" price="0" name="Karmic Guide"/>
         <card number="1" price="0" name="Wasteland"/>
-        <card number="1" price="0" name="Yavimaya Elder"/>
         <card number="1" price="0" name="High Market"/>
         <card number="1" price="0" name="Phyrexian Tower"/>
         <card number="1" price="0" name="Tooth and Nail"/>
@@ -82,13 +78,10 @@
         <card number="1" price="0" name="Pernicious Deed"/>
         <card number="1" price="0" name="Kokusho, the Evening Star"/>
         <card number="1" price="0" name="Loyal Retainers"/>
-        <card number="1" price="0" name="Duplicant"/>
         <card number="1" price="0" name="Reveillark"/>
-        <card number="1" price="0" name="Grave Betrayal"/>
         <card number="1" price="0" name="Wurmcoil Engine"/>
         <card number="1" price="0" name="Murmuring Bosk"/>
         <card number="1" price="0" name="Sylvan Primordial"/>
-        <card number="1" price="0" name="Sepulchral Primordial"/>
         <card number="1" price="0" name="Vault of the Archangel"/>
         <card number="1" price="0" name="Iona, Shield of Emeria"/>
         <card number="1" price="0" name="Beast Within"/>
@@ -104,6 +97,23 @@
         <card number="1" price="0" name="Twilight's Call"/>
         <card number="1" price="0" name="Life's Finale"/>
         <card number="1" price="0" name="Jarad's Orders"/>
-        <card number="1" price="0" name="Consecrated Sphinx"/>
+        <card number="1" price="0" name="Skullclamp"/>
+        <card number="1" price="0" name="Qasali Pridemage"/>
+        <card number="1" price="0" name="Shriekmaw"/>
+        <card number="1" price="0" name="Bone Shredder"/>
+        <card number="1" price="0" name="Vindicate"/>
+        <card number="1" price="0" name="Maelstrom Pulse"/>
+        <card number="1" price="0" name="Gift of Immortality"/>
+        <card number="1" price="0" name="Nim Deathmantle"/>
+        <card number="1" price="0" name="Buried Alive"/>
+        <card number="1" price="0" name="Ashen Rider"/>
+        <card number="1" price="0" name="Fleshbag Marauder"/>
+        <card number="1" price="0" name="Viridian Emissary"/>
+        <card number="1" price="0" name="Mindslicer"/>
+        <card number="1" price="0" name="Sylvok Replica"/>
+        <card number="1" price="0" name="Necromancy"/>
+        <card number="1" price="0" name="Martyr's Bond"/>
+        <card number="1" price="0" name="Spore Frog"/>
+        <card number="1" price="0" name="Saffi Eriksdotter"/>
     </zone>
 </cockatrice_deck>

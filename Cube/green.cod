@@ -4,9 +4,7 @@
     <comments></comments>
     <zone name="main">
         <card number="1" price="0" name="Yavimaya Elder"/>
-        <card number="1" price="0" name="Imperious Perfect"/>
         <card number="1" price="0" name="Lotus Cobra"/>
-        <card number="1" price="0" name="Thornling"/>
         <card number="1" price="0" name="Great Sable Stag"/>
         <card number="1" price="0" name="Troll Ascetic"/>
         <card number="1" price="0" name="River Boa"/>
@@ -19,7 +17,6 @@
         <card number="1" price="0" name="Master of the Wild Hunt"/>
         <card number="1" price="0" name="Noble Hierarch"/>
         <card number="1" price="0" name="Indrik Stomphowler"/>
-        <card number="1" price="0" name="Krosan Tusker"/>
         <card number="1" price="0" name="Obstinate Baloth"/>
         <card number="1" price="0" name="Eternal Witness"/>
         <card number="1" price="0" name="Deranged Hermit"/>
@@ -32,7 +29,6 @@
         <card number="1" price="0" name="Rancor"/>
         <card number="1" price="0" name="Berserk"/>
         <card number="1" price="0" name="Garruk Wildspeaker"/>
-        <card number="1" price="0" name="Vines of Vastwood"/>
         <card number="1" price="0" name="Plow Under"/>
         <card number="1" price="0" name="Ice Storm"/>
         <card number="1" price="0" name="Survival of the Fittest"/>
@@ -45,7 +41,6 @@
         <card number="1" price="0" name="Acidic Slime"/>
         <card number="1" price="0" name="Cultivate"/>
         <card number="1" price="0" name="Saproling Burst"/>
-        <card number="1" price="0" name="Beast Within"/>
         <card number="1" price="0" name="Kodama's Reach"/>
         <card number="1" price="0" name="Vengevine"/>
         <card number="1" price="0" name="Phantom Centaur"/>
@@ -55,13 +50,18 @@
         <card number="1" price="0" name="Garruk Relentless"/>
         <card number="1" price="0" name="Strangleroot Geist"/>
         <card number="1" price="0" name="Vorapede"/>
-        <card number="1" price="0" name="Llanowar Elves"/>
         <card number="1" price="0" name="Wolfir Silverheart"/>
         <card number="1" price="0" name="Ulvenwald Tracker"/>
         <card number="1" price="0" name="Bramblecrush"/>
         <card number="1" price="0" name="Mayor of Avabruck"/>
         <card number="1" price="0" name="Thragtusk"/>
         <card number="1" price="0" name="Deadbridge Goliath"/>
-        <card number="1" price="0" name="Gyre Sage"/>
+        <card number="1" price="0" name="Kalonian Hydra"/>
+        <card number="1" price="0" name="Fyndhorn Elves"/>
+        <card number="1" price="0" name="Wolfir Avenger"/>
+        <card number="1" price="0" name="Utopia Sprawl"/>
+        <card number="1" price="0" name="Oracle of Mul Daya"/>
+        <card number="1" price="0" name="Nantuko Vigilante"/>
+        <card number="1" price="0" name="Polukranos, World Eater"/>
     </zone>
 </cockatrice_deck>

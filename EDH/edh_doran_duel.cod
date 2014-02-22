@@ -33,9 +33,7 @@
         <card number="1" price="0" name="Strip Mine"/>
         <card number="1" price="0" name="Birds of Paradise"/>
         <card number="1" price="0" name="Stoneforge Mystic"/>
-        <card number="1" price="0" name="Joraga Treespeaker"/>
         <card number="1" price="0" name="Eternal Witness"/>
-        <card number="1" price="0" name="Wall of Roots"/>
         <card number="1" price="0" name="Mother of Runes"/>
         <card number="1" price="0" name="Qasali Pridemage"/>
         <card number="1" price="0" name="Serra Ascendant"/>
@@ -43,15 +41,11 @@
         <card number="1" price="0" name="Bloom Tender"/>
         <card number="1" price="0" name="Knight of the Reliquary"/>
         <card number="1" price="0" name="Doran, the Siege Tower"/>
-        <card number="1" price="0" name="Garruk Wildspeaker"/>
         <card number="1" price="0" name="Elspeth, Knight-Errant"/>
         <card number="1" price="0" name="Umezawa's Jitte"/>
         <card number="1" price="0" name="Sword of Fire and Ice"/>
         <card number="1" price="0" name="Mana Crypt"/>
-        <card number="1" price="0" name="Golgari Signet"/>
-        <card number="1" price="0" name="Orzhov Signet"/>
         <card number="1" price="0" name="Aura Shards"/>
-        <card number="1" price="0" name="Condemn"/>
         <card number="1" price="0" name="Phyrexian Arena"/>
         <card number="1" price="0" name="Putrefy"/>
         <card number="1" price="0" name="Vindicate"/>
@@ -59,10 +53,8 @@
         <card number="1" price="0" name="Lightning Greaves"/>
         <card number="1" price="0" name="Sylvan Library"/>
         <card number="1" price="0" name="Tainted Pact"/>
-        <card number="1" price="0" name="Selesnya Signet"/>
         <card number="1" price="0" name="Sol Ring"/>
         <card number="1" price="0" name="Swords to Plowshares"/>
-        <card number="1" price="0" name="Mirri's Guile"/>
         <card number="1" price="0" name="Oblivion Ring"/>
         <card number="1" price="0" name="Bitterblossom"/>
         <card number="1" price="0" name="Phyrexian Reclamation"/>
@@ -76,32 +68,40 @@
         <card number="1" price="0" name="Enlightened Tutor"/>
         <card number="1" price="0" name="Demonic Tutor"/>
         <card number="1" price="0" name="Caustic Wasps"/>
-        <card number="1" price="0" name="Beast Within"/>
-        <card number="1" price="0" name="Oblation"/>
         <card number="1" price="0" name="Mind Twist"/>
         <card number="1" price="0" name="Winter Orb"/>
         <card number="1" price="0" name="Dark Confidant"/>
         <card number="1" price="0" name="Aven Mindcensor"/>
         <card number="1" price="0" name="Command Tower"/>
-        <card number="1" price="0" name="Homeward Path"/>
         <card number="1" price="0" name="Thoughtseize"/>
         <card number="1" price="0" name="Duress"/>
         <card number="1" price="0" name="Hymn to Tourach"/>
         <card number="1" price="0" name="Tidehollow Sculler"/>
-        <card number="1" price="0" name="Mesmeric Fiend"/>
-        <card number="1" price="0" name="Batterskull"/>
         <card number="1" price="0" name="Wasteland"/>
         <card number="1" price="0" name="Isolated Chapel"/>
         <card number="1" price="0" name="Woodland Cemetery"/>
         <card number="1" price="0" name="Grand Abolisher"/>
         <card number="1" price="0" name="Abrupt Decay"/>
         <card number="1" price="0" name="Cavern of Souls"/>
-        <card number="1" price="0" name="Ajani, Caller of the Pride"/>
         <card number="1" price="0" name="Inquisition of Kozilek"/>
-        <card number="1" price="0" name="Gerrard's Verdict"/>
         <card number="1" price="0" name="Liliana of the Veil"/>
         <card number="1" price="0" name="Eladamri's Call"/>
-        <card number="1" price="0" name="Choke"/>
         <card number="1" price="0" name="Xantid Swarm"/>
+        <card number="1" price="0" name="Unexpectedly Absent"/>
+        <card number="1" price="0" name="Oblation"/>
+        <card number="1" price="0" name="Deathrite Shaman"/>
+        <card number="1" price="0" name="Silverblade Paladin"/>
+        <card number="1" price="0" name="Green Sun's Zenith"/>
+        <card number="1" price="0" name="Voice of Resurgence"/>
+        <card number="1" price="0" name="Dismember"/>
+        <card number="1" price="0" name="Ad Nauseam"/>
+        <card number="1" price="0" name="Braids, Cabal Minion"/>
+        <card number="1" price="0" name="Bojuka Bog"/>
+        <card number="1" price="0" name="Reanimate"/>
+        <card number="1" price="0" name="Avacyn's Pilgrim"/>
+        <card number="1" price="0" name="Elves of Deep Shadow"/>
+        <card number="1" price="0" name="Elvish Mystic"/>
+        <card number="1" price="0" name="Fyndhorn Elves"/>
+        <card number="1" price="0" name="Llanowar Elves"/>
     </zone>
 </cockatrice_deck>

@@ -33,7 +33,6 @@
         <card number="1" price="0" name="Icequake"/>
         <card number="1" price="0" name="Sinkhole"/>
         <card number="1" price="0" name="Necromancy"/>
-        <card number="1" price="0" name="Slaughter Pact"/>
         <card number="1" price="0" name="Mind Twist"/>
         <card number="1" price="0" name="Consuming Vapors"/>
         <card number="1" price="0" name="Phyrexian Arena"/>
@@ -42,7 +41,6 @@
         <card number="1" price="0" name="Dauthi Marauder"/>
         <card number="1" price="0" name="Skinrender"/>
         <card number="1" price="0" name="Go for the Throat"/>
-        <card number="1" price="0" name="Liliana Vess"/>
         <card number="1" price="0" name="Dismember"/>
         <card number="1" price="0" name="Sheoldred, Whispering One"/>
         <card number="1" price="0" name="Dark Confidant"/>
@@ -63,5 +61,7 @@
         <card number="1" price="0" name="Pack Rat"/>
         <card number="1" price="0" name="Thrill-Kill Assassin"/>
         <card number="1" price="0" name="Despise"/>
+        <card number="1" price="0" name="Hero's Downfall"/>
+        <card number="1" price="0" name="Liliana of the Dark Realms"/>
     </zone>
 </cockatrice_deck>

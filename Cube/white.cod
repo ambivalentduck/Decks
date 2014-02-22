@@ -6,20 +6,16 @@
         <card number="1" price="0" name="Karmic Guide"/>
         <card number="1" price="0" name="Baneslayer Angel"/>
         <card number="1" price="0" name="Mother of Runes"/>
-        <card number="1" price="0" name="Elite Vanguard"/>
         <card number="1" price="0" name="Soltari Monk"/>
         <card number="1" price="0" name="Reveillark"/>
         <card number="1" price="0" name="Sun Titan"/>
         <card number="1" price="0" name="Soltari Priest"/>
-        <card number="1" price="0" name="Eternal Dragon"/>
         <card number="1" price="0" name="Exalted Angel"/>
         <card number="1" price="0" name="Yosei, the Morning Star"/>
         <card number="1" price="0" name="Isamaru, Hound of Konda"/>
         <card number="1" price="0" name="Cloudgoat Ranger"/>
         <card number="1" price="0" name="Student of Warfare"/>
         <card number="1" price="0" name="Balance"/>
-        <card number="1" price="0" name="Martial Coup"/>
-        <card number="1" price="0" name="Disenchant"/>
         <card number="1" price="0" name="Wrath of God"/>
         <card number="1" price="0" name="Worship"/>
         <card number="1" price="0" name="Day of Judgment"/>
@@ -32,9 +28,7 @@
         <card number="1" price="0" name="Path to Exile"/>
         <card number="1" price="0" name="Land Tax"/>
         <card number="1" price="0" name="Armageddon"/>
-        <card number="1" price="0" name="Glorious Anthem"/>
         <card number="1" price="0" name="Spectral Procession"/>
-        <card number="1" price="0" name="Marshal's Anthem"/>
         <card number="1" price="0" name="Mirran Crusader"/>
         <card number="1" price="0" name="Hero of Bladehold"/>
         <card number="1" price="0" name="Elspeth Tirel"/>
@@ -51,7 +45,6 @@
         <card number="1" price="0" name="Lingering Souls"/>
         <card number="1" price="0" name="Silverblade Paladin"/>
         <card number="1" price="0" name="Restoration Angel"/>
-        <card number="1" price="0" name="Flickerwisp"/>
         <card number="1" price="0" name="Elesh Norn, Grand Cenobite"/>
         <card number="1" price="0" name="Ajani, Caller of the Pride"/>
         <card number="1" price="0" name="Soltari Trooper"/>
@@ -60,8 +53,15 @@
         <card number="1" price="0" name="Ravages of War"/>
         <card number="1" price="0" name="Thalia, Guardian of Thraben"/>
         <card number="1" price="0" name="Emeria Angel"/>
-        <card number="1" price="0" name="Terminus"/>
-        <card number="1" price="0" name="Gideon, Champion of Justice"/>
         <card number="1" price="0" name="Sublime Archangel"/>
+        <card number="1" price="0" name="Frontline Medic"/>
+        <card number="1" price="0" name="Soldier of the Pantheon"/>
+        <card number="1" price="0" name="Spear of Heliod"/>
+        <card number="1" price="0" name="Steppe Lynx"/>
+        <card number="1" price="0" name="Mana Tithe"/>
+        <card number="1" price="0" name="Pianna, Nomad Captain"/>
+        <card number="1" price="0" name="Entreat the Angels"/>
+        <card number="1" price="0" name="Catastrophe"/>
+        <card number="1" price="0" name="Dismantling Blow"/>
     </zone>
 </cockatrice_deck>

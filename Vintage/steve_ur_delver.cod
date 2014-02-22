@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Black Lotus"/>
+        <card number="1" price="0" name="Mox Ruby"/>
+        <card number="1" price="0" name="Mox Sapphire"/>
+        <card number="1" price="0" name="Ancestral Recall"/>
+        <card number="1" price="0" name="Brainstorm"/>
+        <card number="4" price="0" name="Delver of Secrets"/>
+        <card number="3" price="0" name="Flusterstorm"/>
+        <card number="4" price="0" name="Force of Will"/>
+        <card number="4" price="0" name="Gush"/>
+        <card number="4" price="0" name="Mental Misstep"/>
+        <card number="1" price="0" name="Merchant Scroll"/>
+        <card number="1" price="0" name="Misdirection"/>
+        <card number="1" price="0" name="Ponder"/>
+        <card number="4" price="0" name="Preordain"/>
+        <card number="2" price="0" name="Snapcaster Mage"/>
+        <card number="2" price="0" name="Steel Sabotage"/>
+        <card number="1" price="0" name="Time Walk"/>
+        <card number="2" price="0" name="Vendilion Clique"/>
+        <card number="3" price="0" name="Lightning Bolt"/>
+        <card number="4" price="0" name="Young Pyromancer"/>
+        <card number="3" price="0" name="Island"/>
+        <card number="4" price="0" name="Polluted Delta"/>
+        <card number="4" price="0" name="Scalding Tarn"/>
+        <card number="3" price="0" name="Volcanic Island"/>
+        <card number="1" price="0" name="Fire // Ice"/>
+    </zone>
+    <zone name="side">
+        <card number="4" price="0" name="Grafdigger's Cage"/>
+        <card number="4" price="0" name="Ingot Chewer"/>
+        <card number="4" price="0" name="Leyline of the Void"/>
+        <card number="1" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Pyroblast"/>
+        <card number="1" price="0" name="Red Elemental Blast"/>
+    </zone>
+</cockatrice_deck>

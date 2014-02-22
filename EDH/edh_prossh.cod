@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Prossh, Skyraider of Kher"/>
+        <card number="1" price="0" name="Gloom"/>
+        <card number="1" price="0" name="Tsunami"/>
+        <card number="1" price="0" name="Choke"/>
+        <card number="1" price="0" name="Omen of Fire"/>
+        <card number="1" price="0" name="Boil"/>
+        <card number="1" price="0" name="Diabolic Intent"/>
+        <card number="1" price="0" name="Demonic Tutor"/>
+        <card number="1" price="0" name="Vampiric Tutor"/>
+        <card number="1" price="0" name="Fecundity"/>
+        <card number="1" price="0" name="Food Chain"/>
+        <card number="1" price="0" name="Goblin Bombardment"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Mana Crypt"/>
+        <card number="1" price="0" name="Skyshroud Claim"/>
+        <card number="1" price="0" name="Hunting Wilds"/>
+        <card number="1" price="0" name="Endrek Sahr, Master Breeder"/>
+        <card number="1" price="0" name="Kobold Taskmaster"/>
+        <card number="1" price="0" name="Chaos Warp"/>
+        <card number="1" price="0" name="Reassembling Skeleton"/>
+        <card number="1" price="0" name="Skullclamp"/>
+        <card number="1" price="0" name="Wood Elves"/>
+        <card number="1" price="0" name="Sakura-Tribe Elder"/>
+        <card number="1" price="0" name="Maelstrom Pulse"/>
+        <card number="1" price="0" name="Blood Artist"/>
+        <card number="1" price="0" name="Falkenrath Noble"/>
+        <card number="1" price="0" name="Dimir House Guard"/>
+        <card number="1" price="0" name="Pawn of Ulamog"/>
+        <card number="1" price="0" name="Marton Stromgald"/>
+        <card number="1" price="0" name="Increasing Ambition"/>
+        <card number="1" price="0" name="Beastmaster Ascension"/>
+        <card number="1" price="0" name="Fervor"/>
+        <card number="1" price="0" name="Sadistic Hypnotist"/>
+        <card number="1" price="0" name="Attrition"/>
+        <card number="1" price="0" name="Grave Pact"/>
+        <card number="1" price="0" name="Purphoros, God of the Forge"/>
+        <card number="1" price="0" name="Nim Deathmantle"/>
+    </zone>
+</cockatrice_deck>

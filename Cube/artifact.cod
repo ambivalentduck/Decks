@@ -4,7 +4,6 @@
     <comments></comments>
     <zone name="main">
         <card number="1" price="0" name="Triskelion"/>
-        <card number="1" price="0" name="Platinum Angel"/>
         <card number="1" price="0" name="Duplicant"/>
         <card number="1" price="0" name="Masticore"/>
         <card number="1" price="0" name="Razormane Masticore"/>
@@ -15,14 +14,12 @@
         <card number="1" price="0" name="Sol Ring"/>
         <card number="1" price="0" name="AEther Vial"/>
         <card number="1" price="0" name="Phyrexian Processor"/>
-        <card number="1" price="0" name="Mindslaver"/>
         <card number="1" price="0" name="Tangle Wire"/>
         <card number="1" price="0" name="Nevinyrral's Disk"/>
         <card number="1" price="0" name="Crucible of Worlds"/>
         <card number="1" price="0" name="Bonesplitter"/>
         <card number="1" price="0" name="Sensei's Divining Top"/>
         <card number="1" price="0" name="Coalition Relic"/>
-        <card number="1" price="0" name="Ensnaring Bridge"/>
         <card number="1" price="0" name="Pithing Needle"/>
         <card number="1" price="0" name="Basilisk Collar"/>
         <card number="1" price="0" name="Crystal Shard"/>
@@ -63,5 +60,8 @@
         <card number="1" price="0" name="Manriki-Gusari"/>
         <card number="1" price="0" name="Chromatic Lantern"/>
         <card number="1" price="0" name="Shrine of Burning Rage"/>
+        <card number="1" price="0" name="Ankh of Mishra"/>
+        <card number="1" price="0" name="Grafted Wargear"/>
+        <card number="1" price="0" name="Mindslaver"/>
     </zone>
 </cockatrice_deck>

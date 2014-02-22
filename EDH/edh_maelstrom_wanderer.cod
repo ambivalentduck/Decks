@@ -70,9 +70,7 @@
         <card number="1" price="0.56" name="Deadeye Navigator"/>
         <card number="1" price="9.99" name="Mana Vault"/>
         <card number="1" price="19.27" name="Grim Monolith"/>
-        <card number="1" price="0.75" name="Sylvan Primordial"/>
         <card number="1" price="1.51" name="Nature's Lore"/>
-        <card number="1" price="8.27" name="Avenger of Zendikar"/>
         <card number="1" price="1.01" name="Insurrection"/>
         <card number="1" price="2.54" name="Blatant Thievery"/>
         <card number="1" price="6.25" name="Tezzeret the Seeker"/>
@@ -91,6 +89,8 @@
         <card number="1" price="0" name="Mystic Remora"/>
         <card number="1" price="0" name="Thada Adel, Acquisitor"/>
         <card number="1" price="0" name="Devastation Tide"/>
-        <card number="1" price="0" name="Future Sight"/>
+        <card number="1" price="0" name="Wildfire"/>
+        <card number="1" price="0" name="Garruk, Primal Hunter"/>
+        <card number="1" price="0" name="Malignus"/>
     </zone>
 </cockatrice_deck>
