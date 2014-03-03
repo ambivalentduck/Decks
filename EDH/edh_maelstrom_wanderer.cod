@@ -90,7 +90,7 @@
         <card number="1" price="0" name="Thada Adel, Acquisitor"/>
         <card number="1" price="0" name="Devastation Tide"/>
         <card number="1" price="0" name="Wildfire"/>
-        <card number="1" price="0" name="Garruk, Primal Hunter"/>
         <card number="1" price="0" name="Malignus"/>
+        <card number="1" price="0" name="Greater Good"/>
     </zone>
 </cockatrice_deck>

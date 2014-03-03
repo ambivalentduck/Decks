@@ -10,16 +10,11 @@
         <card number="1" price="0" name="Goblin Matron"/>
         <card number="1" price="0" name="Mana Echoes"/>
         <card number="1" price="0" name="Shared Animosity"/>
-        <card number="1" price="0" name="Warren Instigator"/>
         <card number="1" price="0" name="Goblin Lackey"/>
         <card number="1" price="0" name="Goblin Bushwhacker"/>
         <card number="1" price="0" name="Kiki-Jiki, Mirror Breaker"/>
-        <card number="1" price="0" name="Ib Halfheart, Goblin Tactician"/>
-        <card number="1" price="0" name="Goblin Ringleader"/>
         <card number="1" price="0" name="Lightning Crafter"/>
         <card number="1" price="0" name="Goblin Welder"/>
-        <card number="1" price="0" name="Goblin Wardriver"/>
-        <card number="1" price="0" name="Stingscourger"/>
         <card number="1" price="0" name="Goblin Warchief"/>
         <card number="1" price="0" name="Goblin Recruiter"/>
         <card number="1" price="0" name="Cavern of Souls"/>
@@ -36,26 +31,21 @@
         <card number="1" price="0" name="Moggcatcher"/>
         <card number="1" price="0" name="Gempalm Incinerator"/>
         <card number="1" price="0" name="Skullclamp"/>
-        <card number="29" price="0" name="Snow-Covered Mountain"/>
+        <card number="27" price="0" name="Snow-Covered Mountain"/>
         <card number="1" price="0" name="Thousand-Year Elixir"/>
         <card number="1" price="0" name="Zealous Conscripts"/>
         <card number="1" price="0" name="Vandalblast"/>
         <card number="1" price="0" name="Helm of Possession"/>
-        <card number="1" price="0" name="Mimic Vat"/>
         <card number="1" price="0" name="Sword of the Paruns"/>
         <card number="1" price="0" name="Umbral Mantle"/>
-        <card number="1" price="0" name="Moonveil Dragon"/>
         <card number="1" price="0" name="Goblin Sharpshooter"/>
-        <card number="1" price="0" name="Anger"/>
         <card number="1" price="0" name="Valakut, the Molten Pinnacle"/>
         <card number="1" price="0" name="Thespian's Stage"/>
         <card number="1" price="0" name="Vesuva"/>
         <card number="1" price="0" name="Gamble"/>
         <card number="1" price="0" name="Memory Jar"/>
-        <card number="1" price="0" name="Goblin Lookout"/>
         <card number="1" price="0" name="Sol Ring"/>
         <card number="1" price="0" name="Mana Crypt"/>
-        <card number="1" price="0" name="Gratuitous Violence"/>
         <card number="1" price="0" name="Fervor"/>
         <card number="1" price="0" name="Swiftfoot Boots"/>
         <card number="1" price="0" name="Purphoros, God of the Forge"/>
@@ -73,5 +63,19 @@
         <card number="1" price="0" name="Goblin King"/>
         <card number="1" price="0" name="Mana Vault"/>
         <card number="1" price="0" name="Sculpting Steel"/>
+        <card number="1" price="0" name="Blood Moon"/>
+        <card number="1" price="0" name="Tower of the Magistrate"/>
+        <card number="1" price="0" name="Goblin Sledder"/>
+        <card number="1" price="0" name="Mogg War Marshal"/>
+        <card number="1" price="0" name="Siege-Gang Commander"/>
+        <card number="1" price="0" name="Staff of Domination"/>
+        <card number="1" price="0" name="Boggart Shenanigans"/>
+        <card number="1" price="0" name="Goblin Piledriver"/>
+        <card number="1" price="0" name="Hall of the Bandit Lord"/>
+        <card number="1" price="0" name="Rings of Brighthearth"/>
+        <card number="1" price="0" name="Fellwar Stone"/>
+        <card number="1" price="0" name="Splinter Twin"/>
+        <card number="1" price="0" name="Extraplanar Lens"/>
+        <card number="1" price="0" name="Imperial Recruiter"/>
     </zone>
 </cockatrice_deck>

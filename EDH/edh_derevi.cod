@@ -5,8 +5,6 @@
     <zone name="main">
         <card number="1" price="0" name="Derevi, Empyrial Tactician"/>
         <card number="1" price="0" name="Winter Orb"/>
-        <card number="1" price="0" name="Armageddon"/>
-        <card number="1" price="0" name="Ravages of War"/>
         <card number="1" price="0" name="Force of Will"/>
         <card number="1" price="0" name="Sylvan Library"/>
         <card number="1" price="0" name="Bloom Tender"/>
@@ -20,15 +18,12 @@
         <card number="1" price="0" name="Eladamri's Call"/>
         <card number="1" price="0" name="Enlightened Tutor"/>
         <card number="1" price="0" name="Green Sun's Zenith"/>
-        <card number="1" price="0" name="Natural Order"/>
         <card number="1" price="0" name="Wargate"/>
         <card number="1" price="0" name="Bribery"/>
         <card number="1" price="0" name="Glen Elendra Archmage"/>
         <card number="1" price="0" name="Prophet of Kruphix"/>
         <card number="1" price="0" name="Snapcaster Mage"/>
-        <card number="1" price="0" name="Chord of Calling"/>
         <card number="1" price="0" name="Stasis"/>
-        <card number="1" price="0" name="Misdirection"/>
         <card number="1" price="0" name="Venser, Shaper Savant"/>
         <card number="1" price="0" name="Flagstones of Trokair"/>
         <card number="1" price="0" name="Eternal Witness"/>
@@ -65,7 +60,6 @@
         <card number="1" price="0" name="Cavern of Souls"/>
         <card number="1" price="0" name="Horizon Canopy"/>
         <card number="1" price="0" name="Serra Ascendant"/>
-        <card number="1" price="0" name="Kataki, War's Wage"/>
         <card number="1" price="0" name="Avacyn's Pilgrim"/>
         <card number="1" price="0" name="Noble Hierarch"/>
         <card number="1" price="0" name="Edric, Spymaster of Trest"/>
@@ -73,8 +67,6 @@
         <card number="1" price="0" name="Reveillark"/>
         <card number="1" price="0" name="Llanowar Elves"/>
         <card number="1" price="0" name="Fyndhorn Elves"/>
-        <card number="1" price="0" name="Ohran Viper"/>
-        <card number="1" price="0" name="Geist of Saint Traft"/>
         <card number="1" price="0" name="Mystic Gate"/>
         <card number="1" price="0" name="Flooded Grove"/>
         <card number="1" price="0" name="Wooded Bastion"/>
@@ -89,24 +81,25 @@
         <card number="1" price="0" name="Stoneforge Mystic"/>
         <card number="1" price="0" name="Sword of Feast and Famine"/>
         <card number="1" price="0" name="Tandem Lookout"/>
-        <card number="1" price="0" name="Condescend"/>
-        <card number="1" price="0" name="Mentor of the Meek"/>
         <card number="1" price="0" name="Birds of Paradise"/>
         <card number="1" price="0" name="Archangel of Thune"/>
         <card number="1" price="0" name="Spike Feeder"/>
-        <card number="1" price="0" name="Trinket Mage"/>
         <card number="1" price="0" name="Mirran Crusader"/>
         <card number="1" price="0" name="Silverblade Paladin"/>
         <card number="1" price="0" name="Beastmaster Ascension"/>
-        <card number="1" price="0" name="Envelop"/>
-        <card number="1" price="0" name="Seaside Citadel"/>
         <card number="1" price="0" name="Gavony Township"/>
         <card number="1" price="0" name="Voidmage Prodigy"/>
         <card number="1" price="0" name="Brimaz, King of Oreskos"/>
         <card number="1" price="0" name="Fabricate"/>
         <card number="1" price="0" name="Roon of the Hidden Realm"/>
-        <card number="1" price="0" name="Smokestack"/>
-        <card number="1" price="0" name="Opposition"/>
-        <card number="1" price="0" name="Venser, the Sojourner"/>
+        <card number="1" price="0" name="Kataki, War's Wage"/>
+        <card number="1" price="0" name="Energy Flux"/>
+        <card number="1" price="0" name="Fauna Shaman"/>
+        <card number="1" price="0" name="Batterskull"/>
+        <card number="1" price="0" name="Coastal Piracy"/>
+        <card number="1" price="0" name="Patron Wizard"/>
+        <card number="1" price="0" name="Counterspell"/>
+        <card number="1" price="0" name="Gaddock Teeg"/>
+        <card number="1" price="0" name="City of Brass"/>
     </zone>
 </cockatrice_deck>
